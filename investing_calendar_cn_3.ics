@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Investing.com//Economic Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Shanghai
+X-WR-CALNAME:英为财经 中国 (重要性>=3)
+BEGIN:VEVENT
+UID:9ac779fb-8db1-44a3-956f-662542254a8d@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260304T093000
+SUMMARY:中国官方制造业PMI
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 49.0\n预期: 49.1\n前值: 49.3\n周期: 二月\n详细: 中国官方制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/chinese-manufacturing-pmi-594\n来源: China Federation of Logistics & Purchasing (CFLP)
+END:VEVENT
+BEGIN:VEVENT
+UID:22cd6b80-517f-45f7-bc53-ed0488f5e119@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260304T093000
+SUMMARY:中国官方非制造业PMI
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 49.5\n预期: 49.8\n前值: 49.4\n周期: 二月\n详细: 中国官方非制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/chinese-non-manufacturing-pmi-831\n来源: China Federation of Logistics and Purchasing (CFLP)
+END:VEVENT
+BEGIN:VEVENT
+UID:f9ee5fad-bced-4a94-a0f2-985a547e87f9@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260304T094500
+SUMMARY:中国财新制造业PMI (月度环比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 52.1\n预期: 50.1\n前值: 50.3\n周期: 月度环比\n详细: 中国财新制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/chinese-caixin-manufacturing-pmi-753\n来源: S&P Global
+END:VEVENT
+BEGIN:VEVENT
+UID:458b2dd4-491e-4860-8ef9-8537340bfc79@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260309T093000
+SUMMARY:中国CPI月率(%) (月度环比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 1.0 %\n预期: -\n前值: 0.2 %\n周期: 月度环比\n详细: 中国居民消费价格指数(CPI)月率\n链接: https://investing.com/economic-calendar/chinese-cpi-743\n来源: National Bureau of Statistics of China
+END:VEVENT
+BEGIN:VEVENT
+UID:acf73544-7ef3-4daa-9103-a3aaed9f05ff@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260309T093000
+SUMMARY:中国PPI年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -0.9 %\n预期: -1.1 %\n前值: -1.4 %\n周期: 同比\n详细: 中国生产者物价指数(PPI)年率\n链接: https://investing.com/economic-calendar/chinese-ppi-464\n来源: National Bureau of Statistics of China
+END:VEVENT
+BEGIN:VEVENT
+UID:31f66243-b2a0-48ca-8d17-6261f34f5168@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260309T093000
+SUMMARY:中国CPI年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 1.3 %\n预期: 0.9 %\n前值: 0.2 %\n周期: 同比\n详细: 中国居民消费价格指数(CPI)年率\n链接: https://investing.com/economic-calendar/chinese-cpi-459\n来源: National Bureau of Statistics of China
+END:VEVENT
+BEGIN:VEVENT
+UID:776a7cbb-644e-4ec1-be8f-69307d61870a@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260310T110000
+SUMMARY:中国贸易帐 (美元)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 213.62 B\n预期: 177.40 B\n前值: 114.11 B\n周期: 二月\n链接: https://investing.com/economic-calendar/chinese-trade-balance-466\n来源: General Administration of Customs People Republic of China
+END:VEVENT
+BEGIN:VEVENT
+UID:0b6879d6-f464-49bd-8b39-6491c8eeadb3@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260316T100000
+SUMMARY:中国失业率
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 5.3 %\n预期: 5.1 %\n前值: 5.1 %\n周期: 二月\n链接: https://investing.com/economic-calendar/chinese-unemployment-rate-1793\n来源: National Bureau of Statistics of China
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ce8c06-b8a4-49b5-b7dc-d8451343cc23@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260316T100000
+SUMMARY:中国规模以上工业增加值年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 6.3 %\n预期: 5.3 %\n前值: 5.2 %\n周期: 同比\n详细: 中国规模以上工业增加值年率\n链接: https://investing.com/economic-calendar/chinese-industrial-production-462\n来源: National Bureau of Statistics of China
+END:VEVENT
+BEGIN:VEVENT
+UID:990fa2d9-ead4-49d3-ae9e-b1b3ed22fd93@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260320T090000
+SUMMARY:中国央行贷款市场报价利率(LPR)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 3.50 %\n预期: 3.50 %\n前值: 3.50 %\n周期: 三月\n详细: 中国央行5年期贷款市场报价利率(LPR)\n链接: https://investing.com/economic-calendar/china-loan-prime-rate-5y-2225\n来源: People's Bank of China
+END:VEVENT
+BEGIN:VEVENT
+UID:7417896a-ce06-407d-85c5-10bd33283a7f@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260331T093000
+SUMMARY:中国官方非制造业PMI
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 50.1\n预期: 49.9\n前值: 49.5\n周期: 三月\n详细: 中国官方非制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/chinese-non-manufacturing-pmi-831\n来源: China Federation of Logistics and Purchasing (CFLP)
+END:VEVENT
+BEGIN:VEVENT
+UID:20407c16-b7b5-42ee-a954-a12b1c657a4e@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260331T093000
+SUMMARY:中国官方制造业PMI
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 50.4\n预期: 50.1\n前值: 49.0\n周期: 三月\n详细: 中国官方制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/chinese-manufacturing-pmi-594\n来源: China Federation of Logistics & Purchasing (CFLP)
+END:VEVENT
+BEGIN:VEVENT
+UID:a44935aa-e313-46c9-a080-e4e940ceaed3@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260401T094500
+SUMMARY:中国财新制造业PMI (月度环比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: 51.6\n前值: 52.1\n周期: 月度环比\n详细: 中国财新制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/chinese-caixin-manufacturing-pmi-753\n来源: S&P Global
+END:VEVENT
+BEGIN:VEVENT
+UID:ac50df2a-16cd-44c5-8547-5c9714282b05@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260410T093000
+SUMMARY:中国CPI月率(%) (月度环比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 1.0 %\n周期: 月度环比\n详细: 中国居民消费价格指数(CPI)月率\n链接: https://investing.com/economic-calendar/chinese-cpi-743\n来源: National Bureau of Statistics of China
+END:VEVENT
+BEGIN:VEVENT
+UID:5bd76d60-12e4-4a3f-9f2e-e1996e7b8663@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260410T093000
+SUMMARY:中国CPI年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 1.3 %\n周期: 同比\n详细: 中国居民消费价格指数(CPI)年率\n链接: https://investing.com/economic-calendar/chinese-cpi-459\n来源: National Bureau of Statistics of China
+END:VEVENT
+BEGIN:VEVENT
+UID:89f531c1-26d4-4e4b-8982-285e49d91991@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260410T093000
+SUMMARY:中国PPI年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -0.9 %\n周期: 同比\n详细: 中国生产者物价指数(PPI)年率\n链接: https://investing.com/economic-calendar/chinese-ppi-464\n来源: National Bureau of Statistics of China
+END:VEVENT
+BEGIN:VEVENT
+UID:aa0c844c-3b1c-43f3-8a98-4511141bbff8@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260414T110001
+SUMMARY:中国贸易帐 (美元)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 213.62 B\n周期: 三月\n链接: https://investing.com/economic-calendar/chinese-trade-balance-466\n来源: General Administration of Customs People Republic of China
+END:VEVENT
+BEGIN:VEVENT
+UID:42951c0b-2729-4220-8a77-db4b8a4a3b25@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260416T100000
+SUMMARY:中国季度GDP年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 4.5 %\n周期: 同比\n详细: 中国季度国内生产总值(GDP)年率\n链接: https://investing.com/economic-calendar/chinese-gdp-461\n来源: National Bureau of Statistics of China
+END:VEVENT
+BEGIN:VEVENT
+UID:19ca711e-505a-4e82-8d85-bb5145c6583b@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260416T100000
+SUMMARY:中国失业率
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 5.3 %\n周期: 三月\n链接: https://investing.com/economic-calendar/chinese-unemployment-rate-1793\n来源: National Bureau of Statistics of China
+END:VEVENT
+BEGIN:VEVENT
+UID:5918eabb-01c3-4d48-b759-283a692a3d0d@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260416T100000
+SUMMARY:中国GDP季率(%) (季度环比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 1.2 %\n周期: 季度环比\n详细: 中国国内生产总值(GDP)季率\n链接: https://investing.com/economic-calendar/chinese-gdp-868\n来源: National Bureau of Statistics China
+END:VEVENT
+BEGIN:VEVENT
+UID:76c3487f-6d66-459c-943a-58a57dae830f@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260416T100000
+SUMMARY:中国规模以上工业增加值年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 6.3 %\n周期: 同比\n详细: 中国规模以上工业增加值年率\n链接: https://investing.com/economic-calendar/chinese-industrial-production-462\n来源: National Bureau of Statistics of China
+END:VEVENT
+BEGIN:VEVENT
+UID:09712fc9-bd47-4e6e-872f-84bf3ab3fa47@investing.com
+DTSTAMP:20260331T102411Z
+DTSTART;TZID=Asia/Shanghai:20260420T090000
+SUMMARY:中国央行贷款市场报价利率(LPR)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 3.50 %\n周期: 四月\n详细: 中国央行5年期贷款市场报价利率(LPR)\n链接: https://investing.com/economic-calendar/china-loan-prime-rate-5y-2225\n来源: People's Bank of China
+END:VEVENT
+END:VCALENDAR

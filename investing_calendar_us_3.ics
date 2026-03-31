@@ -1,0 +1,512 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Investing.com//Economic Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Shanghai
+X-WR-CALNAME:英为财经 美国 (重要性>=3)
+BEGIN:VEVENT
+UID:412f46e8-7cc6-4a78-8ee5-b2f30784b9f3@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260302T224500
+SUMMARY:美国Markit制造业PMI
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 51.6\n预期: 51.2\n前值: 51.2\n详细: 美国Markit制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/manufacturing-pmi-829\n来源: S&P Global
+END:VEVENT
+BEGIN:VEVENT
+UID:9a19cc71-fced-4162-9194-0c9570782b1e@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260302T230000
+SUMMARY:美国ISM制造业PMI
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 52.4\n预期: 51.7\n前值: 52.6\n周期: 二月\n链接: https://investing.com/economic-calendar/ism-manufacturing-pmi-173\n来源: Institute for Supply Management 
+END:VEVENT
+BEGIN:VEVENT
+UID:5d2cee66-78c1-4f28-812f-408ffc911f1a@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260303T000000
+SUMMARY:美国总统特朗普(Donald Trump)讲话
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House
+END:VEVENT
+BEGIN:VEVENT
+UID:921c5d3f-7fe0-4db6-aa0c-7ccca920c084@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260304T211500
+SUMMARY:美国ADP就业人数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 63 K\n预期: 50 K\n前值: 11 K\n周期: 二月\n链接: https://investing.com/economic-calendar/adp-nonfarm-employment-change-1\n来源: Automatic Data Processing (ADP)
+END:VEVENT
+BEGIN:VEVENT
+UID:38391e2d-84eb-4b9c-9820-bfe9eedd3151@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260304T224500
+SUMMARY:美国Markit服务业PMI
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 51.7\n预期: 52.3\n前值: 52.7\n详细: 美国Markit服务业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/services-pmi-1062\n来源: S&P Global
+END:VEVENT
+BEGIN:VEVENT
+UID:e061c88e-deb1-428d-a126-eab6e148c131@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260304T230000
+SUMMARY:美国ISM非制造业PMI
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 56.1\n预期: 53.5\n前值: 53.8\n周期: 二月\n链接: https://investing.com/economic-calendar/ism-non-manufacturing-pmi-176\n来源: Institute for Supply Management
+END:VEVENT
+BEGIN:VEVENT
+UID:a16ad08c-daaa-4db4-bbb2-cccb6ed88fd7@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260304T233000
+SUMMARY:美国当周EIA原油库存变动(桶)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 3.475 M\n预期: 3.000 M\n前值: 15.989 M\n详细: 美国当周EIA原油库存变动\n链接: https://investing.com/economic-calendar/eia-crude-oil-inventories-75\n来源: U.S. Energy Information Administration
+END:VEVENT
+BEGIN:VEVENT
+UID:99a42b35-d473-446c-96ee-f2d66046493f@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260305T213000
+SUMMARY:美国初请失业金人数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 213 K\n预期: 215 K\n前值: 213 K\n链接: https://investing.com/economic-calendar/initial-jobless-claims-294\n来源: Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:f7744014-21cb-42eb-95a3-3ddfe894cf29@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260306T213000
+SUMMARY:美国零售销售月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -0.2 %\n预期: -0.3 %\n前值: 0.0 %\n周期: 月度环比\n详细: 美国零售销售月率\n链接: https://investing.com/economic-calendar/retail-sales-256\n来源: U.S. Census Bureau
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b1ebc0-2e0a-45e6-afdb-3473fb741f6e@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260306T213000
+SUMMARY:美国核心零售销售月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 0.0 %\n预期: 0.1 %\n前值: 0.0 %\n周期: 月度环比\n详细: 美国核心零售销售月率\n链接: https://investing.com/economic-calendar/core-retail-sales-63\n来源: U.S. Census Bureau
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3dce5d-3cbe-47be-ae3c-049e4c81363c@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260306T213000
+SUMMARY:美国平均每小时工资月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 0.4 %\n预期: 0.3 %\n前值: 0.4 %\n周期: 月度环比\n详细: 美国平均每小时工资月率\n链接: https://investing.com/economic-calendar/average-hourly-earnings-8\n来源: U.S. Bureau of Labor Statistics\, Department of Labor 
+END:VEVENT
+BEGIN:VEVENT
+UID:8a6d764b-e20a-4be3-b314-2094c6622c3c@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260306T213000
+SUMMARY:美国季调后非农就业人口变动
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -92 K\n预期: 58 K\n前值: 126 K\n周期: 二月\n链接: https://investing.com/economic-calendar/nonfarm-payrolls-227\n来源: Bureau of Labor Statistics
+END:VEVENT
+BEGIN:VEVENT
+UID:63f90678-4128-44ff-b036-84f1a7b59f80@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260306T213000
+SUMMARY:美国失业率
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 4.4 %\n预期: 4.3 %\n前值: 4.3 %\n周期: 二月\n链接: https://investing.com/economic-calendar/unemployment-rate-300\n来源: Bureau of Labor Statistics
+END:VEVENT
+BEGIN:VEVENT
+UID:84654fec-f57c-40b5-a362-22e2fe9b3fda@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260310T220000
+SUMMARY:美国成屋销售年化总数(户)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 4.09 M\n预期: 3.89 M\n前值: 4.02 M\n周期: 二月\n详细: 美国成屋销售年化总数\n链接: https://investing.com/economic-calendar/existing-home-sales-99\n来源: National Association of Realtors
+END:VEVENT
+BEGIN:VEVENT
+UID:f495f23c-dd41-49dd-9702-d091c5004b02@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260311T203000
+SUMMARY:美国核心CPI月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 0.2 %\n预期: 0.2 %\n前值: 0.3 %\n周期: 月度环比\n详细: 美国核心居民消费价格指数(CPI)月率\n链接: https://investing.com/economic-calendar/core-cpi-56\n来源: U.S Bureau of Labor Statistics - Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:8a000af8-53ed-4da3-bb85-bb7bc8e0fcd3@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260311T203000
+SUMMARY:美国CPI月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 0.3 %\n预期: 0.3 %\n前值: 0.2 %\n周期: 月度环比\n详细: 美国居民消费价格指数(CPI)月率\n链接: https://investing.com/economic-calendar/cpi-69\n来源: U.S Bureau of Labor Statistics - Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:5195df5c-becf-451b-8b1f-475de9ad03f4@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260311T203000
+SUMMARY:美国未季调CPI年率(%) (同比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 2.4 %\n预期: 2.4 %\n前值: 2.4 %\n周期: 同比\n详细: 美国未季调居民消费价格指数(CPI)年率\n链接: https://investing.com/economic-calendar/cpi-733\n来源: U.S Bureau of Labor Statistics - Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:cf3a62b0-e5b6-4fc6-9349-7e171337c6f1@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260311T223000
+SUMMARY:美国当周EIA原油库存变动(桶)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 3.824 M\n预期: 2.800 M\n前值: 3.475 M\n详细: 美国当周EIA原油库存变动\n链接: https://investing.com/economic-calendar/eia-crude-oil-inventories-75\n来源: U.S. Energy Information Administration
+END:VEVENT
+BEGIN:VEVENT
+UID:c48e4c4b-2529-4ec0-9d11-5f832f0d4f74@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260312T042500
+SUMMARY:美国总统特朗普(Donald Trump)讲话
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House
+END:VEVENT
+BEGIN:VEVENT
+UID:9bf57fd2-f8f5-43ff-8aae-d32c7d4b407b@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260312T203000
+SUMMARY:美国初请失业金人数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 213 K\n预期: 214 K\n前值: 214 K\n链接: https://investing.com/economic-calendar/initial-jobless-claims-294\n来源: Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:b3a6a881-f8dc-443e-9d40-e0cc0a390a30@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260313T203000
+SUMMARY:美国核心PCE物价指数月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 0.4 %\n预期: 0.4 %\n前值: 0.4 %\n周期: 月度环比\n详细: 美国核心PCE物价指数月率\n链接: https://investing.com/economic-calendar/core-pce-price-index-61\n来源: Bureau of Economic Analysis
+END:VEVENT
+BEGIN:VEVENT
+UID:34d27c8e-fe01-4ae9-a6b8-31ef3fd79f6a@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260313T203000
+SUMMARY:美国核心PCE物价指数年化季率(%) (同比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 3.1 %\n预期: 3.1 %\n前值: 3.0 %\n周期: 同比\n详细: 美国核心个人消费支出平减指数(PCE)年化季率\n链接: https://investing.com/economic-calendar/core-pce-price-index-905\n来源: Bureau of Economic Analysis
+END:VEVENT
+BEGIN:VEVENT
+UID:ad5061c5-465b-4073-96ef-9a7b795502f5@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260313T203000
+SUMMARY:美国实际GDP年化季率 (季度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 0.7 %\n预期: 1.4 %\n前值: 4.4 %\n周期: 季度环比\n详细: 美国实际国内生产总值(GDP) 年化季率\n链接: https://investing.com/economic-calendar/gdp-375\n来源: Bureau of Economic Analysis
+END:VEVENT
+BEGIN:VEVENT
+UID:141da654-fc44-4008-9e58-b86754339f37@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260313T220000
+SUMMARY:美国JOLTS职位空缺
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 6.946 M\n预期: 6.760 M\n前值: 6.550 M\n周期: 一月\n详细: 美国劳工流动调查报告(JOLTS)职位空缺\n链接: https://investing.com/economic-calendar/jolts-job-openings-1057\n来源: Bureau of Labor Statistics
+END:VEVENT
+BEGIN:VEVENT
+UID:b8601c17-d1ea-4822-a5a2-ebdfe28f0bb0@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260316T233000
+SUMMARY:美国总统特朗普(Donald Trump)讲话
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House
+END:VEVENT
+BEGIN:VEVENT
+UID:3662b994-bf8b-4d6c-943e-ed461b08816d@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260317T233000
+SUMMARY:美国总统特朗普(Donald Trump)讲话
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House
+END:VEVENT
+BEGIN:VEVENT
+UID:2bf0dcc7-a2ba-4557-ab39-73ed9713208a@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260318T203000
+SUMMARY:美国PPI月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 0.7 %\n预期: 0.3 %\n前值: 0.5 %\n周期: 月度环比\n详细: 美国生产者物价指数(PPI)月率\n链接: https://investing.com/economic-calendar/ppi-238\n来源:  U.S Bureau of Labor Statistics - Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:20e7b5af-40ef-402a-8c6c-3703c973f38e@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260318T223000
+SUMMARY:美国当周EIA原油库存变动(桶)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 6.156 M\n预期: -1.500 M\n前值: 3.824 M\n详细: 美国当周EIA原油库存变动\n链接: https://investing.com/economic-calendar/eia-crude-oil-inventories-75\n来源: U.S. Energy Information Administration
+END:VEVENT
+BEGIN:VEVENT
+UID:429a0291-aada-4f65-84b5-56cb3a66d0fb@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260319T020000
+SUMMARY:美联储FOMC货币政策声明
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/fomc-statement-398\n来源: Federal Reserve
+END:VEVENT
+BEGIN:VEVENT
+UID:5ba32492-5041-4dea-9e09-f32dc03e5b11@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260319T020000
+SUMMARY:美联储FOMC经济预测
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n详细: 美国联邦公开市场委员会(FOMC)经济预测\n链接: https://investing.com/economic-calendar/fomc-economic-projections-1061\n来源: Federal Reserve
+END:VEVENT
+BEGIN:VEVENT
+UID:a087c525-48a2-4e4e-8e5e-b8509800132b@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260319T020000
+SUMMARY:美联储利率决议
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 3.75 %\n预期: 3.75 %\n前值: 3.75 %\n链接: https://investing.com/economic-calendar/interest-rate-decision-168\n来源: Federal Reserve
+END:VEVENT
+BEGIN:VEVENT
+UID:a13bae54-fed0-40f3-87df-89631aa6687c@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260319T023000
+SUMMARY:美国联邦公开市场委员会新闻发布会
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n详细: 美国联邦公开市场委员会(FOMC)新闻发布会\n链接: https://investing.com/economic-calendar/fomc-press-conference-1692\n来源: Federal Reserve
+END:VEVENT
+BEGIN:VEVENT
+UID:c6cf974d-2dac-4ad1-91e5-3055f94dc63a@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260319T203000
+SUMMARY:美国费城联储制造业指数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 18.1\n预期: 8.3\n前值: 16.3\n周期: 三月\n链接: https://investing.com/economic-calendar/philadelphia-fed-manufacturing-index-236\n来源: Federal Reserve Bank of Philadelphia 
+END:VEVENT
+BEGIN:VEVENT
+UID:10b4dad4-201a-4813-926e-c4aec4e68ead@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260319T203000
+SUMMARY:美国初请失业金人数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 205 K\n预期: 215 K\n前值: 213 K\n链接: https://investing.com/economic-calendar/initial-jobless-claims-294\n来源: Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:49a4432b-d4f0-4a19-8639-851d5e5ca24c@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260319T220000
+SUMMARY:美国季调后新屋销售年化总数(户)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 587 K\n预期: 722 K\n前值: 712 K\n周期: 一月\n详细: 美国季调后新屋销售年化总数\n链接: https://investing.com/economic-calendar/new-home-sales-222\n来源: U.S. Census Bureau
+END:VEVENT
+BEGIN:VEVENT
+UID:506a41d5-fe9d-4d7d-b26a-617817614161@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260321T223000
+SUMMARY:美联储主席鲍威尔(Jerome Powell)讲话
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n详细: 美国联邦储备委员会主席鲍威尔(Jerome Powell)讲话\n链接: https://investing.com/economic-calendar/fed-chair-powell-speaks-1738\n来源: Federal Reserve
+END:VEVENT
+BEGIN:VEVENT
+UID:752b1c1d-3f98-45eb-b336-61a29a93f6e5@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260323T213000
+SUMMARY:美国总统特朗普(Donald Trump)讲话
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House
+END:VEVENT
+BEGIN:VEVENT
+UID:08bf3fb2-b06a-4437-a0f7-bac29dbe62ee@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260324T214500
+SUMMARY:美国Markit制造业PMI
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 52.4\n预期: 51.5\n前值: 51.6\n周期: 三月\n详细: 美国Markit制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/manufacturing-pmi-829\n来源: S&P Global
+END:VEVENT
+BEGIN:VEVENT
+UID:71ebfbc3-ce89-4976-94f2-6e857d92eb02@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260324T214500
+SUMMARY:美国Markit服务业PMI
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 51.1\n预期: 52.0\n前值: 51.7\n周期: 三月\n详细: 美国Markit服务业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/services-pmi-1062\n来源: S&P Global
+END:VEVENT
+BEGIN:VEVENT
+UID:981d255a-fefd-40f8-bd34-c400873e32c6@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260325T223000
+SUMMARY:美国当周EIA原油库存变动(桶)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 6.926 M\n预期: -1.300 M\n前值: 6.156 M\n详细: 美国当周EIA原油库存变动\n链接: https://investing.com/economic-calendar/eia-crude-oil-inventories-75\n来源: U.S. Energy Information Administration
+END:VEVENT
+BEGIN:VEVENT
+UID:4eeb3ab1-20c4-42f9-b3c3-9d70a6461c30@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260326T072000
+SUMMARY:美国总统特朗普(Donald Trump)讲话
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House
+END:VEVENT
+BEGIN:VEVENT
+UID:434ae188-4d4a-4f2f-b349-cd4b3b02daec@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260326T203000
+SUMMARY:美国初请失业金人数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 210 K\n预期: 211 K\n前值: 205 K\n链接: https://investing.com/economic-calendar/initial-jobless-claims-294\n来源: Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd488f5-4312-4ed8-ba65-4471af6432d3@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260327T030000
+SUMMARY:美国总统特朗普(Donald Trump)讲话
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House
+END:VEVENT
+BEGIN:VEVENT
+UID:1dc1bf24-83d8-488b-b8db-31620c076aec@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260327T040000
+SUMMARY:美国总统特朗普(Donald Trump)讲话
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House
+END:VEVENT
+BEGIN:VEVENT
+UID:a65090f7-045c-4729-a237-4bc33a4da7be@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260328T053000
+SUMMARY:美国总统特朗普(Donald Trump)讲话
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House
+END:VEVENT
+BEGIN:VEVENT
+UID:2e3a7ed9-4931-4576-a6ab-5fb92d4d7280@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260330T063000
+SUMMARY:美国总统特朗普(Donald Trump)讲话
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House
+END:VEVENT
+BEGIN:VEVENT
+UID:3f4ab691-eb63-4466-9282-d6f3ba1949ed@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260330T223000
+SUMMARY:美联储主席鲍威尔(Jerome Powell)讲话
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n详细: 美国联邦储备委员会主席鲍威尔(Jerome Powell)讲话\n链接: https://investing.com/economic-calendar/fed-chair-powell-speaks-1738\n来源: Federal Reserve
+END:VEVENT
+BEGIN:VEVENT
+UID:27304e8f-d193-4aca-a9ee-b2b2b51b76c5@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260331T220000
+SUMMARY:美国谘商会消费者信心指数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 87.8\n前值: 91.2\n周期: 三月\n链接: https://investing.com/economic-calendar/cb-consumer-confidence-48\n来源: Conference Board
+END:VEVENT
+BEGIN:VEVENT
+UID:fc37d9d1-e6ff-4396-a538-b0a79c58092d@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260331T220000
+SUMMARY:美国JOLTS职位空缺
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 6.890 M\n前值: 6.946 M\n周期: 二月\n详细: 美国劳工流动调查报告(JOLTS)职位空缺\n链接: https://investing.com/economic-calendar/jolts-job-openings-1057\n来源: Bureau of Labor Statistics
+END:VEVENT
+BEGIN:VEVENT
+UID:4814f3d3-3301-499d-9c33-c8be886107bd@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260401T201500
+SUMMARY:美国ADP就业人数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 42 K\n前值: 63 K\n周期: 三月\n链接: https://investing.com/economic-calendar/adp-nonfarm-employment-change-1\n来源: Automatic Data Processing (ADP)
+END:VEVENT
+BEGIN:VEVENT
+UID:16f396bb-7586-4b36-bbeb-eb80ba1c2e64@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260401T203000
+SUMMARY:美国零售销售月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 0.4 %\n前值: -0.2 %\n周期: 月度环比\n详细: 美国零售销售月率\n链接: https://investing.com/economic-calendar/retail-sales-256\n来源: U.S. Census Bureau
+END:VEVENT
+BEGIN:VEVENT
+UID:c34dc3d4-f13a-424e-bf17-e071125e255b@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260401T203000
+SUMMARY:美国核心零售销售月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 0.3 %\n前值: 0.0 %\n周期: 月度环比\n详细: 美国核心零售销售月率\n链接: https://investing.com/economic-calendar/core-retail-sales-63\n来源: U.S. Census Bureau
+END:VEVENT
+BEGIN:VEVENT
+UID:e36bb97c-d383-423f-9631-6b490cebeac6@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260401T214500
+SUMMARY:美国Markit制造业PMI
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 52.4\n前值: 52.4\n周期: 三月\n详细: 美国Markit制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/manufacturing-pmi-829\n来源: S&P Global
+END:VEVENT
+BEGIN:VEVENT
+UID:9c15b0f2-d052-418f-b6e8-dc3a209682e5@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260401T220000
+SUMMARY:美国ISM制造业PMI
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 52.3\n前值: 52.4\n周期: 三月\n链接: https://investing.com/economic-calendar/ism-manufacturing-pmi-173\n来源: Institute for Supply Management 
+END:VEVENT
+BEGIN:VEVENT
+UID:218868c2-08ca-49b8-87cc-c5ed513fbd74@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260401T223000
+SUMMARY:美国当周EIA原油库存变动(桶)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 6.926 M\n详细: 美国当周EIA原油库存变动\n链接: https://investing.com/economic-calendar/eia-crude-oil-inventories-75\n来源: U.S. Energy Information Administration
+END:VEVENT
+BEGIN:VEVENT
+UID:2cb8d453-7abd-4289-9fca-04e563bfc147@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260402T203000
+SUMMARY:美国初请失业金人数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 212 K\n前值: 210 K\n链接: https://investing.com/economic-calendar/initial-jobless-claims-294\n来源: Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:29c08b30-99e9-4fda-ba73-f56a8ff91b92@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260403T203000
+SUMMARY:美国季调后非农就业人口变动
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 56 K\n前值: -92 K\n周期: 三月\n链接: https://investing.com/economic-calendar/nonfarm-payrolls-227\n来源: Bureau of Labor Statistics
+END:VEVENT
+BEGIN:VEVENT
+UID:0e883c21-c678-4137-b0f3-7437a2646602@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260403T203000
+SUMMARY:美国失业率
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 4.4 %\n前值: 4.4 %\n周期: 三月\n链接: https://investing.com/economic-calendar/unemployment-rate-300\n来源: Bureau of Labor Statistics
+END:VEVENT
+BEGIN:VEVENT
+UID:9df61a9e-9dc7-4261-b46b-38934ca49d59@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260403T203000
+SUMMARY:美国平均每小时工资月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 0.3 %\n前值: 0.4 %\n周期: 月度环比\n详细: 美国平均每小时工资月率\n链接: https://investing.com/economic-calendar/average-hourly-earnings-8\n来源: U.S. Bureau of Labor Statistics\, Department of Labor 
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c2e801-5d5f-4afc-988c-c8c048971b1a@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260403T214500
+SUMMARY:美国Markit服务业PMI
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 51.1\n前值: 51.1\n周期: 三月\n详细: 美国Markit服务业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/services-pmi-1062\n来源: S&P Global
+END:VEVENT
+BEGIN:VEVENT
+UID:ffb088b5-a598-4c59-b30c-5a8c6dab8315@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260406T220000
+SUMMARY:美国ISM非制造业PMI
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 56.1\n周期: 三月\n链接: https://investing.com/economic-calendar/ism-non-manufacturing-pmi-176\n来源: Institute for Supply Management
+END:VEVENT
+BEGIN:VEVENT
+UID:967eae8c-c4ae-4a66-8169-42a00e5d1f62@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260407T203000
+SUMMARY:美国初请失业金人数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/initial-jobless-claims-294\n来源: Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:74f86110-66bc-41b9-bb85-1e6f2c40ebff@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260409T203000
+SUMMARY:美国实际GDP年化季率 (季度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 0.7 %\n周期: 季度环比\n详细: 美国实际国内生产总值(GDP) 年化季率\n链接: https://investing.com/economic-calendar/gdp-375\n来源: Bureau of Economic Analysis
+END:VEVENT
+BEGIN:VEVENT
+UID:90a0c69f-b7f4-4ce9-8c92-12d41135055f@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260409T203000
+SUMMARY:美国核心PCE物价指数月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 0.4 %\n周期: 月度环比\n详细: 美国核心PCE物价指数月率\n链接: https://investing.com/economic-calendar/core-pce-price-index-61\n来源: Bureau of Economic Analysis
+END:VEVENT
+BEGIN:VEVENT
+UID:03e9541b-cde1-47e4-9b8d-11ae1c3823a4@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260409T203000
+SUMMARY:美国核心PCE物价指数年化季率(%) (同比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 3.1 %\n周期: 同比\n详细: 美国核心个人消费支出平减指数(PCE)年化季率\n链接: https://investing.com/economic-calendar/core-pce-price-index-905\n来源: Bureau of Economic Analysis
+END:VEVENT
+BEGIN:VEVENT
+UID:36b9d23f-460c-45cc-95ba-81599075611c@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260410T203000
+SUMMARY:美国CPI月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 0.3 %\n周期: 月度环比\n详细: 美国居民消费价格指数(CPI)月率\n链接: https://investing.com/economic-calendar/cpi-69\n来源: U.S Bureau of Labor Statistics - Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:d2abbf27-32a2-48f3-ac29-a88d17d846c4@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260410T203000
+SUMMARY:美国核心CPI月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 0.2 %\n周期: 月度环比\n详细: 美国核心居民消费价格指数(CPI)月率\n链接: https://investing.com/economic-calendar/core-cpi-56\n来源: U.S Bureau of Labor Statistics - Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:fc1a384a-7077-4bce-8c82-a9bf67cbaaf5@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260410T203000
+SUMMARY:美国未季调CPI年率(%) (同比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 2.4 %\n周期: 同比\n详细: 美国未季调居民消费价格指数(CPI)年率\n链接: https://investing.com/economic-calendar/cpi-733\n来源: U.S Bureau of Labor Statistics - Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:a6f60de3-4158-4d00-95f9-bc157847bc67@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260413T220000
+SUMMARY:美国成屋销售年化总数(户)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 4.09 M\n周期: 三月\n详细: 美国成屋销售年化总数\n链接: https://investing.com/economic-calendar/existing-home-sales-99\n来源: National Association of Realtors
+END:VEVENT
+BEGIN:VEVENT
+UID:2fa53c78-cd8a-4dcf-a738-adc96130d4b1@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260414T203000
+SUMMARY:美国PPI月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 0.7 %\n周期: 月度环比\n详细: 美国生产者物价指数(PPI)月率\n链接: https://investing.com/economic-calendar/ppi-238\n来源:  U.S Bureau of Labor Statistics - Department of Labor
+END:VEVENT
+BEGIN:VEVENT
+UID:271d92fa-fcd9-41e3-a483-5ac6d14dea6e@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260416T203000
+SUMMARY:美国费城联储制造业指数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 18.1\n周期: 四月\n链接: https://investing.com/economic-calendar/philadelphia-fed-manufacturing-index-236\n来源: Federal Reserve Bank of Philadelphia 
+END:VEVENT
+BEGIN:VEVENT
+UID:c963a701-2f8c-4075-a4f2-74e1d028f6a4@investing.com
+DTSTAMP:20260331T102410Z
+DTSTART;TZID=Asia/Shanghai:20260430T020000
+SUMMARY:美联储利率决议
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 3.75 %\n链接: https://investing.com/economic-calendar/interest-rate-decision-168\n来源: Federal Reserve
+END:VEVENT
+END:VCALENDAR
