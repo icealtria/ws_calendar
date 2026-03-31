@@ -12,19 +12,43 @@ import requests
 
 API_URL = "https://api-one-wscn.awtmt.com/apiv1/finance/macrodatas"
 CALENDAR_TZ = ZoneInfo("Asia/Shanghai")
-OUTPUT_FILES = {
-    3: "macro_calendar_importance_gte3.ics",
-    2: "macro_calendar_importance_gte2.ics",
-    1: "macro_calendar_importance_gte1.ics",
-}
+COUNTRIES = [
+    (None, "全球", "macro_calendar_{threshold}.ics"),
+    ("美国", "美国", "macro_calendar_us_{threshold}.ics"),
+    ("中国", "中国", "macro_calendar_cn_{threshold}.ics"),
+]
+THRESHOLDS = [3, 2, 1]
 IMPORTANCE_LABELS = {
     4: "极高",
     3: "高",
     2: "中",
     1: "低",
 }
-RAW_COLUMNS = ["时间", "地区", "事件", "重要性", "今值", "预期", "前值", "修正", "链接"]
-OUTPUT_COLUMNS = ["时间", "地区", "事件", "重要性", "今值", "预期", "前值", "链接"]
+RAW_COLUMNS = [
+    "时间",
+    "地区",
+    "事件",
+    "重要性",
+    "今值",
+    "预期",
+    "前值",
+    "修正",
+    "链接",
+    "period",
+    "event",
+]
+OUTPUT_COLUMNS = [
+    "时间",
+    "地区",
+    "事件",
+    "重要性",
+    "今值",
+    "预期",
+    "前值",
+    "链接",
+    "period",
+    "event",
+]
 
 
 def shift_months(value: date, months: int) -> date:
@@ -120,8 +144,15 @@ def format_value(value: object) -> str:
     return "-" if pd.isna(value) else str(value)
 
 
-def generate_ics(df: pd.DataFrame, threshold: int, output_path: str) -> None:
+def generate_ics(
+    df: pd.DataFrame, threshold: int, output_path: str, country: str | None = None
+) -> None:
     filtered_df = df[df["重要性"] >= threshold].copy()
+    if country:
+        filtered_df = filtered_df[filtered_df["地区"] == country]
+    cal_name = (
+        f"华尔街见闻-宏观日历{' ' + country if country else ''} (重要性>={threshold})"
+    )
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -129,7 +160,7 @@ def generate_ics(df: pd.DataFrame, threshold: int, output_path: str) -> None:
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         "X-WR-TIMEZONE:Asia/Shanghai",
-        f"X-WR-CALNAME:华尔街见闻-宏观日历 (重要性>={threshold})",
+        f"X-WR-CALNAME:{cal_name}",
     ]
 
     for _, row in filtered_df.iterrows():
@@ -140,16 +171,45 @@ def generate_ics(df: pd.DataFrame, threshold: int, output_path: str) -> None:
             importance_value, f"级别{importance_value}"
         )
 
-        title = escape_ics_text(f"[{importance_label}] {format_value(row['事件'])}")
+        event_name = format_value(row.get("event", ""))
+        event_detail = (
+            f"\n详细: {event_name}" if event_name and event_name != "-" else ""
+        )
+        period_val = format_value(row.get("period", ""))
+        period_str = f"\n周期: {period_val}" if period_val and period_val != "-" else ""
+        url_val = row.get("链接", "")
+        url_str = (
+            "-"
+            if (pd.isna(url_val) or str(url_val).strip() == "")
+            else str(url_val).strip()
+        )
+        actual_val = row["今值"]
+        forecast_val = row["预期"]
+        previous_val = row["前值"]
+        actual_str = (
+            "-"
+            if pd.isna(actual_val) or str(actual_val).strip() == ""
+            else f"{float(actual_val):g}"
+        )
+        forecast_str = (
+            "-"
+            if pd.isna(forecast_val) or str(forecast_val).strip() == ""
+            else f"{float(forecast_val):g}"
+        )
+        previous_str = (
+            "-"
+            if pd.isna(previous_val) or str(previous_val).strip() == ""
+            else f"{float(previous_val):g}"
+        )
+        title = escape_ics_text(f"{format_value(row['事件'])}")
         description = escape_ics_text(
             "\n".join(
                 [
                     f"地区: {format_value(row['地区'])}",
                     f"重要性: {importance_value} ({importance_label})",
-                    f"今值: {format_value(row['今值'])}",
-                    f"预期: {format_value(row['预期'])}",
-                    f"前值: {format_value(row['前值'])}",
-                    f"链接: {format_value(row['链接'])}",
+                    f"今值: {actual_str}",
+                    f"预期: {forecast_str}",
+                    f"前值: {previous_str}",
                 ]
             )
         )
@@ -176,8 +236,10 @@ def generate_ics(df: pd.DataFrame, threshold: int, output_path: str) -> None:
 def main() -> None:
     start_at, end_at = build_date_range()
     macro_df = fetch_macro_calendar(start_at, end_at)
-    for threshold, output_file in OUTPUT_FILES.items():
-        generate_ics(macro_df, threshold, output_file)
+    for country, _, filename_template in COUNTRIES:
+        for threshold in THRESHOLDS:
+            output_file = filename_template.format(threshold=threshold)
+            generate_ics(macro_df, threshold, output_file, country)
 
 
 if __name__ == "__main__":
