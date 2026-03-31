@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import html
 import json
 import re
 import subprocess
@@ -119,9 +120,7 @@ def fetch_investing_calendar(start_day: date, end_day: date) -> pd.DataFrame:
         page_link = event_meta.get("page_link", "")
         url = f"https://investing.com{page_link}" if page_link else "-"
         description_raw = event_meta.get("description", "") or ""
-        description_clean = description_raw.replace("&lt;BR/&gt;", "\n").replace(
-            "&lt;BR/&gt;", "\n"
-        )
+        description_clean = html.unescape(description_raw)
         description_clean = re.sub(
             r"<BR\s*/?>", "\n", description_clean, flags=re.IGNORECASE
         )
