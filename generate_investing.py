@@ -4,6 +4,7 @@ import html
 import json
 import re
 import subprocess
+import time
 import urllib.parse
 from datetime import date, datetime, timedelta
 from pathlib import Path
@@ -33,7 +34,9 @@ def build_date_range(reference: date | None = None) -> tuple[date, date]:
     return start_day, end_day
 
 
-def fetch_investing_calendar(start_day: date, end_day: date) -> pd.DataFrame:
+def fetch_investing_calendar(
+    start_day: date, end_day: date, max_retries: int = 3
+) -> pd.DataFrame:
     all_events = []
     all_occurrences = []
     cursor = None
@@ -57,32 +60,46 @@ def fetch_investing_calendar(start_day: date, end_day: date) -> pd.DataFrame:
                 query_parts.append(f"{k}={v}")
         url = f"{API_URL}?{'&'.join(query_parts)}"
 
-        result = subprocess.run(
-            [
-                "curl",
-                "-s",
-                url,
-                "-H",
-                "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                "-H",
-                "Accept: application/json, text/plain, */*",
-                "-H",
-                "Referer: https://investing.com/economic-calendar/",
-                "-H",
-                "Origin: https://investing.com",
-                "--max-time",
-                "30",
-            ],
-            capture_output=True,
-            text=True,
-        )
-        if result.returncode != 0:
-            raise RuntimeError(f"curl failed: {result.stderr}")
+        last_error = None
+        for attempt in range(max_retries):
+            result = subprocess.run(
+                [
+                    "curl",
+                    "-s",
+                    url,
+                    "-H",
+                    "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "-H",
+                    "Accept: application/json, text/plain, */*",
+                    "-H",
+                    "Referer: https://investing.com/economic-calendar/",
+                    "-H",
+                    "Origin: https://investing.com",
+                    "--max-time",
+                    "30",
+                ],
+                capture_output=True,
+                text=True,
+            )
+            if result.returncode != 0:
+                last_error = RuntimeError(f"curl failed: {result.stderr}")
+                time.sleep(2**attempt)
+                continue
 
-        if not result.stdout.strip():
-            break
+            if not result.stdout.strip():
+                last_error = ValueError("Empty response")
+                time.sleep(2**attempt)
+                continue
 
-        payload = json.loads(result.stdout)
+            try:
+                payload = json.loads(result.stdout)
+                break
+            except json.JSONDecodeError as e:
+                last_error = e
+                time.sleep(2**attempt)
+                continue
+        else:
+            raise RuntimeError(f"Failed after {max_retries} retries: {last_error}")
         all_events.extend(payload.get("events", []))
         all_occurrences.extend(payload.get("occurrences", []))
         cursor = payload.get("next_page_cursor")
