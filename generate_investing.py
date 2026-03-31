@@ -1,11 +1,10 @@
 #!/usr/bin/env python
 
-import calendar
 import json
 import re
 import subprocess
 import urllib.parse
-from datetime import date, datetime, time, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 import uuid
 from zoneinfo import ZoneInfo
@@ -26,82 +25,68 @@ COUNTRIES = [
 THRESHOLDS = [3, 2, 1]
 
 
-def shift_months(value: date, months: int) -> date:
-    month_index = value.month - 1 + months
-    year = value.year + month_index // 12
-    month = month_index % 12 + 1
-    day = min(value.day, calendar.monthrange(year, month)[1])
-    return date(year, month, day)
-
-
 def build_date_range(reference: date | None = None) -> tuple[date, date]:
     today = reference or datetime.now(CALENDAR_TZ).date()
-    start_day = shift_months(today, -1)
-    end_day = shift_months(today, 2)
+    start_day = today - timedelta(days=20)
+    end_day = today + timedelta(days=60)
     return start_day, end_day
 
 
 def fetch_investing_calendar(start_day: date, end_day: date) -> pd.DataFrame:
     all_events = []
     all_occurrences = []
-    chunk_start = start_day
+    cursor = None
 
-    while chunk_start <= end_day:
-        chunk_end = min(chunk_start + timedelta(days=89), end_day)
-        cursor = None
+    while True:
+        params = [
+            ("domain_id", "6"),
+            ("limit", "200"),
+            ("start_date", f"{start_day}T00:00:00.000+08:00"),
+            ("end_date", f"{end_day}T23:59:59.999+08:00"),
+            ("country_ids", "37,5,17,35"),
+        ]
+        if cursor:
+            params.append(("cursor", cursor))
 
-        while True:
-            params = [
-                ("domain_id", "6"),
-                ("limit", "200"),
-                ("start_date", f"{chunk_start}T00:00:00.000+08:00"),
-                ("end_date", f"{chunk_end}T23:59:59.999+08:00"),
-                ("country_ids", "37,5,17,35"),
-            ]
-            if cursor:
-                params.append(("cursor", cursor))
+        query_parts = []
+        for k, v in params:
+            if k in ("start_date", "end_date"):
+                query_parts.append(f"{k}={urllib.parse.quote(v, safe='')}")
+            else:
+                query_parts.append(f"{k}={v}")
+        url = f"{API_URL}?{'&'.join(query_parts)}"
 
-            query_parts = []
-            for k, v in params:
-                if k in ("start_date", "end_date"):
-                    query_parts.append(f"{k}={urllib.parse.quote(v, safe='')}")
-                else:
-                    query_parts.append(f"{k}={v}")
-            url = f"{API_URL}?{'&'.join(query_parts)}"
+        result = subprocess.run(
+            [
+                "curl",
+                "-s",
+                url,
+                "-H",
+                "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "-H",
+                "Accept: application/json, text/plain, */*",
+                "-H",
+                "Referer: https://investing.com/economic-calendar/",
+                "-H",
+                "Origin: https://investing.com",
+                "--max-time",
+                "30",
+            ],
+            capture_output=True,
+            text=True,
+        )
+        if result.returncode != 0:
+            raise RuntimeError(f"curl failed: {result.stderr}")
 
-            result = subprocess.run(
-                [
-                    "curl",
-                    "-s",
-                    url,
-                    "-H",
-                    "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                    "-H",
-                    "Accept: application/json, text/plain, */*",
-                    "-H",
-                    "Referer: https://investing.com/economic-calendar/",
-                    "-H",
-                    "Origin: https://investing.com",
-                    "--max-time",
-                    "30",
-                ],
-                capture_output=True,
-                text=True,
-            )
-            if result.returncode != 0:
-                raise RuntimeError(f"curl failed: {result.stderr}")
+        if not result.stdout.strip():
+            break
 
-            if not result.stdout.strip():
-                break
-
-            payload = json.loads(result.stdout)
-            all_events.extend(payload.get("events", []))
-            all_occurrences.extend(payload.get("occurrences", []))
-            cursor = payload.get("next_page_cursor")
-            if not cursor:
-                break
-
-        chunk_start = chunk_end + timedelta(days=1)
+        payload = json.loads(result.stdout)
+        all_events.extend(payload.get("events", []))
+        all_occurrences.extend(payload.get("occurrences", []))
+        cursor = payload.get("next_page_cursor")
+        if not cursor:
+            break
 
     event_map = {e["event_id"]: e for e in all_events}
 
@@ -264,10 +249,16 @@ def generate_ics(
         detail = format_value(row.get("详细", ""))
         if detail and detail != "-":
             desc_parts.append(f"详细: {detail}")
+        explanation = format_value(row.get("说明", ""))
+        if explanation and explanation != "-":
+            desc_parts.append(f"说明: {explanation}")
         desc_parts.append(f"链接: {format_value(row['链接'])}")
         source = format_value(row.get("来源", ""))
         if source and source != "-":
             desc_parts.append(f"来源: {source}")
+        source_url = format_value(row.get("来源链接", ""))
+        if source_url and source_url != "-":
+            desc_parts.append(f"来源链接: {source_url}")
         description = escape_ics_text("\n".join(desc_parts))
 
         lines.extend(
