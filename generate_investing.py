@@ -14,7 +14,7 @@ from zoneinfo import ZoneInfo
 import pandas as pd
 
 
-API_URL = "https://endpoints.investing.com/pd-instruments/v1/calendars/economic/events/occurrences"
+API_URL = "https://rp.icealtria.workers.dev/https://endpoints.investing.com/pd-instruments/v1/calendars/economic/events/occurrences"
 CALENDAR_TZ = ZoneInfo("Asia/Shanghai")
 COUNTRY_ID_MAP = {37: "中国", 5: "美国", 17: "德国", 35: "日本"}
 IMPORTANCE_MAP = {"high": 3, "medium": 2, "low": 1}
