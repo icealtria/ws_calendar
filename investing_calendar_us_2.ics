@@ -6,1618 +6,1590 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Shanghai
 X-WR-CALNAME:英为财经 美国 (重要性>=2)
 BEGIN:VEVENT
-UID:f3d65e4b-baab-4f81-8f0f-22f71b6b1367@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260422T000000
-SUMMARY:亚特兰大联储GDPNow经济增长预测
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1.2 %\n预期: 1.3 %\n前值: 1.3 %\n周期: 第一季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
-END:VEVENT
-BEGIN:VEVENT
-UID:aaf5bdc1-e582-437b-b9a4-8c0e5ccb8cbd@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260422T023000
-SUMMARY:美联储理事沃勒(Christopher Waller)讲话
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/fed-waller-speaks-1997\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/speeches.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:baeaf865-ad9e-45d9-bb46-81d28909e115@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260422T043000
-SUMMARY:美国当周API原油库存变动(桶)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -4.400 M\n预期: -1.000 M\n前值: 6.100 M\n详细: 美国API原油库存变动\n说明: 美国石油学会每周二发布美国原油、汽油和蒸馏油库存的1600报告的原油库存水平。 该数据显示现在有多少石油库存和产品，因此可以了解供应将持续多久。 而且该数据按照产品和地区表示美国石油需求，同时监控美国原油生产和原油进口及成品油。\n链接: https://investing.com/economic-calendar/api-weekly-crude-stock-656\n来源: American Petroleum Institute\n来源链接: http://www.api.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:d3c46d6f-8dff-4980-b1fd-9e05b1747c7d@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260422T223000
-SUMMARY:美国当周EIA库欣原油库存变动(桶)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.806 M\n预期: -\n前值: -1.727 M\n详细: 美国当周EIA俄克拉荷马州库欣原油库存变动(桶)\n链接: https://investing.com/economic-calendar/eia-weekly-cushing-oil-inventories-1657\n来源: U.S. Energy Information Administration\n来源链接: https://www.eia.gov/
-END:VEVENT
-BEGIN:VEVENT
-UID:8124a591-4941-4630-9de6-6258732d06e8@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260422T223000
-SUMMARY:美国当周EIA原油库存变动(桶)
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 1.925 M\n预期: -1.900 M\n前值: -0.913 M\n详细: 美国当周EIA原油库存变动\n说明: 能源情报署（EIA）的原油库存是衡量美国公司所存有的商用原油周增加桶数的指标。 库存的水平影响到石油产品的价格，对于通胀以及其他经济力量有影响。\n链接: https://investing.com/economic-calendar/eia-crude-oil-inventories-75\n来源: U.S. Energy Information Administration\n来源链接: https://www.eia.gov/
-END:VEVENT
-BEGIN:VEVENT
-UID:4b2588a7-c434-4056-a8e5-3db8c607b42a@investing.com
-DTSTAMP:20260512T033944Z
+UID:637ee18d-f9a8-41af-81fb-786651320e71@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260423T010000
 SUMMARY:美国20年期国债拍卖
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 4.883 %\n预期: -\n前值: 4.817 %\n说明: 日历中显示的数据是美国所拍国债的利率。\n 美国国债期限从10年到30年不等。政府通过发行国债筹借资金，用于填补税收与开支之间的差额、为现有债务再融资以及筹集资本。国债利率指一名投资者持有国债至到期时所得的回报比率。所有投标人都需接受出价最高者的利率。\n 作为政府债务状况指标之一，投资者应密切关注利率波动，并比较此次国债拍卖的平均利率与上次相同年期国债拍卖的利率，以及比较过去10到12次拍卖的平均利率。\n链接: https://investing.com/economic-calendar/20-year-bond-auction-1983\n来源: US Department of Treasury\n来源链接: https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:5a834d41-c4ff-4201-9abc-6bfcd147357e@investing.com
-DTSTAMP:20260512T033944Z
+UID:452899bf-8e5e-4bd2-9345-529dd50cc7c8@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260423T203000
 SUMMARY:美国初请失业金人数
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 214 K\n预期: 211 K\n前值: 208 K\n说明: 首次失业救济申请是对于在当周首次进行失业救济申请的人数所进行季度调整的衡量。 此数据由劳工部收集，每周发布。 \n失业救济人数被用于对用工市场健康度进行衡量，如果数字增加，则表示就业人数较少。 \n由于是以周为单位进行计算，该失业救济申请数据十分不稳定。 \n通常，至少35\,000申请数的变动才能表示就业机会增加的重大变化。 \n如果该指标比预期更高，则应认为美元弱势/看跌，而如果该指标比预期更低，则应认为美元强势/看涨。\n链接: https://investing.com/economic-calendar/initial-jobless-claims-294\n来源: Department of Labor\n来源链接: https://www.dol.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:42d04061-fe87-42e8-9c73-d51071ff35ad@investing.com
-DTSTAMP:20260512T033944Z
+UID:25f7210d-4cfb-4a80-b46f-c9af02638abe@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260423T203000
 SUMMARY:美国续请失业金人数
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1821 K\n预期: 1820 K\n前值: 1809 K\n说明: 连续失业救济是衡量首次申领失业救济人数之后申请失业救济的人数。 它通常在首次申领失业救济人数之后一周发布。\n链接: https://investing.com/economic-calendar/continuing-jobless-claims-522\n来源: United States Department of Labor\n来源链接: https://www.dol.gov/newsroom/economicdata
 END:VEVENT
 BEGIN:VEVENT
-UID:b6ecacc0-fbb2-4de8-82ef-bc77a04930ec@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260423T214500
-SUMMARY:美国Markit服务业PMI
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 51.3\n预期: 50.5\n前值: 49.8\n周期: 四月\n详细: 美国Markit服务业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/services-pmi-1062\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
-END:VEVENT
-BEGIN:VEVENT
-UID:b02c27c0-df71-4c24-873c-4e6543748dbb@investing.com
-DTSTAMP:20260512T033944Z
+UID:40f31d4d-acbe-4ccd-b715-256fae8bd927@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260423T214500
 SUMMARY:美国S&P Global综合PMI
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 52.0\n预期: 50.6\n前值: 50.3\n周期: 四月\n详细: 美国S&P Global综合采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/s-p-global-composite-pmi-1492\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
 END:VEVENT
 BEGIN:VEVENT
-UID:d52d48c0-167a-4124-b4de-2cd9ea0768a2@investing.com
-DTSTAMP:20260512T033944Z
+UID:462cf9b5-b4a7-405a-889b-b38712a0bdee@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260423T214500
+SUMMARY:美国Markit服务业PMI
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 51.3\n预期: 50.5\n前值: 49.8\n周期: 四月\n详细: 美国Markit服务业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/services-pmi-1062\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
+END:VEVENT
+BEGIN:VEVENT
+UID:80b9817b-c3ac-48b7-9385-a772436c976c@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260423T214500
 SUMMARY:美国Markit制造业PMI
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 54.0\n预期: 52.5\n前值: 52.3\n周期: 四月\n详细: 美国Markit制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/manufacturing-pmi-829\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
 END:VEVENT
 BEGIN:VEVENT
-UID:634c680c-e198-4635-aa8c-d67daf4a8696@investing.com
-DTSTAMP:20260512T033944Z
+UID:509d5e32-9e3c-48bf-b37f-cf6508fc7e8a@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260424T043000
 SUMMARY:美联储资产负债表
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 6707 B\n预期: -\n前值: 6706 B\n链接: https://investing.com/economic-calendar/fed's-balance-sheet-2145\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/releases/h41/
 END:VEVENT
 BEGIN:VEVENT
-UID:ea961c82-52f5-4475-8627-77fe0016eeec@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260424T220000
-SUMMARY:美国密歇根大学5-10年期通胀率预期(%)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.5 %\n预期: 3.4 %\n前值: 3.2 %\n周期: 四月\n详细: 美国密歇根大学5-10年期通胀率预期\n链接: https://investing.com/economic-calendar/michigan-5-year-inflation-expectations-1568\n来源: University Of Michigan\n来源链接: http://www.sca.isr.umich.edu/
-END:VEVENT
-BEGIN:VEVENT
-UID:bcc48a40-8f0c-4ece-a95f-6e0bbc9d2eaf@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260424T220000
-SUMMARY:美国密歇根大学消费者预期指数
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 48.1\n预期: 46.1\n前值: 51.7\n周期: 四月\n链接: https://investing.com/economic-calendar/michigan-consumer-expectations-900\n来源: University Of Michigan\n来源链接: http://www.sca.isr.umich.edu/
-END:VEVENT
-BEGIN:VEVENT
-UID:ad1c8d13-e3f2-47b9-9626-5a5a7601c062@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260424T220000
-SUMMARY:美国密歇根大学1年期通胀率预期
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 4.7 %\n预期: 4.8 %\n前值: 3.8 %\n周期: 四月\n说明: 此月度调查是衡量消费者对于在随后12个月中消费品和劳动力价格变动的期望值百分比。 \n密歇根大学首先发布初期数据，大约15天内发布修改数据。 \n 由于初始数据是最早发布的，它具有更多的影响。\n链接: https://investing.com/economic-calendar/michigan-1-year-inflation-expectations-389\n来源: University of Michigan\n来源链接: http://www.sca.isr.umich.edu/
-END:VEVENT
-BEGIN:VEVENT
-UID:bfd040da-1629-4a73-86eb-293471b4aef4@investing.com
-DTSTAMP:20260512T033944Z
+UID:39908401-5172-450e-a89d-9a5c83b4ce90@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260424T220000
 SUMMARY:美国密歇根大学消费者信心指数
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 49.8\n预期: 47.6\n前值: 53.3\n周期: 四月\n说明: 密歇根消费者情绪指数是衡量经济活动中消费者信心水平的指标。 它是一个领先指标，因为它可以预测消费者开支，消费者开支是整体经济活动的主要部分。 \n它是通过对500位消费者进行调查而获得的。 \n较高的指标表示较高的消费者乐观度。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/michigan-consumer-sentiment-320\n来源: University of Michigan\n来源链接: http://www.sca.isr.umich.edu/
 END:VEVENT
 BEGIN:VEVENT
-UID:2449992d-b942-4008-927c-e5d73c55b4fc@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260425T010000
-SUMMARY:美国当周贝克休斯总钻井总数(口)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 544\n预期: -\n前值: 543\n链接: https://investing.com/economic-calendar/u.s.-baker-hughes-total-rig-count-1810\n来源: Baker Hughes\n来源链接: http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview
+UID:0e46ce79-14cd-44cc-8aed-d55aa7ffaef5@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260424T220000
+SUMMARY:美国密歇根大学1年期通胀率预期
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 4.7 %\n预期: 4.8 %\n前值: 3.8 %\n周期: 四月\n说明: 此月度调查是衡量消费者对于在随后12个月中消费品和劳动力价格变动的期望值百分比。 \n密歇根大学首先发布初期数据，大约15天内发布修改数据。 \n 由于初始数据是最早发布的，它具有更多的影响。\n链接: https://investing.com/economic-calendar/michigan-1-year-inflation-expectations-389\n来源: University of Michigan\n来源链接: http://www.sca.isr.umich.edu/
 END:VEVENT
 BEGIN:VEVENT
-UID:9504c09f-04b5-4808-85d9-9cff5ac6d117@investing.com
-DTSTAMP:20260512T033944Z
+UID:e2fe843d-0826-40d5-9765-03f8b4344d09@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260424T220000
+SUMMARY:美国密歇根大学5-10年期通胀率预期(%)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.5 %\n预期: 3.4 %\n前值: 3.2 %\n周期: 四月\n详细: 美国密歇根大学5-10年期通胀率预期\n链接: https://investing.com/economic-calendar/michigan-5-year-inflation-expectations-1568\n来源: University Of Michigan\n来源链接: http://www.sca.isr.umich.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:5dce9cbb-712a-4591-8f72-4217c04b7f7a@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260424T220000
+SUMMARY:美国密歇根大学消费者预期指数
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 48.1\n预期: 46.1\n前值: 51.7\n周期: 四月\n链接: https://investing.com/economic-calendar/michigan-consumer-expectations-900\n来源: University Of Michigan\n来源链接: http://www.sca.isr.umich.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:d0e82c5c-de75-413d-8a1b-433890f21aa6@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260425T010000
 SUMMARY:美国当周贝克休斯石油钻井总数(口)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 407\n预期: -\n前值: 410\n链接: https://investing.com/economic-calendar/baker-hughes-u.s.-rig-count-1652\n来源: Baker Hughes\n来源链接: http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview
 END:VEVENT
 BEGIN:VEVENT
-UID:1c843152-223c-40ac-b465-b5b407e3ac85@investing.com
-DTSTAMP:20260512T033944Z
+UID:c8652716-793b-4823-bd3b-9415572bfdfd@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260425T010000
+SUMMARY:美国当周贝克休斯总钻井总数(口)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 544\n预期: -\n前值: 543\n链接: https://investing.com/economic-calendar/u.s.-baker-hughes-total-rig-count-1810\n来源: Baker Hughes\n来源链接: http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview
+END:VEVENT
+BEGIN:VEVENT
+UID:47c92b1e-9d8a-48e1-9fc4-a84110e0ef39@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260425T033000
 SUMMARY:美国商品期货交易委员会投机净仓位-原油
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 192.3 K\n预期: -\n前值: 206.5 K\n链接: https://investing.com/economic-calendar/cftc-crude-oil-speculative-positions-1653\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:c135e48a-76d3-4fe6-9ca9-8044f0f00ed3@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260425T033000
-SUMMARY:商品期货交易委员会投机净仓位-纳斯达克100
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 9.4 K\n预期: -\n前值: 10.8 K\n链接: https://investing.com/economic-calendar/cftc-nasdaq-100-speculative-positions-1959\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:2e2ca184-3062-4487-a21d-1df80c9931c8@investing.com
-DTSTAMP:20260512T033944Z
+UID:3d5fa9d8-a1c3-4253-a33e-667859145590@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260425T033000
 SUMMARY:美国商品期货交易委员会投机净仓位-标普500
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -110.1 K\n预期: -\n前值: -115.8 K\n说明: 商品期货交易委员会(CFTC)的交易商持仓(COT)周报提供美国期货市场中“非商业”（投机）交易商的净持仓明细。所有数据所反映的是主要在芝加哥和纽约期货市场的交易人士持仓情况。交易商持仓周报被认为是分析市场情绪的指标，许多投机交易商借助该数据来确定是否开多仓或淡仓。交易商持仓(COT)周报在美国假日休市之前的每周五美国东部时间下午3:30发布，反映截至周二的交易商持仓情况。\n链接: https://investing.com/economic-calendar/cftc-s-p-500-speculative-positions-1619\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:53452c9a-1a20-4592-ac07-7866e1abd044@investing.com
-DTSTAMP:20260512T033944Z
+UID:7d97716b-4c8e-4286-b35a-ed769ad1c815@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260425T033000
 SUMMARY:美国商品期货交易委员会投机净仓位-黄金
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 164.0 K\n预期: -\n前值: 162.5 K\n说明: 商品期货交易委员会(CFTC)的交易商持仓(COT)周报提供美国期货市场中“非商业”（投机）交易商的净持仓明细。所有数据所反映的是主要在芝加哥和纽约期货市场的交易人士持仓情况。交易商持仓周报被认为是分析市场情绪的指标，许多投机交易商借助该数据来确定是否开多仓或淡仓。交易商持仓(COT)周报在美国假日休市之前的每周五美国东部时间下午3:30发布，反映截至周二的交易商持仓情况。\n链接: https://investing.com/economic-calendar/cftc-gold-speculative-positions-1618\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:9252333e-5085-473d-ba37-193f61cc3a0f@investing.com
-DTSTAMP:20260512T033944Z
+UID:b78cc1bd-ae85-4621-b77e-0109e1e8f62a@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260425T033000
+SUMMARY:商品期货交易委员会投机净仓位-纳斯达克100
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 9.4 K\n预期: -\n前值: 10.8 K\n链接: https://investing.com/economic-calendar/cftc-nasdaq-100-speculative-positions-1959\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:1e36d73e-3fe6-4ff3-97ec-a666401571f8@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260426T000000
 SUMMARY:美国总统特朗普(Donald Trump)讲话
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House\n来源链接: https://www.whitehouse.gov/briefings-statements/
 END:VEVENT
 BEGIN:VEVENT
-UID:0e85b155-5cd5-4718-9bd8-c0bff918ee13@investing.com
-DTSTAMP:20260512T033944Z
+UID:69577d9d-49fb-441e-8d08-f07b5d5be391@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260426T104500
 SUMMARY:美国总统特朗普(Donald Trump)讲话
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House\n来源链接: https://www.whitehouse.gov/briefings-statements/
 END:VEVENT
 BEGIN:VEVENT
-UID:1e6310a9-a89f-4b77-b8cf-5587ea61d9e9@investing.com
-DTSTAMP:20260512T033944Z
+UID:a71a00d9-d6ee-4264-97fe-7a05ef3cc7b9@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260427T070000
 SUMMARY:美国总统特朗普(Donald Trump)讲话
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House\n来源链接: https://www.whitehouse.gov/briefings-statements/
 END:VEVENT
 BEGIN:VEVENT
-UID:7b549aa0-a297-4a5d-9bba-ba3e407bee3d@investing.com
-DTSTAMP:20260512T033944Z
+UID:9c59b4c0-c6b9-4e4a-8d53-0980ac620f73@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260427T233000
 SUMMARY:美国2年期国债拍卖
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.812 %\n预期: -\n前值: 3.936 %\n说明: 日历中所显示的数据代表所拍卖财政部债券的收益率。美国财政部债券期限从两年到十年不等，通过公开拍卖将债券出售给机构和个人投资者以资助公共债务。 财政部债券收益率代表投资者持有该债券至到期将获得的回报。 所有投标人按照所接受最高报价得到同样的利率或收益率。 收益率变动应该作为政府债务状况指标进行密切监控。 投资者将该债券拍卖中的平均收益率与其上次同样拍卖中的收益率进行比较，并与其过去10到12次拍卖中的平均收益率进行比较。\n链接: https://investing.com/economic-calendar/2-year-note-auction-569\n来源: US Department of Treasury\n来源链接: https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:da713874-fe01-40ac-ab94-e42aefb09b2f@investing.com
-DTSTAMP:20260512T033944Z
+UID:f854d801-b7f6-49da-9dd4-0fe04f6f8ecf@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260428T010000
 SUMMARY:美国5年期国债拍卖
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.955 %\n预期: -\n前值: 3.980 %\n说明: 日历中所显示的数据代表所拍卖财政部债券的收益率。美国财政部债券期限从两年到十年不等，通过公开拍卖将债券出售给机构和个人投资者以资助公共债务。 财政部债券收益率代表投资者持有该债券至到期将获得的回报。 所有投标人按照所接受最高报价得到同样的利率或收益率。 收益率变动应该作为政府债务状况指标进行密切监控。 投资者将该债券拍卖中的平均收益率与其上次同样拍卖中的收益率进行比较，并与其过去10到12次拍卖中的平均收益率进行比较。\n链接: https://investing.com/economic-calendar/5-year-note-auction-570\n来源: US Department of Treasury\n来源链接: https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:9d0f6561-3f19-4156-932e-0d5f4987ed93@investing.com
-DTSTAMP:20260512T033944Z
+UID:1db45a44-b7f5-4471-b1be-a040918077e0@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260428T201500
 SUMMARY:ADP就业人数周度变动
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 39.30 K\n预期: -\n前值: 40.25 K\n详细: 美国ADP就业人数周度变动\n说明: ADP每周报告揭示私营部门就业人数变动，基于其精细化高频数据提供劳动力市场的最新视角。交易员常将美国最大薪资服务商ADP的就业数据视为劳工统计局非农就业报告的先行指标。\n该数据由自动数据处理公司发布，反映美国私营部门就业人数的四周移动平均值。通常该指标上升预示消费支出向好，并能刺激经济增长。因此，高读数传统上被视为美元利好信号，而低读数则被视为利空信号。\n链接: https://investing.com/economic-calendar/adp-employment-change-weekly-2295\n来源: ADP Research Institute\n来源链接: https://adpemploymentreport.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:b382f829-a535-4bbd-97f7-cb7a189771c9@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260428T210000
-SUMMARY:美国S&P/CS20座大城市未季调房价指数年率(%) (同比)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.9 %\n预期: 1.1 %\n前值: 1.2 %\n周期: 同比\n详细: 美国S&P/CS20座大城市未季调房价指数年率\n说明: S&P/Case-Shiller全美房价指数（HPI）成分20是衡量上年度全美20个地区房地产市场价值（售价）变化的指标。 此报告有助于分析美国房地产市场的实力，进而有助于分析整体经济。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/s-p-cs-hpi-composite-20-n.s.a.-329\n来源: S&P Global\n来源链接: https://www.spglobal.com/spdji/en/indices/indicators/sp-corelogic-case-shiller-20-city-composite-home-price-nsa-index/#news-research
-END:VEVENT
-BEGIN:VEVENT
-UID:8dcb637e-b541-472a-9271-c639560eb3b8@investing.com
-DTSTAMP:20260512T033944Z
+UID:4fa122f9-996e-4ab3-a0ab-d841a1ef170a@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260428T210000
 SUMMARY:美国S&P/CS 20座大城市未季调房价指数月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.4 %\n预期: -\n前值: -0.1 %\n周期: 月度环比\n详细: 美国S&P/CS 20座大城市未季调房价指数月率\n链接: https://investing.com/economic-calendar/s-p-cs-hpi-composite-20-n.s.a.-913\n来源: S&P Global\n来源链接: https://www.spglobal.com/spdji/en/indices/indicators/sp-corelogic-case-shiller-20-city-composite-home-price-nsa-index/#news-research
 END:VEVENT
 BEGIN:VEVENT
-UID:26c993af-fc65-4a7d-82e1-40c4054d9e41@investing.com
-DTSTAMP:20260512T033944Z
+UID:cff0a38d-db0e-44e9-9886-1e733dc130ac@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260428T210000
+SUMMARY:美国S&P/CS20座大城市未季调房价指数年率(%) (同比)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.9 %\n预期: 1.1 %\n前值: 1.2 %\n周期: 同比\n详细: 美国S&P/CS20座大城市未季调房价指数年率\n说明: S&P/Case-Shiller全美房价指数（HPI）成分20是衡量上年度全美20个地区房地产市场价值（售价）变化的指标。 此报告有助于分析美国房地产市场的实力，进而有助于分析整体经济。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/s-p-cs-hpi-composite-20-n.s.a.-329\n来源: S&P Global\n来源链接: https://www.spglobal.com/spdji/en/indices/indicators/sp-corelogic-case-shiller-20-city-composite-home-price-nsa-index/#news-research
+END:VEVENT
+BEGIN:VEVENT
+UID:4f704b97-f040-4300-888b-11cdf1668dcf@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260428T220000
 SUMMARY:美国谘商会消费者信心指数
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 92.8\n预期: 89.0\n前值: 92.2\n周期: 四月\n说明: 消费者信心指数是衡量经济活动中消费者信心水平的指标。 它是一个领先指标，因为它可以预测消费开支，消费开支是整个经济活动的主要部分。 较高的指标表示较高的消费者乐观度。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/cb-consumer-confidence-48\n来源: Conference Board\n来源链接: https://www.conference-board.org/topics/consumer-confidence
 END:VEVENT
 BEGIN:VEVENT
-UID:36b8cc57-6db8-4d68-86c7-57443549a2d1@investing.com
-DTSTAMP:20260512T033944Z
+UID:f3982d32-9399-40db-bd64-9967067c9623@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260429T010000
 SUMMARY:美国7年期国债拍卖利率(%)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 4.175 %\n预期: -\n前值: 4.255 %\n详细: 美国7年期国债拍卖利率\n说明: 日历中所显示的数据代表所拍卖国债的收益率。\n\n美国国债期限为两到十年。 政府发行国库券进行借款，以填补其所收到的税收和偿还现有债务和/或融资所进行的开支之间的差额。 国债利率代表投资者在整个国债期限内持有该国债将获得的回报。 所有投标人按照所接受最高报价得到同样的利率。\n\n收益率变动应该作为政府债务状况指标进行密切监控。 投资者将该债券拍卖中的平均利率与其上次同样拍卖中的利率进行比较。\n链接: https://investing.com/economic-calendar/7-year-note-auction-682\n来源:  US Department of Treasury\n来源链接: https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:b37c8788-6140-4499-a78f-3290e920c7ab@investing.com
-DTSTAMP:20260512T033944Z
+UID:3ad7a7ed-3b24-4695-bbc8-466898a6115f@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260429T043000
 SUMMARY:美国当周API原油库存变动(桶)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -1.790 M\n预期: 0.300 M\n前值: -4.400 M\n详细: 美国API原油库存变动\n说明: 美国石油学会每周二发布美国原油、汽油和蒸馏油库存的1600报告的原油库存水平。 该数据显示现在有多少石油库存和产品，因此可以了解供应将持续多久。 而且该数据按照产品和地区表示美国石油需求，同时监控美国原油生产和原油进口及成品油。\n链接: https://investing.com/economic-calendar/api-weekly-crude-stock-656\n来源: American Petroleum Institute\n来源链接: http://www.api.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:ad842aa7-dc9a-4e33-8f5a-a81ad1c79b33@investing.com
-DTSTAMP:20260512T033944Z
+UID:5ffc2117-dc8f-4394-8d49-9ba75b26b036@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260429T202900
 SUMMARY:美国营建许可总数(户)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1.538 M\n预期: -\n前值: 1.386 M\n周期: 二月\n详细: 美国营建许可总数\n说明: 营建许可说明了政府许可的新建筑项目数量。 营建许可是衡量房地产市场状况的重要指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/building-permits-25\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/construction/nrc/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:dbf3686f-2ce0-4135-898f-ff1a5e71f7a1@investing.com
-DTSTAMP:20260512T033944Z
+UID:a0ec9ac9-b12d-42c2-a9f6-d84ceb0d3a61@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260429T202900
 SUMMARY:美国新屋开工年化总数(户)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1.356 M\n预期: -\n前值: 1.398 M\n周期: 二月\n详细: 美国新屋开工年化总数\n说明: 新屋开工获取在当月开始建设的新家或楼房的按年计算的数字。 \n它说明了美国房地产市场的实力，有助于对整体经济进行分析，因为房地产市场是经济的一个关键因素。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/housing-starts-151\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/construction/nrc/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:66dbab1f-8720-44ec-9da9-888542d5a1bd@investing.com
-DTSTAMP:20260512T033944Z
+UID:7d6d674e-3d24-42db-b313-9f47e6e8f9c2@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260429T202900
 SUMMARY:美国新屋开工年率月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -3.0 %\n预期: -\n前值: 7.2 %\n周期: 月度环比\n详细: 美国新屋开工年率月率\n链接: https://investing.com/economic-calendar/housing-starts-898\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:fbc508e3-8d6f-4058-a6c6-389df652ff75@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260429T203000
-SUMMARY:美国扣除运输耐用品订单月率(%) (月度环比)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.9 %\n预期: 0.4 %\n前值: 1.2 %\n周期: 月度环比\n详细: 美国扣除运输耐用品订单月率\n说明: 核心耐用品订单是新的耐用品订单总价值变化的指标（不含运输）。 \n由于飞机订单很不稳定，该核心数据较好说明了订单趋势。 \n较高的指标表示制造商活动增加。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/core-durable-goods-orders-59\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/manufacturing/m3/index.html
-END:VEVENT
-BEGIN:VEVENT
-UID:081b3007-6fbd-407e-a218-ffc2318bc331@investing.com
-DTSTAMP:20260512T033944Z
+UID:8944c1a1-fc66-4c9f-b260-7a8366d62ec3@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260429T203000
 SUMMARY:美国耐用品订单月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.8 %\n预期: 0.4 %\n前值: -1.2 %\n周期: 月度环比\n详细: 美国耐用品订单月率\n说明: 耐用品订单是新的耐用品订单总价值变化的指标。 \n较高的指标表示制造商活动增加。 \n耐用品订单报告很不稳定，经常随大约一周后发布的工厂订单报告作出修改。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/durable-goods-orders-86\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/manufacturing/m3/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:0177f69f-c63a-4705-8132-960fdb7c189e@investing.com
-DTSTAMP:20260512T033944Z
+UID:cb7a1cd6-25ab-4344-a34e-e8996c9b4eed@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260429T203000
-SUMMARY:美国除汽车外零售库存
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.5 %\n预期: -\n前值: 0.4 %\n周期: 三月\n链接: https://investing.com/economic-calendar/retail-inventories-ex-auto-1887\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/
+SUMMARY:美国扣除运输耐用品订单月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.9 %\n预期: 0.4 %\n前值: 1.2 %\n周期: 月度环比\n详细: 美国扣除运输耐用品订单月率\n说明: 核心耐用品订单是新的耐用品订单总价值变化的指标（不含运输）。 \n由于飞机订单很不稳定，该核心数据较好说明了订单趋势。 \n较高的指标表示制造商活动增加。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/core-durable-goods-orders-59\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/manufacturing/m3/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:e4fc88e7-575a-4613-83df-a1953be31ce1@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260429T203000
-SUMMARY:美国营建许可总数(户)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1.372 M\n预期: 1.390 M\n前值: 1.386 M\n周期: 三月\n详细: 美国营建许可总数\n说明: 营建许可说明了政府许可的新建筑项目数量。 营建许可是衡量房地产市场状况的重要指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/building-permits-25\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/construction/nrc/index.html
-END:VEVENT
-BEGIN:VEVENT
-UID:e30d78b1-2839-407e-bc70-f40ee41f8d02@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260429T203000
-SUMMARY:美国新屋开工年化总数(户)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1.502 M\n预期: 1.380 M\n前值: 1.398 M\n周期: 三月\n详细: 美国新屋开工年化总数\n说明: 新屋开工获取在当月开始建设的新家或楼房的按年计算的数字。 \n它说明了美国房地产市场的实力，有助于对整体经济进行分析，因为房地产市场是经济的一个关键因素。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/housing-starts-151\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/construction/nrc/index.html
-END:VEVENT
-BEGIN:VEVENT
-UID:b4f716f6-7fd6-4297-8afe-f326ad403221@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260429T203000
-SUMMARY:美国新屋开工年率月率(%) (月度环比)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 10.8 %\n预期: -\n前值: 1.8 %\n周期: 月度环比\n详细: 美国新屋开工年率月率\n链接: https://investing.com/economic-calendar/housing-starts-898\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
-END:VEVENT
-BEGIN:VEVENT
-UID:e87a07f1-7ea7-483b-9909-f34e73c551fd@investing.com
-DTSTAMP:20260512T033944Z
+UID:dc78dc44-5930-4d82-832f-7515b7df59e2@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260429T203000
 SUMMARY:美国商品贸易收支(美元)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -87.87 B\n预期: -87.50 B\n前值: -83.50 B\n周期: 三月\n详细: 美国商品贸易收支\n链接: https://investing.com/economic-calendar/goods-trade-balance-1650\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/foreign-trade/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cab2d3e2-f32f-41c9-a5ed-b0f25bc1ebc9@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260429T223000
-SUMMARY:美国当周EIA库欣原油库存变动(桶)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -0.796 M\n预期: -\n前值: 0.806 M\n详细: 美国当周EIA俄克拉荷马州库欣原油库存变动(桶)\n链接: https://investing.com/economic-calendar/eia-weekly-cushing-oil-inventories-1657\n来源: U.S. Energy Information Administration\n来源链接: https://www.eia.gov/
+UID:ab49ba59-f9fb-4d7e-aa04-f853b8c6404e@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260429T203000
+SUMMARY:美国营建许可总数(户)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1.372 M\n预期: 1.390 M\n前值: 1.386 M\n周期: 三月\n详细: 美国营建许可总数\n说明: 营建许可说明了政府许可的新建筑项目数量。 营建许可是衡量房地产市场状况的重要指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/building-permits-25\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/construction/nrc/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:322a63ca-22de-4d81-9997-b07e5e470d3c@investing.com
-DTSTAMP:20260512T033944Z
+UID:9a4577cd-5267-426f-8aab-55e6abb7a3c0@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260429T203000
+SUMMARY:美国新屋开工年化总数(户)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1.502 M\n预期: 1.380 M\n前值: 1.398 M\n周期: 三月\n详细: 美国新屋开工年化总数\n说明: 新屋开工获取在当月开始建设的新家或楼房的按年计算的数字。 \n它说明了美国房地产市场的实力，有助于对整体经济进行分析，因为房地产市场是经济的一个关键因素。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/housing-starts-151\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/construction/nrc/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:9a918237-1ba5-4693-8a2d-4036d09047b6@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260429T203000
+SUMMARY:美国新屋开工年率月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 10.8 %\n预期: -\n前值: 1.8 %\n周期: 月度环比\n详细: 美国新屋开工年率月率\n链接: https://investing.com/economic-calendar/housing-starts-898\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a23617-0530-431e-9489-204f52f48397@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260429T203000
+SUMMARY:美国除汽车外零售库存
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.5 %\n预期: -\n前值: 0.4 %\n周期: 三月\n链接: https://investing.com/economic-calendar/retail-inventories-ex-auto-1887\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/
+END:VEVENT
+BEGIN:VEVENT
+UID:bff7a92b-8329-46d4-a6eb-855de2073eab@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260429T223000
 SUMMARY:美国当周EIA原油库存变动(桶)
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -6.234 M\n预期: 0.300 M\n前值: 1.925 M\n详细: 美国当周EIA原油库存变动\n说明: 能源情报署（EIA）的原油库存是衡量美国公司所存有的商用原油周增加桶数的指标。 库存的水平影响到石油产品的价格，对于通胀以及其他经济力量有影响。\n链接: https://investing.com/economic-calendar/eia-crude-oil-inventories-75\n来源: U.S. Energy Information Administration\n来源链接: https://www.eia.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:7f928d4b-d54a-463b-a598-8f49fdc4b682@investing.com
-DTSTAMP:20260512T033944Z
+UID:f6cbe2c3-2c27-439b-b91a-2346b40f75c8@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260429T223000
+SUMMARY:美国当周EIA库欣原油库存变动(桶)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -0.796 M\n预期: -\n前值: 0.806 M\n详细: 美国当周EIA俄克拉荷马州库欣原油库存变动(桶)\n链接: https://investing.com/economic-calendar/eia-weekly-cushing-oil-inventories-1657\n来源: U.S. Energy Information Administration\n来源链接: https://www.eia.gov/
+END:VEVENT
+BEGIN:VEVENT
+UID:5b60e30f-74ef-4752-9e8a-c005d5ec96b7@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260429T233000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1.2 %\n预期: 1.2 %\n前值: 1.2 %\n周期: 第一季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:4a82196e-2926-406f-9e28-cff76ee02ab3@investing.com
-DTSTAMP:20260512T033944Z
+UID:ff396d8c-f8c9-405b-860b-13abe78a13ee@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260430T020000
 SUMMARY:美联储利率决议
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 3.75 %\n预期: 3.75 %\n前值: 3.75 %\n说明: 联邦公开市场委员会（FOMC）对于短期利率的确定。 \n利率的确定大部分依赖于增长前景和通货膨胀。 央行的主要目的是确保物价稳定。 高利率可以吸引那些寻求最佳“无风险”回报的国外投资者，可以大幅度地增加对于国家货币的需求。 \n如果指数比预期更高，则美元强势/看涨，而如果指数比预期更低，则美元弱势/看跌。\n链接: https://investing.com/economic-calendar/interest-rate-decision-168\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:488f967d-d9c4-4e68-ba2a-07db70096ae1@investing.com
-DTSTAMP:20260512T033944Z
+UID:b103146a-c2fa-4a6f-9b78-6595408af7f7@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260430T020000
 SUMMARY:美联储FOMC货币政策声明
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n说明: 美联储联邦公开市场委员会声明是美联储用来与投资者就货币政策进行沟通的主要工具。 它每年发布8次，披露该委员会对于利率和其他政策措施的表决结果，同时还有对影响会员表决的经济状况的注释。 \n 外汇交易商专注于联邦公开市场委员会对每份声明所做出的细微变化。 \n如果此声明比预计中的更加强硬，通常应看好美元。\n链接: https://investing.com/economic-calendar/fomc-statement-398\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:3e3ea867-75ae-4d73-9d79-7a284c0db21c@investing.com
-DTSTAMP:20260512T033944Z
+UID:1c19f39a-0120-4c7d-b9a5-d7866edbf103@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260430T023000
 SUMMARY:美国联邦公开市场委员会新闻发布会
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n详细: 美国联邦公开市场委员会(FOMC)新闻发布会\n链接: https://investing.com/economic-calendar/fomc-press-conference-1692\n来源: Federal Reserve\n来源链接: https://www.youtube.com/user/FedReserveBoard
 END:VEVENT
 BEGIN:VEVENT
-UID:378ed2b2-df29-479e-ae78-335c81b6b050@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260430T203000
-SUMMARY:美国核心PCE物价指数年化季率(%) (同比)
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 3.2 %\n预期: 3.2 %\n前值: 3.0 %\n周期: 同比\n详细: 美国核心个人消费支出平减指数(PCE)年化季率\n链接: https://investing.com/economic-calendar/core-pce-price-index-905\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/
-END:VEVENT
-BEGIN:VEVENT
-UID:143615aa-e468-40f5-9498-fc20723c926e@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260430T203000
-SUMMARY:美国续请失业金人数
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1785 K\n预期: 1820 K\n前值: 1808 K\n说明: 连续失业救济是衡量首次申领失业救济人数之后申请失业救济的人数。 它通常在首次申领失业救济人数之后一周发布。\n链接: https://investing.com/economic-calendar/continuing-jobless-claims-522\n来源: United States Department of Labor\n来源链接: https://www.dol.gov/newsroom/economicdata
-END:VEVENT
-BEGIN:VEVENT
-UID:3f794304-1b7b-4bc8-8c03-e89bdbb1d76d@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260430T203000
-SUMMARY:美国初请失业金人数
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 189 K\n预期: 213 K\n前值: 215 K\n说明: 首次失业救济申请是对于在当周首次进行失业救济申请的人数所进行季度调整的衡量。 此数据由劳工部收集，每周发布。 \n失业救济人数被用于对用工市场健康度进行衡量，如果数字增加，则表示就业人数较少。 \n由于是以周为单位进行计算，该失业救济申请数据十分不稳定。 \n通常，至少35\,000申请数的变动才能表示就业机会增加的重大变化。 \n如果该指标比预期更高，则应认为美元弱势/看跌，而如果该指标比预期更低，则应认为美元强势/看涨。\n链接: https://investing.com/economic-calendar/initial-jobless-claims-294\n来源: Department of Labor\n来源链接: https://www.dol.gov/
-END:VEVENT
-BEGIN:VEVENT
-UID:d62387a1-bd6c-40a9-9f72-cde587593985@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260430T203000
-SUMMARY:美国PCE物价指数年率 (同比)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.5 %\n预期: 3.5 %\n前值: 2.8 %\n周期: 同比\n详细: 美国PCE物价指数年率\n说明: PCE物价指数又称个人消费支出平减指数，是美国广泛采用的用来衡量所有本土个人消费品价格平均上涨水平的指标。其对货币的影响可能是双向的：CPI上升可能导致利率上升和本地货币上涨；另一方面，在经济衰退期间，CPI上涨可能导致经济衰退加剧，进而造成本地货币下跌。\n链接: https://investing.com/economic-calendar/pce-price-index-906\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
-END:VEVENT
-BEGIN:VEVENT
-UID:ce4c3c59-d86a-41af-91ad-164c85891cac@investing.com
-DTSTAMP:20260512T033944Z
+UID:0f450978-9a0d-4627-93d5-c86c07c838fe@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260430T203000
 SUMMARY:美国核心PCE物价指数月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 0.3 %\n预期: 0.3 %\n前值: 0.4 %\n周期: 月度环比\n详细: 美国核心PCE物价指数月率\n说明: 核心个人消费支出（PCE）价格指数是衡量除食品和能源之外的消费者所购买的消费品和劳务价格变化的指标。 \n价格为按照每个项目的总支出的加权价格。 \n它从消费者的角度衡量价格变化。 \n它是衡量美国购买趋势变化和通货膨胀的重要方法。 \n如果指数比预期更高，则应认为美元强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/core-pce-price-index-61\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:22eb6f89-318b-4d9a-801b-df90f723e1a1@investing.com
-DTSTAMP:20260512T033944Z
+UID:c6e045c3-7b3d-444f-a51c-8c6e438e99d1@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260430T203000
+SUMMARY:美国核心PCE物价指数年化季率(%) (同比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 3.2 %\n预期: 3.2 %\n前值: 3.0 %\n周期: 同比\n详细: 美国核心个人消费支出平减指数(PCE)年化季率\n链接: https://investing.com/economic-calendar/core-pce-price-index-905\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/
+END:VEVENT
+BEGIN:VEVENT
+UID:69a34e89-7f23-4a07-a6ec-c16b4fdb177f@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260430T203000
+SUMMARY:美国初请失业金人数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 189 K\n预期: 213 K\n前值: 215 K\n说明: 首次失业救济申请是对于在当周首次进行失业救济申请的人数所进行季度调整的衡量。 此数据由劳工部收集，每周发布。 \n失业救济人数被用于对用工市场健康度进行衡量，如果数字增加，则表示就业人数较少。 \n由于是以周为单位进行计算，该失业救济申请数据十分不稳定。 \n通常，至少35\,000申请数的变动才能表示就业机会增加的重大变化。 \n如果该指标比预期更高，则应认为美元弱势/看跌，而如果该指标比预期更低，则应认为美元强势/看涨。\n链接: https://investing.com/economic-calendar/initial-jobless-claims-294\n来源: Department of Labor\n来源链接: https://www.dol.gov/
+END:VEVENT
+BEGIN:VEVENT
+UID:f02aa95a-5cc4-4fb1-aa03-e8f4d80912f6@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260430T203000
+SUMMARY:美国续请失业金人数
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1785 K\n预期: 1820 K\n前值: 1808 K\n说明: 连续失业救济是衡量首次申领失业救济人数之后申请失业救济的人数。 它通常在首次申领失业救济人数之后一周发布。\n链接: https://investing.com/economic-calendar/continuing-jobless-claims-522\n来源: United States Department of Labor\n来源链接: https://www.dol.gov/newsroom/economicdata
+END:VEVENT
+BEGIN:VEVENT
+UID:275a856b-0a23-4221-b1b4-cdf63b35a48e@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260430T203000
+SUMMARY:美国PCE物价指数年率 (同比)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.5 %\n预期: 3.5 %\n前值: 2.8 %\n周期: 同比\n详细: 美国PCE物价指数年率\n说明: PCE物价指数又称个人消费支出平减指数，是美国广泛采用的用来衡量所有本土个人消费品价格平均上涨水平的指标。其对货币的影响可能是双向的：CPI上升可能导致利率上升和本地货币上涨；另一方面，在经济衰退期间，CPI上涨可能导致经济衰退加剧，进而造成本地货币下跌。\n链接: https://investing.com/economic-calendar/pce-price-index-906\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
+END:VEVENT
+BEGIN:VEVENT
+UID:c470028a-1d18-46c0-bb24-cc29b7762525@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260430T203000
 SUMMARY:个人消费支出价格指数 (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.7 %\n预期: 0.7 %\n前值: 0.4 %\n周期: 月度环比\n详细: 个人消费支出价格指数\n链接: https://investing.com/economic-calendar/pce-price-index-904\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:f1436406-0287-4188-883d-0a995061e009@investing.com
-DTSTAMP:20260512T033944Z
+UID:66e6c058-ecc2-4b97-bf7d-2c7d3c9e7a12@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260430T203000
 SUMMARY:美国GDP平减指数(%) (季度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.6 %\n预期: 3.8 %\n前值: 3.7 %\n周期: 季度环比\n详细: 美国GDP平减指数\n说明: GDP价格指数是衡量包含在GDP中的所有消费品和劳务价格的指标。 \n因此 － GDP价格指数是衡量通货膨胀的关键指标。 \n如果指数比预期更高，则应认为美元强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/gdp-price-index-343\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/newsreleases/national/gdp/gdpnewsrelease.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:b1267ad5-46ae-4618-ad43-bed47c5e616f@investing.com
-DTSTAMP:20260512T033944Z
+UID:76e92804-4716-4927-bfb6-57e03a8fdd46@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260430T203000
 SUMMARY:美国个人支出月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.9 %\n预期: 0.9 %\n前值: 0.6 %\n周期: 月度环比\n详细: 美国个人支出月率\n说明: 个人开支指标用来衡量消费者在消费品和服务中所花费总额的变化。 \n由于现今消费是美国GDP中最大的一个部分，个人开支是经济增长中的一个关键指标。 \n它也与消费者信心有关。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/personal-spending-235\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:a87c3620-c5c1-4ac1-b6a0-a2e9de87bbcc@investing.com
-DTSTAMP:20260512T033944Z
+UID:ab004ac8-6025-44d2-a580-ea442b6b84b6@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260430T203000
 SUMMARY:美国核心PCE物价指数年化季率(%)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 4.30 %\n预期: 4.10 %\n前值: 2.70 %\n周期: 第一季度\n详细: 美国核心PCE物价指数年化季率\n链接: https://investing.com/economic-calendar/core-pce-prices-1548
 END:VEVENT
 BEGIN:VEVENT
-UID:30c8a493-c50c-42db-9b5b-aa973d6dc3ec@investing.com
-DTSTAMP:20260512T033944Z
+UID:c9b36793-e202-46e9-b602-696772b2ea54@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260430T203000
 SUMMARY:美国实际GDP年化季率 (季度环比)
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 2.0 %\n预期: 2.2 %\n前值: 0.5 %\n周期: 季度环比\n详细: 美国实际国内生产总值(GDP) 年化季率\n说明: 国内生产总值（GDP）是对于经济活动的最广泛的测定，也是经济健康度的一个重要指标。 \nGDP每年（季度变化 x 4）的百分比变化显示了整体经济的增长率。 \n现在消费是美国GDP中最大的一个部分，对GDP的影响最大。 \n该数据每季之间都可能会有很大不同。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/gdp-375\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/newsreleases/national/gdp/gdpnewsrelease.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:1c62f08d-66ad-4656-921c-ea7faca39cba@investing.com
-DTSTAMP:20260512T033944Z
+UID:7c2314be-dc30-4a3c-a376-9c5704196f32@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260430T203000
 SUMMARY:美国劳工就业成本季率(%) (季度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.9 %\n预期: 0.8 %\n前值: 0.7 %\n周期: 季度环比\n详细: 美国劳工就业成本季率\n说明: 就业成本指数是衡量劳动力价格变化的指标。 \n就业成本指数消费者通货膨胀和个人收入增长。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/employment-cost-index-331\n来源: Bureau of Labor Statistics\n来源链接: https://www.bls.gov/news.release/eci.nr0.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:608faad6-9006-483b-8522-014cb922fa3c@investing.com
-DTSTAMP:20260512T033944Z
+UID:cf8ab957-f2e5-444d-b229-d78c231e9204@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260430T214500
 SUMMARY:美国芝加哥PMI
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 49.2\n预期: 54.8\n前值: 52.8\n周期: 四月\n说明: 芝加哥采购经理指数测定芝加哥制造业的经济健康度。 \n任何超过50的指数表示制造业的扩大，小于50的表示制造业的缩小。 \n 芝加哥采购经理指数对于预测美国供应管理协会（ISM）指数有一些用处并通常与之有着紧密的联系。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/chicago-pmi-38\n来源: ISM-Chicago\, Inc\n来源链接: https://chicago.ismworld.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:5538dd02-6809-4056-a132-48431d228c85@investing.com
-DTSTAMP:20260512T033944Z
+UID:dfc7ae6c-2b27-4a9c-8b91-1821f13cbcad@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260430T220000
 SUMMARY:美国领先指标月率 (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -0.6 %\n预期: -0.2 %\n前值: 0.0 %\n周期: 月度环比\n详细: 美国领先指标月率\n说明: 领先指标是综合经济指标，也是系统性分析商业周期波峰和波谷信号的关键要素。领先、同步、滞后经济指标本质上是多个单独的领先、同步、滞后经济数据的综合平均数。得益于领先指标剔除了个别因素的部分波动性，其能够更清晰、更可靠地总结和揭示经济数据中常见的转折点形态。\n链接: https://investing.com/economic-calendar/us-leading-index-1968\n来源: The Conference Board\n来源链接: https://conference-board.org/data/bcicountry.cfm?cid=1
 END:VEVENT
 BEGIN:VEVENT
-UID:81a23b60-1009-49cd-bf75-295890f0e7d4@investing.com
-DTSTAMP:20260512T033944Z
+UID:ce846121-0fcd-4765-b16b-98830053616c@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260430T233000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.7 %\n预期: -\n前值: -\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:d8fda7c8-b7b2-4f4b-9fb8-02fa2bc8f3c3@investing.com
-DTSTAMP:20260512T033944Z
+UID:bb667c9d-60f8-480a-9a0d-e9f262913109@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260501T043000
 SUMMARY:美联储资产负债表
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 6700 B\n预期: -\n前值: 6707 B\n链接: https://investing.com/economic-calendar/fed's-balance-sheet-2145\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/releases/h41/
 END:VEVENT
 BEGIN:VEVENT
-UID:1fb34dab-794f-4ab2-9373-4c2da1d16153@investing.com
-DTSTAMP:20260512T033944Z
+UID:dffb3553-06ce-4f94-8ea6-9652288eb7ea@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260501T214500
 SUMMARY:美国Markit制造业PMI
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 54.5\n预期: 54.0\n前值: 54.0\n周期: 四月\n详细: 美国Markit制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/manufacturing-pmi-829\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
 END:VEVENT
 BEGIN:VEVENT
-UID:76e5395c-978e-4fa2-ab74-f23c91b96555@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260501T220000
-SUMMARY:美国ISM制造业物价支付指数
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 84.6\n预期: 80.0\n前值: 78.3\n周期: 四月\n说明: 供应管理研究所（ISM）制造业价格代表企业对于未来通胀的看法，数值越高，表示通胀预期越强。 ISM指数是通过向50个国家的20种行业中超过400公司进行调查而获得的。 它是消费通货膨胀的领先指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/ism-manufacturing-prices-174\n来源: Institute for Supply Management \n来源链接: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/
-END:VEVENT
-BEGIN:VEVENT
-UID:38620961-cabd-4b60-9fb5-d681d3d3acf4@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260501T220000
-SUMMARY:美国ISM制造业PMI
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 52.7\n预期: 53.1\n前值: 52.7\n周期: 四月\n说明: 供应管理研究所（ISM）制造业指数所跟踪的是上月发生的制造业活动的数量。 \n 此数据被认为是十分重要且十分可信的经济数据。  如果此指数低于50，由于活动的增加，它倾向于表示经济不景气，特别是该趋势持续几个月的时候。 高企于50以上的指数表示很可能有一段时间的经济增长。 ISM指数是通过向50个国家的20种行业中超过400公司进行调查而获得的。 \nISM的领先性质已经多次被证实。 在衰退期，ISM的底部可能会领先于经济循环转折点之前几个月出现。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/ism-manufacturing-pmi-173\n来源: Institute for Supply Management \n来源链接: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/
-END:VEVENT
-BEGIN:VEVENT
-UID:70b2111e-f4da-4daa-ab62-cac138529870@investing.com
-DTSTAMP:20260512T033944Z
+UID:1011f2e2-aa97-4067-a3f0-cbcbe6c3fa41@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260501T220000
 SUMMARY:美国ISM制造业就业指数
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 46.4\n预期: 49.0\n前值: 48.7\n周期: 四月\n详细: 美国供应管理协会(ISM)制造业就业指数\n链接: https://investing.com/economic-calendar/ism-manufacturing-employment-1046\n来源: Institute for Supply Management \n来源链接: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/
 END:VEVENT
 BEGIN:VEVENT
-UID:ab3d89f4-c98e-4bb7-95ef-223577de403b@investing.com
-DTSTAMP:20260512T033944Z
+UID:507e3acc-d49c-437f-a216-467887187606@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260501T220000
+SUMMARY:美国ISM制造业物价支付指数
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 84.6\n预期: 80.0\n前值: 78.3\n周期: 四月\n说明: 供应管理研究所（ISM）制造业价格代表企业对于未来通胀的看法，数值越高，表示通胀预期越强。 ISM指数是通过向50个国家的20种行业中超过400公司进行调查而获得的。 它是消费通货膨胀的领先指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/ism-manufacturing-prices-174\n来源: Institute for Supply Management \n来源链接: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/
+END:VEVENT
+BEGIN:VEVENT
+UID:d86d07b5-8875-4fd4-8800-6a79bc521250@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260501T220000
+SUMMARY:美国ISM制造业PMI
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 52.7\n预期: 53.1\n前值: 52.7\n周期: 四月\n说明: 供应管理研究所（ISM）制造业指数所跟踪的是上月发生的制造业活动的数量。 \n 此数据被认为是十分重要且十分可信的经济数据。  如果此指数低于50，由于活动的增加，它倾向于表示经济不景气，特别是该趋势持续几个月的时候。 高企于50以上的指数表示很可能有一段时间的经济增长。 ISM指数是通过向50个国家的20种行业中超过400公司进行调查而获得的。 \nISM的领先性质已经多次被证实。 在衰退期，ISM的底部可能会领先于经济循环转折点之前几个月出现。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/ism-manufacturing-pmi-173\n来源: Institute for Supply Management \n来源链接: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/
+END:VEVENT
+BEGIN:VEVENT
+UID:3c424a5f-6dc8-49fa-b1b4-beb50fc20d04@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260501T233000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.5 %\n预期: 3.7 %\n前值: 3.7 %\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:31b96873-7bd7-4ae9-9046-ea00989ea9f1@investing.com
-DTSTAMP:20260512T033944Z
+UID:6a3eac3d-4f96-4fb5-b299-06eab1c66eee@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260502T010000
 SUMMARY:美国当周贝克休斯石油钻井总数(口)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 408\n预期: -\n前值: 407\n链接: https://investing.com/economic-calendar/baker-hughes-u.s.-rig-count-1652\n来源: Baker Hughes\n来源链接: http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview
 END:VEVENT
 BEGIN:VEVENT
-UID:ed6b8afc-a30e-4747-b3a8-5f40c1a4bed6@investing.com
-DTSTAMP:20260512T033944Z
+UID:3eb24aca-e1eb-4c90-8dab-ac9c12b88929@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260502T010000
 SUMMARY:美国当周贝克休斯总钻井总数(口)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 547\n预期: -\n前值: 544\n链接: https://investing.com/economic-calendar/u.s.-baker-hughes-total-rig-count-1810\n来源: Baker Hughes\n来源链接: http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview
 END:VEVENT
 BEGIN:VEVENT
-UID:0e0ce66d-a8e0-451c-ac24-364bc761ddf2@investing.com
-DTSTAMP:20260512T033944Z
+UID:f973a3b6-9116-448a-b8c8-352d1197a8e7@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260502T030000
 SUMMARY:美国总统特朗普(Donald Trump)讲话
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House\n来源链接: https://www.whitehouse.gov/briefings-statements/
 END:VEVENT
 BEGIN:VEVENT
-UID:e3440d73-5362-41f0-92e3-04a082c9a694@investing.com
-DTSTAMP:20260512T033944Z
+UID:ddecfbbf-0e86-4971-8962-8f1b056043a2@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260502T033000
 SUMMARY:美国商品期货交易委员会投机净仓位-原油
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 191.9 K\n预期: -\n前值: 192.3 K\n链接: https://investing.com/economic-calendar/cftc-crude-oil-speculative-positions-1653\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:32cbfd0c-6dc1-4f73-9cd4-861320366539@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260502T033000
-SUMMARY:美国商品期货交易委员会投机净仓位-黄金
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 159.6 K\n预期: -\n前值: 164.0 K\n说明: 商品期货交易委员会(CFTC)的交易商持仓(COT)周报提供美国期货市场中“非商业”（投机）交易商的净持仓明细。所有数据所反映的是主要在芝加哥和纽约期货市场的交易人士持仓情况。交易商持仓周报被认为是分析市场情绪的指标，许多投机交易商借助该数据来确定是否开多仓或淡仓。交易商持仓(COT)周报在美国假日休市之前的每周五美国东部时间下午3:30发布，反映截至周二的交易商持仓情况。\n链接: https://investing.com/economic-calendar/cftc-gold-speculative-positions-1618\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:505b9c01-98a9-4c03-9959-ead3d46e80cc@investing.com
-DTSTAMP:20260512T033944Z
+UID:ccf54060-2add-46e7-88a0-35c6ae3f929d@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260502T033000
 SUMMARY:商品期货交易委员会投机净仓位-纳斯达克100
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -2.3 K\n预期: -\n前值: 9.4 K\n链接: https://investing.com/economic-calendar/cftc-nasdaq-100-speculative-positions-1959\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:9617d8ce-6205-4e1a-ae21-6eeec12d33eb@investing.com
-DTSTAMP:20260512T033944Z
+UID:42fe7454-7266-43fd-b3b4-7ce19662a1d9@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260502T033000
 SUMMARY:美国商品期货交易委员会投机净仓位-标普500
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -101.4 K\n预期: -\n前值: -110.1 K\n说明: 商品期货交易委员会(CFTC)的交易商持仓(COT)周报提供美国期货市场中“非商业”（投机）交易商的净持仓明细。所有数据所反映的是主要在芝加哥和纽约期货市场的交易人士持仓情况。交易商持仓周报被认为是分析市场情绪的指标，许多投机交易商借助该数据来确定是否开多仓或淡仓。交易商持仓(COT)周报在美国假日休市之前的每周五美国东部时间下午3:30发布，反映截至周二的交易商持仓情况。\n链接: https://investing.com/economic-calendar/cftc-s-p-500-speculative-positions-1619\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:ba4d4758-6b2a-4b10-b0c9-25a26e2e06fc@investing.com
-DTSTAMP:20260512T033944Z
+UID:f5c52cad-1ba6-4f80-8078-b6d3c3a5ef80@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260502T033000
+SUMMARY:美国商品期货交易委员会投机净仓位-黄金
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 159.6 K\n预期: -\n前值: 164.0 K\n说明: 商品期货交易委员会(CFTC)的交易商持仓(COT)周报提供美国期货市场中“非商业”（投机）交易商的净持仓明细。所有数据所反映的是主要在芝加哥和纽约期货市场的交易人士持仓情况。交易商持仓周报被认为是分析市场情绪的指标，许多投机交易商借助该数据来确定是否开多仓或淡仓。交易商持仓(COT)周报在美国假日休市之前的每周五美国东部时间下午3:30发布，反映截至周二的交易商持仓情况。\n链接: https://investing.com/economic-calendar/cftc-gold-speculative-positions-1618\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:81228820-b986-44ba-8797-cd461ebcbf56@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260504T220000
 SUMMARY:美国工厂订单月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1.5 %\n预期: 0.5 %\n前值: 0.3 %\n周期: 月度环比\n详细: 美国工厂订单月率\n说明: 工厂订单是衡量工厂新的耐用品和非耐用品订单的美元水平的指标。 它包括了早期公布的耐用品订单和非耐用品订单。 这就是为什么此报告极富预测价值。 工厂订单数据发布时，通常也同时发布对前期耐用品订单数据的修改。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/factory-orders-100\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:be6d3866-d5ee-4f45-8710-2b955f6ec7a8@investing.com
-DTSTAMP:20260512T033944Z
+UID:efc1126e-21f7-4ad5-ad79-567ca6636e46@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T005000
 SUMMARY:美国纽约联储主席、FOMC常任票委威廉姆斯(John Williams)讲话
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/fomc-member-williams-speaks-1585\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/speeches.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:111b4031-affa-434c-872f-157cb093b739@investing.com
-DTSTAMP:20260512T033944Z
+UID:1e660290-d5da-4c84-af5d-348411dcc1eb@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T203000
 SUMMARY:美国进口月率(%)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 381.20 B\n预期: -\n前值: 372.40 B\n周期: 三月\n详细: 美国进口月率\n说明: 进口数量是指以合法的方式从另一个国家进入一个国家的任何商品或服务，通常用于贸易。进口商品或服务由外国生产商向国内消费者提供。若该数据低于预期，则应视为美元看多，若高于预期，则视为美元看淡。\n链接: https://investing.com/economic-calendar/imports-1763\n来源: Bureau of Economic Analysis\n来源链接: https://bea.gov/newsreleases/international/trade/tradnewsrelease.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:134131a4-3e36-4788-9b26-54152c868a73@investing.com
-DTSTAMP:20260512T033944Z
+UID:0ae20d06-2b55-4cd6-92cf-0376275c85f4@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T203000
 SUMMARY:美国营建许可总数(户)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1.538 M\n预期: 1.538 M\n前值: 1.386 M\n周期: 二月\n详细: 美国营建许可总数\n说明: 营建许可说明了政府许可的新建筑项目数量。 营建许可是衡量房地产市场状况的重要指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/building-permits-25\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/construction/nrc/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:a1ddef0e-4e96-4dbe-8386-659e88620e9a@investing.com
-DTSTAMP:20260512T033944Z
+UID:881ef7dc-b26a-45de-9764-559d7848c77d@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T203000
 SUMMARY:美国贸易帐(美元)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -60.30 B\n预期: -61.00 B\n前值: -57.80 B\n周期: 三月\n详细: 美国贸易帐\n说明: 贸易平衡是衡量进出口货物之间的价差（出口减进口）的指标。 它是国家国际收支最大的一个部分。 \n出口数据可以反映美国的经济增长。 进口数据表示国内需求。 \n外国人必须购买本国的货币以支付出口，这对于美元可能会有很大的影响。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/trade-balance-286\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:cde26d48-bcb0-4bc0-99f1-cf193bada129@investing.com
-DTSTAMP:20260512T033944Z
+UID:3ccab6d0-6dae-410f-9c59-62ba817785af@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T203000
 SUMMARY:美国出口月率(%)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 320.90 B\n预期: -\n前值: 314.70 B\n周期: 三月\n详细: 美国出口月率\n说明: 出口数量提供美元商品出口总额。  若该数据高于预期，则应视为美元看多，若低于预期，则视为美元看淡。\n链接: https://investing.com/economic-calendar/exports-1762\n来源: Bureau of Economic Analysis\n来源链接: https://bea.gov/newsreleases/international/trade/tradnewsrelease.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:38f5ff1d-0c90-4611-ba17-c8abf640f089@investing.com
-DTSTAMP:20260512T033944Z
+UID:f09ed874-b10b-4e86-8565-4cf5b326a86c@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T203100
 SUMMARY:美国营建许可总数(户)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1.363 M\n预期: 1.372 M\n前值: 1.538 M\n周期: 三月\n详细: 美国营建许可总数\n说明: 营建许可说明了政府许可的新建筑项目数量。 营建许可是衡量房地产市场状况的重要指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/building-permits-25\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/construction/nrc/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:6caa47d1-a36e-4b3e-8e18-110a38869e7c@investing.com
-DTSTAMP:20260512T033944Z
+UID:4c5dad5e-339a-44c4-96c6-fc2012e1a5ad@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T214500
 SUMMARY:美国Markit服务业PMI
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 51.0\n预期: 51.3\n前值: 49.8\n周期: 四月\n详细: 美国Markit服务业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/services-pmi-1062\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
 END:VEVENT
 BEGIN:VEVENT
-UID:b31e9204-fb8a-41c4-94de-501dea2c451d@investing.com
-DTSTAMP:20260512T033944Z
+UID:20dc379c-c269-416b-84ab-4d692c7925b2@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T214500
 SUMMARY:美国S&P Global综合PMI
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 51.7\n预期: 52.0\n前值: 50.3\n周期: 四月\n详细: 美国S&P Global综合采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/s-p-global-composite-pmi-1492\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
 END:VEVENT
 BEGIN:VEVENT
-UID:92cc5a9f-4ee1-4bac-af6e-dfb29156a7fa@investing.com
-DTSTAMP:20260512T033944Z
+UID:cccd2980-2fd0-4624-981c-5f34b28bcd09@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T215900
 SUMMARY:美国季调后新屋销售年化总数(户)
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 635 K\n预期: -\n前值: 583 K\n周期: 二月\n详细: 美国季调后新屋销售年化总数\n说明: 新屋销售是衡量上月售出的新住房按年计算的数据的指标。 \n此报告有助于分析美国房地产市场的实力，进而有助于分析整体经济。 \n新屋销售报告很不稳定，会有很大程度的修改。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/new-home-sales-222\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/construction/nrc/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:50cfebd4-681a-44ea-ae23-3cc44236e42f@investing.com
-DTSTAMP:20260512T033944Z
+UID:add7ac1a-b125-4712-bc51-6d512a9193bf@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T215900
 SUMMARY:美国季调后新屋销售年化月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 8.9 %\n预期: -\n前值: -19.9 %\n周期: 月度环比\n详细: 美国季调后新屋销售年化月率\n链接: https://investing.com/economic-calendar/new-home-sales-896\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:55900534-e73d-4b16-b966-8337c95d8131@investing.com
-DTSTAMP:20260512T033944Z
+UID:4a9d0f36-054c-4f85-85bb-a9e1e61149c5@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T220000
 SUMMARY:美国联邦公开市场委员会（FOMC）成员Michelle W. Bowman发表讲话
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n说明: 鲍曼(Michelle W. Bowman)自2018年11月26日起担任美国联邦储备委员会理事，任期截至2020年1月31日届满。其公开活动往往会透露未来货币政策的蛛丝马迹。\n链接: https://investing.com/economic-calendar/fomc-member-bowman-speaks-1835\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/speeches.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:4d941813-a913-428a-9117-9665b96d6810@investing.com
-DTSTAMP:20260512T033944Z
+UID:c7a355c3-5e87-47e1-971e-381678a9b33e@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T220000
 SUMMARY:美国季调后新屋销售年化月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 7.4 %\n预期: -\n前值: 8.9 %\n周期: 月度环比\n详细: 美国季调后新屋销售年化月率\n链接: https://investing.com/economic-calendar/new-home-sales-896\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:45c3ea99-a444-42de-80da-e0524d0768c7@investing.com
-DTSTAMP:20260512T033944Z
+UID:13136254-6ccc-4595-90c0-12006e038e06@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T220000
 SUMMARY:美国ISM非制造业PMI
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 53.6\n预期: 53.7\n前值: 54.0\n周期: 四月\n说明: 供应管理研究所（ISM）非制造业指数（也称为ISM服务业）所跟踪的是上月发生的非制造业活动的数量。 \n任何超过50的指数表示扩大，小于50的表示缩小。 \n它对于GDP的影响比ISM制造业指数的要小得多。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/ism-non-manufacturing-pmi-176\n来源: Institute for Supply Management\n来源链接: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/
 END:VEVENT
 BEGIN:VEVENT
-UID:38a076bb-c632-4c79-bc03-03d95cfbec73@investing.com
-DTSTAMP:20260512T033944Z
+UID:b440facc-839f-4f99-9556-9a11801dc917@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T220000
 SUMMARY:美国ISM非制造业物价指数
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 70.7\n预期: 73.7\n前值: 70.7\n周期: 四月\n详细: 美国供应管理协会(ISM)非制造业物价指数\n链接: https://investing.com/economic-calendar/ism-non-manufacturing-prices-1049\n来源: Institute for Supply Management \n来源链接: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/
 END:VEVENT
 BEGIN:VEVENT
-UID:ca310773-bccd-4d3c-a5d7-0c5cd5ca9427@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260505T220000
-SUMMARY:美国JOLTS职位空缺
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 6.866 M\n预期: 6.860 M\n前值: 6.922 M\n周期: 三月\n详细: 美国劳工流动调查报告(JOLTS)职位空缺\n说明: 美国劳工统计局进行的一项调查，旨在衡量职位空缺情况。该调查从雇主收集关于其企业' 雇佣、职位空缺、招聘、录用及离职的数据。\n职位空缺与劳动力流动调查（JOLTS）将“职位空缺”定义为每月最后一个工作日仍未填补（即空缺）的所有职位。一个职位只有在满足以下三个条件时才视为“空缺”：\n1.存在具体的职位，且该职位有工作可做。\n2.无论机构在此期间是否能找到合适的候选人，该职位都可在30天内开始工作。\n3.设有该空缺职位的机构正积极从外部招聘员工。\n调查数据若强于预期，通常对美元构成支撑（利好）；而若弱于预期，则通常对美元构成负面影响（利空）。\n链接: https://investing.com/economic-calendar/jolts-job-openings-1057\n来源: Bureau of Labor Statistics\n来源链接: https://www.bls.gov/news.release/jolts.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:e8b6e6eb-982b-45e2-9fdd-cbbfcb31e40f@investing.com
-DTSTAMP:20260512T033944Z
+UID:c7c1c06f-f7d7-4085-9efd-7a9b69252f73@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T220000
 SUMMARY:美国季调后新屋销售年化总数(户)
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 682 K\n预期: 652 K\n前值: 635 K\n周期: 三月\n详细: 美国季调后新屋销售年化总数\n说明: 新屋销售是衡量上月售出的新住房按年计算的数据的指标。 \n此报告有助于分析美国房地产市场的实力，进而有助于分析整体经济。 \n新屋销售报告很不稳定，会有很大程度的修改。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/new-home-sales-222\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/construction/nrc/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:e1e20127-d7ae-4720-acc9-60b817fd4111@investing.com
-DTSTAMP:20260512T033944Z
+UID:4e60ce46-fb7a-423d-ae66-2ad264ba3a15@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260505T220000
 SUMMARY:美国ISM非制造业就业指数
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 48.0\n预期: 48.3\n前值: 45.2\n周期: 四月\n详细: 美国供应管理协会(ISM)非制造业就业指数\n链接: https://investing.com/economic-calendar/ism-non-manufacturing-employment-1048\n来源: Institute for Supply Management \n来源链接: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/
 END:VEVENT
 BEGIN:VEVENT
-UID:1062d477-a4ed-4071-bf0c-f4fdf279dc2a@investing.com
-DTSTAMP:20260512T033944Z
+UID:3e9ea688-39d4-4668-b9bb-cd5747a3102e@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260505T220000
+SUMMARY:美国JOLTS职位空缺
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 6.866 M\n预期: 6.860 M\n前值: 6.922 M\n周期: 三月\n详细: 美国劳工流动调查报告(JOLTS)职位空缺\n说明: 美国劳工统计局进行的一项调查，旨在衡量职位空缺情况。该调查从雇主收集关于其企业' 雇佣、职位空缺、招聘、录用及离职的数据。\n职位空缺与劳动力流动调查（JOLTS）将“职位空缺”定义为每月最后一个工作日仍未填补（即空缺）的所有职位。一个职位只有在满足以下三个条件时才视为“空缺”：\n1.存在具体的职位，且该职位有工作可做。\n2.无论机构在此期间是否能找到合适的候选人，该职位都可在30天内开始工作。\n3.设有该空缺职位的机构正积极从外部招聘员工。\n调查数据若强于预期，通常对美元构成支撑（利好）；而若弱于预期，则通常对美元构成负面影响（利空）。\n链接: https://investing.com/economic-calendar/jolts-job-openings-1057\n来源: Bureau of Labor Statistics\n来源链接: https://www.bls.gov/news.release/jolts.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:5025e815-1f7b-4d6f-9af3-a125aa278800@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260506T000000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.7 %\n预期: 3.5 %\n前值: 3.5 %\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:10d6b820-bf8d-4b5e-ad0d-73aaba415f00@investing.com
-DTSTAMP:20260512T033944Z
+UID:dff9e30f-4043-406a-add5-21eaac3725ab@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260506T003000
 SUMMARY:美联储金融监管副主席巴尔(Michael Barr)讲话
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n详细: 美联储金融监管副主席迈克尔·巴尔(Michael S. Barr)讲话\n链接: https://investing.com/economic-calendar/fed-vice-chair-for-supervision-barr-speaks-2108\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/calendar.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:7399dc9c-a1d6-4244-94d4-7c58a517f6c2@investing.com
-DTSTAMP:20260512T033944Z
+UID:d70de5f1-7d08-4fcf-8cc8-3c6dee0c4e4e@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260506T043000
 SUMMARY:美国当周API原油库存变动(桶)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -8.100 M\n预期: -2.800 M\n前值: -1.790 M\n详细: 美国API原油库存变动\n说明: 美国石油学会每周二发布美国原油、汽油和蒸馏油库存的1600报告的原油库存水平。 该数据显示现在有多少石油库存和产品，因此可以了解供应将持续多久。 而且该数据按照产品和地区表示美国石油需求，同时监控美国原油生产和原油进口及成品油。\n链接: https://investing.com/economic-calendar/api-weekly-crude-stock-656\n来源: American Petroleum Institute\n来源链接: http://www.api.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:54e69c63-e8c7-4e5c-9eda-0af6092ed4f5@investing.com
-DTSTAMP:20260512T033944Z
+UID:e1c5e916-9c9b-43c7-9584-792ab667d75c@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260506T201500
 SUMMARY:美国ADP就业人数
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 109 K\n预期: 118 K\n前值: 61 K\n周期: 四月\n说明: ADP（自动数据处理公司）全美就业报告根据代表着大约40万美国企业客户的汇总和匿名人数数据的子集，衡量了非农业私营部门就业情况的月度变化。 此报告在政府发布就业数据的两天前出版，是对政府非农业就业人数数据进行预测的一个很好的参考指标。 该指标可能极不稳定。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/adp-nonfarm-employment-change-1\n来源: Automatic Data Processing (ADP)\n来源链接: https://adpemploymentreport.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:03dd6458-97cb-425a-bd02-5f0cf2c5b12c@investing.com
-DTSTAMP:20260512T033944Z
+UID:0e3ca469-6cb1-40a7-b388-b6c39e5200be@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260506T223000
 SUMMARY:美国当周EIA库欣原油库存变动(桶)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -0.648 M\n预期: -\n前值: -0.796 M\n详细: 美国当周EIA俄克拉荷马州库欣原油库存变动(桶)\n链接: https://investing.com/economic-calendar/eia-weekly-cushing-oil-inventories-1657\n来源: U.S. Energy Information Administration\n来源链接: https://www.eia.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:59d9827b-7a5a-4193-a1f7-93dcb2517694@investing.com
-DTSTAMP:20260512T033944Z
+UID:da9119db-5ddc-445e-bbba-49c886c0e8ed@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260506T223000
 SUMMARY:美国当周EIA原油库存变动(桶)
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -2.313 M\n预期: -3.400 M\n前值: -6.234 M\n详细: 美国当周EIA原油库存变动\n说明: 能源情报署（EIA）的原油库存是衡量美国公司所存有的商用原油周增加桶数的指标。 库存的水平影响到石油产品的价格，对于通胀以及其他经济力量有影响。\n链接: https://investing.com/economic-calendar/eia-crude-oil-inventories-75\n来源: U.S. Energy Information Administration\n来源链接: https://www.eia.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:7cf2ff7a-148b-4fe4-8d51-2a091b4d40a0@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260507T203000
-SUMMARY:美国非农生产力季率(%) (季度环比)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.8 %\n预期: 0.7 %\n前值: 1.6 %\n周期: 季度环比\n详细: 美国非农生产力季率\n说明: 非农业生产率是衡量美国工人在生产产品和提供服务（不含农业）时的平均生产率水平按年计算的变动的指标。 \n非农业生产率是用GDP除以工作小时数来计算的。 \n非农业生产率的增长通常被看作是健康经济的标志。 \n劳动生产率的下降表示通货膨胀 － 因为它相当于工资水平上升。 \n该数据可能非常不稳定。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/nonfarm-productivity-228\n来源: Bureau of Labor Statistics of the US Department of Labor\n来源链接: https://www.bls.gov/news.release/prod2.nr0.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:adcdd8fb-d466-4f65-a6b0-12203ecf3981@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260507T203000
-SUMMARY:美国非农单位劳动力成本 (季度环比)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 2.3 %\n预期: 2.6 %\n前值: 4.6 %\n周期: 季度环比\n详细: 美国非农单位劳动力成本\n说明: 单位劳动力成本是衡量就业劳动力总成本变化的指标。 \n单位劳动力成本指数良好反映了当季通胀的趋势和生产成本。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/unit-labor-costs-303\n来源: Bureau of Labor Statistics of the US Department of Labor\n来源链接: https://www.bls.gov/news.release/prod2.nr0.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:12b9e683-b03b-4a74-99ce-ee2cbd987233@investing.com
-DTSTAMP:20260512T033944Z
+UID:cb577452-6036-47d5-91cf-a7d907c07ab5@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260507T203000
 SUMMARY:美国初请失业金人数
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 200 K\n预期: 205 K\n前值: 190 K\n说明: 首次失业救济申请是对于在当周首次进行失业救济申请的人数所进行季度调整的衡量。 此数据由劳工部收集，每周发布。 \n失业救济人数被用于对用工市场健康度进行衡量，如果数字增加，则表示就业人数较少。 \n由于是以周为单位进行计算，该失业救济申请数据十分不稳定。 \n通常，至少35\,000申请数的变动才能表示就业机会增加的重大变化。 \n如果该指标比预期更高，则应认为美元弱势/看跌，而如果该指标比预期更低，则应认为美元强势/看涨。\n链接: https://investing.com/economic-calendar/initial-jobless-claims-294\n来源: Department of Labor\n来源链接: https://www.dol.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:2be6ec88-a978-4780-81e1-282f72879dd4@investing.com
-DTSTAMP:20260512T033944Z
+UID:c68f9505-cb37-48a9-a8aa-87c888a22111@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260507T203000
 SUMMARY:美国续请失业金人数
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1766 K\n预期: 1800 K\n前值: 1776 K\n说明: 连续失业救济是衡量首次申领失业救济人数之后申请失业救济的人数。 它通常在首次申领失业救济人数之后一周发布。\n链接: https://investing.com/economic-calendar/continuing-jobless-claims-522\n来源: United States Department of Labor\n来源链接: https://www.dol.gov/newsroom/economicdata
 END:VEVENT
 BEGIN:VEVENT
-UID:a12bcd13-40eb-43c0-90c1-d80ab9b2a093@investing.com
-DTSTAMP:20260512T033944Z
+UID:be9c1baa-eaac-4de8-882f-b85878fafe02@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260507T203000
+SUMMARY:美国非农生产力季率(%) (季度环比)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.8 %\n预期: 0.7 %\n前值: 1.6 %\n周期: 季度环比\n详细: 美国非农生产力季率\n说明: 非农业生产率是衡量美国工人在生产产品和提供服务（不含农业）时的平均生产率水平按年计算的变动的指标。 \n非农业生产率是用GDP除以工作小时数来计算的。 \n非农业生产率的增长通常被看作是健康经济的标志。 \n劳动生产率的下降表示通货膨胀 － 因为它相当于工资水平上升。 \n该数据可能非常不稳定。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/nonfarm-productivity-228\n来源: Bureau of Labor Statistics of the US Department of Labor\n来源链接: https://www.bls.gov/news.release/prod2.nr0.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:a4c3785e-59d9-415a-ba9d-ff3ff154d1f7@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260507T203000
+SUMMARY:美国非农单位劳动力成本 (季度环比)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 2.3 %\n预期: 2.6 %\n前值: 4.6 %\n周期: 季度环比\n详细: 美国非农单位劳动力成本\n说明: 单位劳动力成本是衡量就业劳动力总成本变化的指标。 \n单位劳动力成本指数良好反映了当季通胀的趋势和生产成本。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/unit-labor-costs-303\n来源: Bureau of Labor Statistics of the US Department of Labor\n来源链接: https://www.bls.gov/news.release/prod2.nr0.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:cba56157-0395-4037-a3a5-01dfff9b4efa@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260507T215900
 SUMMARY:美国营建支出月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -0.2 %\n预期: -\n前值: -1.9 %\n周期: 月度环比\n详细: 美国营建支出月率\n说明: 建筑开支指数是衡量美国在建筑业上的总开支变化的指标，该开支是在房屋和项目完工的基础上计算的。 因此这些数据代表已经完成的数据。 月度变化取决于大的修改和变动，因此此报告鲜有市场影响。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/construction-spending-45\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:197864e1-ed88-4803-99e0-485bede157d2@investing.com
-DTSTAMP:20260512T033944Z
+UID:98867a94-b218-476d-9830-41bbf2858bab@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260507T220000
 SUMMARY:美国营建支出月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.6 %\n预期: 0.3 %\n前值: -1.9 %\n周期: 月度环比\n详细: 美国营建支出月率\n说明: 建筑开支指数是衡量美国在建筑业上的总开支变化的指标，该开支是在房屋和项目完工的基础上计算的。 因此这些数据代表已经完成的数据。 月度变化取决于大的修改和变动，因此此报告鲜有市场影响。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/construction-spending-45\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:68561f5f-61de-47f0-83a5-4b68b74b6290@investing.com
-DTSTAMP:20260512T033944Z
+UID:10f60aa0-3213-431e-855c-dbbc28b80e7b@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260508T001000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.7 %\n预期: 3.7 %\n前值: 3.7 %\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:cf171e8a-6eed-4e11-92cd-b8fd55d9ba88@investing.com
-DTSTAMP:20260512T033944Z
+UID:adb10fe8-36bf-4112-90ed-5dfa420b74c5@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260508T020000
 SUMMARY:美国明尼阿波利斯联储主席卡什卡里(Neel Kashkari)讲话
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/fomc-member-kashkari-speaks-1665\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/speeches.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:0f2cd49a-0425-4502-a837-c7a4646d61e7@investing.com
-DTSTAMP:20260512T033944Z
+UID:3d708494-6706-4af5-b773-8e0e2d028dd1@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260508T033000
 SUMMARY:美国纽约联储主席、FOMC常任票委威廉姆斯(John Williams)讲话
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/fomc-member-williams-speaks-1585\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/speeches.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:4122ba33-86c7-4d59-8951-fdf4843fda1e@investing.com
-DTSTAMP:20260512T033944Z
+UID:28e1c5a5-04b5-4ee6-9be5-c89d5b59f216@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260508T043000
 SUMMARY:美联储资产负债表
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 6710 B\n预期: -\n前值: 6700 B\n链接: https://investing.com/economic-calendar/fed's-balance-sheet-2145\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/releases/h41/
 END:VEVENT
 BEGIN:VEVENT
-UID:46da97a2-a079-4fcf-8c6c-a4441ca3a785@investing.com
-DTSTAMP:20260512T033944Z
+UID:2640b6b7-2bf8-4db6-a3f1-82f4a02a6887@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260508T193000
 SUMMARY:美国联邦公开市场委员会（FOMC）成员Michelle W. Bowman发表讲话
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n说明: 鲍曼(Michelle W. Bowman)自2018年11月26日起担任美国联邦储备委员会理事，任期截至2020年1月31日届满。其公开活动往往会透露未来货币政策的蛛丝马迹。\n链接: https://investing.com/economic-calendar/fomc-member-bowman-speaks-1835\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/speeches.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:e08c6210-8baa-4da4-a9b2-d867a914bf9a@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260508T203000
-SUMMARY:美国平均时薪年率(%) (同比)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.6 %\n预期: 3.8 %\n前值: 3.4 %\n周期: 同比\n详细: 美国平均时薪年率\n链接: https://investing.com/economic-calendar/average-hourly-earnings-1777\n来源: U.S. Bureau of Labor Statistics\, Department of Labor\n来源链接: https://www.bls.gov/news.release/empsit.toc.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:9b591c16-e7a4-4819-ab80-c2beed1d84f8@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260508T203000
-SUMMARY:美国失业率
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 4.3 %\n预期: 4.3 %\n前值: 4.3 %\n周期: 四月\n说明: 失业率是衡量美国失业的但仍在积极寻找就业并愿意工作的人数占总劳动力的百分比。 \n高百分比表示劳动力市场薄弱。 低百分比对美国的劳动力市场是一种正面的指示，并应认为美元看好。\n链接: https://investing.com/economic-calendar/unemployment-rate-300\n来源: Bureau of Labor Statistics\n来源链接: https://www.bls.gov/news.release/empsit.nr0.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:e51b9cc3-6457-4dce-a2fa-b0ef2611dd4f@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260508T203000
-SUMMARY:美国劳动参与率
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 61.8 %\n预期: -\n前值: 61.9 %\n周期: 四月\n链接: https://investing.com/economic-calendar/participation-rate-1581\n来源: Bureau of Labor Statistics\n来源链接: https://www.bls.gov/news.release/empsit.nr0.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:0a962a4e-e415-47ef-96a6-991ab2f4c381@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260508T203000
-SUMMARY:美国季调后非农就业人口变动
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 115 K\n预期: 65 K\n前值: 185 K\n周期: 四月\n说明: 非农业就业人数是衡量所有非农业企业中上月就业人数变化的指标。 总非农业就业人数是指生产大约整个美国国内生产总值80％的工人数量。 \n它是用工报告中最重要的单项数据，该报告被认为提供了最佳经济观点。. \n就业人数的月度变化和修改可能很不稳定。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/nonfarm-payrolls-227\n来源: Bureau of Labor Statistics\n来源链接: https://www.bls.gov/news.release/empsit.nr0.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:79f3a864-11b7-4bb0-8e54-76a830bd8162@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260508T203000
-SUMMARY:美国私营企业非农就业人数变动
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 123 K\n预期: 75 K\n前值: 190 K\n周期: 四月\n说明: 私人非农业就业人数是衡量私人非农业企业中上月就业人数变化的指标。 \n就业人数的月度变化和修改可能很不稳定。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/private-nonfarm-payrolls-528\n来源: Bureau of Labor Statistics\n来源链接: https://www.bls.gov/news.release/empsit.toc.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:bd4151c1-22c6-4574-a1bb-910d3e19bfc1@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260508T203000
-SUMMARY:美国平均每小时工资月率(%) (月度环比)
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 0.2 %\n预期: 0.3 %\n前值: 0.2 %\n周期: 月度环比\n详细: 美国平均每小时工资月率\n说明: 平均小时薪金是衡量主要行业中平均每小时基本薪金变化的指标。 因此，其所衡量的是劳动力成本的增长。 \n平均小时薪金指标良好体现了当月个人收入增长的情况。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/average-hourly-earnings-8\n来源: U.S. Bureau of Labor Statistics\, Department of Labor \n来源链接: https://www.bls.gov/news.release/empsit.toc.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:b3f92985-4e2c-4523-b59f-21b66c47a7c7@investing.com
-DTSTAMP:20260512T033944Z
+UID:3e11c048-b82c-483c-9e9a-1f2a06f9f20d@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260508T203000
 SUMMARY:美国U6失业率(%)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 8.2 %\n预期: -\n前值: 8.0 %\n周期: 四月\n详细: 美国U6失业率\n说明: 上月内已经失业并在积极寻找就业的人数占总劳动人口的百分比。该数据也包括所有勉强算作劳动人口的人员以及因经济理由兼职就业的总人口，为平民劳动人口以及所有勉强算作劳动人口人员的百分比。\n链接: https://investing.com/economic-calendar/u6-unemployment-rate-1670\n来源: Bureau of Labor Statistics\n来源链接: https://www.bls.gov/news.release/empsit.t15.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:1c7743d5-011f-4682-b692-9feec0692c8c@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260508T220000
-SUMMARY:美国密歇根大学5-10年期通胀率预期(%)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.4 %\n预期: 3.5 %\n前值: 3.5 %\n周期: 五月\n详细: 美国密歇根大学5-10年期通胀率预期\n链接: https://investing.com/economic-calendar/michigan-5-year-inflation-expectations-1568\n来源: University Of Michigan\n来源链接: http://www.sca.isr.umich.edu/
+UID:d0fe3efb-aac2-41a8-8752-d9c3fce6932d@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260508T203000
+SUMMARY:美国平均时薪年率(%) (同比)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.6 %\n预期: 3.8 %\n前值: 3.4 %\n周期: 同比\n详细: 美国平均时薪年率\n链接: https://investing.com/economic-calendar/average-hourly-earnings-1777\n来源: U.S. Bureau of Labor Statistics\, Department of Labor\n来源链接: https://www.bls.gov/news.release/empsit.toc.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:2c0c8ead-5d2d-448e-9ede-5e48f0bd7944@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260508T220000
-SUMMARY:美国密歇根大学消费者信心指数
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 48.2\n预期: 49.7\n前值: 49.8\n周期: 五月\n说明: 密歇根消费者情绪指数是衡量经济活动中消费者信心水平的指标。 它是一个领先指标，因为它可以预测消费者开支，消费者开支是整体经济活动的主要部分。 \n它是通过对500位消费者进行调查而获得的。 \n较高的指标表示较高的消费者乐观度。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/michigan-consumer-sentiment-320\n来源: University of Michigan\n来源链接: http://www.sca.isr.umich.edu/
+UID:4b85e80c-b869-4a77-9d9a-fce650f22a18@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260508T203000
+SUMMARY:美国失业率
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 4.3 %\n预期: 4.3 %\n前值: 4.3 %\n周期: 四月\n说明: 失业率是衡量美国失业的但仍在积极寻找就业并愿意工作的人数占总劳动力的百分比。 \n高百分比表示劳动力市场薄弱。 低百分比对美国的劳动力市场是一种正面的指示，并应认为美元看好。\n链接: https://investing.com/economic-calendar/unemployment-rate-300\n来源: Bureau of Labor Statistics\n来源链接: https://www.bls.gov/news.release/empsit.nr0.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:01bc6011-5c1c-4e4f-8922-8e5a9df82a8c@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260508T220000
-SUMMARY:美国密歇根大学消费者预期指数
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 48.5\n预期: 48.1\n前值: 48.1\n周期: 五月\n链接: https://investing.com/economic-calendar/michigan-consumer-expectations-900\n来源: University Of Michigan\n来源链接: http://www.sca.isr.umich.edu/
+UID:5d09ad62-b5be-4b55-bcc8-711c9bc5582b@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260508T203000
+SUMMARY:美国劳动参与率
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 61.8 %\n预期: -\n前值: 61.9 %\n周期: 四月\n链接: https://investing.com/economic-calendar/participation-rate-1581\n来源: Bureau of Labor Statistics\n来源链接: https://www.bls.gov/news.release/empsit.nr0.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:ea061c46-dc39-49fe-9948-d5ce7c502647@investing.com
-DTSTAMP:20260512T033944Z
+UID:65d1ef2c-f164-4085-a076-4648c1c41e2d@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260508T203000
+SUMMARY:美国季调后非农就业人口变动
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 115 K\n预期: 65 K\n前值: 185 K\n周期: 四月\n说明: 非农业就业人数是衡量所有非农业企业中上月就业人数变化的指标。 总非农业就业人数是指生产大约整个美国国内生产总值80％的工人数量。 \n它是用工报告中最重要的单项数据，该报告被认为提供了最佳经济观点。. \n就业人数的月度变化和修改可能很不稳定。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/nonfarm-payrolls-227\n来源: Bureau of Labor Statistics\n来源链接: https://www.bls.gov/news.release/empsit.nr0.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:95162f94-6bce-4a2a-baea-a423aa83b8e0@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260508T203000
+SUMMARY:美国私营企业非农就业人数变动
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 123 K\n预期: 75 K\n前值: 190 K\n周期: 四月\n说明: 私人非农业就业人数是衡量私人非农业企业中上月就业人数变化的指标。 \n就业人数的月度变化和修改可能很不稳定。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/private-nonfarm-payrolls-528\n来源: Bureau of Labor Statistics\n来源链接: https://www.bls.gov/news.release/empsit.toc.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:17788d3d-47cd-4043-a27e-fd27442f7d52@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260508T203000
+SUMMARY:美国平均每小时工资月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 0.2 %\n预期: 0.3 %\n前值: 0.2 %\n周期: 月度环比\n详细: 美国平均每小时工资月率\n说明: 平均小时薪金是衡量主要行业中平均每小时基本薪金变化的指标。 因此，其所衡量的是劳动力成本的增长。 \n平均小时薪金指标良好体现了当月个人收入增长的情况。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/average-hourly-earnings-8\n来源: U.S. Bureau of Labor Statistics\, Department of Labor \n来源链接: https://www.bls.gov/news.release/empsit.toc.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:9e3d8708-c42f-4adf-8eaa-2ec70d9adabd@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260508T220000
 SUMMARY:美国密歇根大学1年期通胀率预期
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 4.5 %\n预期: 4.8 %\n前值: 4.7 %\n周期: 五月\n说明: 此月度调查是衡量消费者对于在随后12个月中消费品和劳动力价格变动的期望值百分比。 \n密歇根大学首先发布初期数据，大约15天内发布修改数据。 \n 由于初始数据是最早发布的，它具有更多的影响。\n链接: https://investing.com/economic-calendar/michigan-1-year-inflation-expectations-389\n来源: University of Michigan\n来源链接: http://www.sca.isr.umich.edu/
 END:VEVENT
 BEGIN:VEVENT
-UID:df775242-43fd-4b2c-ac46-47808fbb8fed@investing.com
-DTSTAMP:20260512T033944Z
+UID:40afab93-a3be-44c3-9067-6fb25d488539@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260508T220000
+SUMMARY:美国密歇根大学消费者预期指数
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 48.5\n预期: 48.1\n前值: 48.1\n周期: 五月\n链接: https://investing.com/economic-calendar/michigan-consumer-expectations-900\n来源: University Of Michigan\n来源链接: http://www.sca.isr.umich.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:5eebd327-23a3-46a2-88a2-ff6377c2d25d@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260508T220000
+SUMMARY:美国密歇根大学消费者信心指数
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 48.2\n预期: 49.7\n前值: 49.8\n周期: 五月\n说明: 密歇根消费者情绪指数是衡量经济活动中消费者信心水平的指标。 它是一个领先指标，因为它可以预测消费者开支，消费者开支是整体经济活动的主要部分。 \n它是通过对500位消费者进行调查而获得的。 \n较高的指标表示较高的消费者乐观度。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/michigan-consumer-sentiment-320\n来源: University of Michigan\n来源链接: http://www.sca.isr.umich.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d823357-eca2-4510-8966-0e0112921bb9@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260508T220000
+SUMMARY:美国密歇根大学5-10年期通胀率预期(%)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.4 %\n预期: 3.5 %\n前值: 3.5 %\n周期: 五月\n详细: 美国密歇根大学5-10年期通胀率预期\n链接: https://investing.com/economic-calendar/michigan-5-year-inflation-expectations-1568\n来源: University Of Michigan\n来源链接: http://www.sca.isr.umich.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:c2a04c82-7b02-415a-8536-fc39bb0d47ef@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260508T235000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.7 %\n预期: 3.7 %\n前值: 3.7 %\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:1903e5cb-b5e4-4dd0-ba15-2eab450143dd@investing.com
-DTSTAMP:20260512T033944Z
+UID:11246596-886f-4b13-9b2d-c28705b76c90@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260509T000000
 SUMMARY:美国总统特朗普(Donald Trump)讲话
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-president-trump-speaks-1694\n来源: White House\n来源链接: https://www.whitehouse.gov/briefings-statements/
 END:VEVENT
 BEGIN:VEVENT
-UID:3e528016-9034-44c1-b5f8-f0560974753d@investing.com
-DTSTAMP:20260512T033944Z
+UID:4edc776c-f4fc-4332-ae91-80a0620b025e@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260509T010000
 SUMMARY:美国当周贝克休斯石油钻井总数(口)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 410\n预期: -\n前值: 408\n链接: https://investing.com/economic-calendar/baker-hughes-u.s.-rig-count-1652\n来源: Baker Hughes\n来源链接: http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview
 END:VEVENT
 BEGIN:VEVENT
-UID:05bfe26c-8264-40b7-a768-0198aa195e03@investing.com
-DTSTAMP:20260512T033944Z
+UID:c656aa22-35c3-43e8-921d-7600b8840ee3@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260509T010000
 SUMMARY:美国当周贝克休斯总钻井总数(口)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 548\n预期: -\n前值: 547\n链接: https://investing.com/economic-calendar/u.s.-baker-hughes-total-rig-count-1810\n来源: Baker Hughes\n来源链接: http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview
 END:VEVENT
 BEGIN:VEVENT
-UID:c1d32328-9fa2-4d82-b20f-2ff74a9e9854@investing.com
-DTSTAMP:20260512T033944Z
+UID:6d6000dc-f30a-4d31-aa09-47953b4afd50@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260509T033000
 SUMMARY:美国商品期货交易委员会投机净仓位-原油
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 178.8 K\n预期: -\n前值: 191.9 K\n链接: https://investing.com/economic-calendar/cftc-crude-oil-speculative-positions-1653\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:b71f48fa-f235-4f7c-b4c0-358e49352a42@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260509T033000
-SUMMARY:商品期货交易委员会投机净仓位-纳斯达克100
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1.2 K\n预期: -\n前值: -2.3 K\n链接: https://investing.com/economic-calendar/cftc-nasdaq-100-speculative-positions-1959\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:b044ab23-a077-418d-a22f-501f4492e51e@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260509T033000
-SUMMARY:美国商品期货交易委员会投机净仓位-标普500
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -103.9 K\n预期: -\n前值: -101.4 K\n说明: 商品期货交易委员会(CFTC)的交易商持仓(COT)周报提供美国期货市场中“非商业”（投机）交易商的净持仓明细。所有数据所反映的是主要在芝加哥和纽约期货市场的交易人士持仓情况。交易商持仓周报被认为是分析市场情绪的指标，许多投机交易商借助该数据来确定是否开多仓或淡仓。交易商持仓(COT)周报在美国假日休市之前的每周五美国东部时间下午3:30发布，反映截至周二的交易商持仓情况。\n链接: https://investing.com/economic-calendar/cftc-s-p-500-speculative-positions-1619\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:a67bd45d-e374-4c64-96ba-d7181a5c3c3f@investing.com
-DTSTAMP:20260512T033944Z
+UID:ab905cd2-8999-4335-8485-1d9775bc5b4d@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260509T033000
 SUMMARY:美国商品期货交易委员会投机净仓位-黄金
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 163.3 K\n预期: -\n前值: 159.6 K\n说明: 商品期货交易委员会(CFTC)的交易商持仓(COT)周报提供美国期货市场中“非商业”（投机）交易商的净持仓明细。所有数据所反映的是主要在芝加哥和纽约期货市场的交易人士持仓情况。交易商持仓周报被认为是分析市场情绪的指标，许多投机交易商借助该数据来确定是否开多仓或淡仓。交易商持仓(COT)周报在美国假日休市之前的每周五美国东部时间下午3:30发布，反映截至周二的交易商持仓情况。\n链接: https://investing.com/economic-calendar/cftc-gold-speculative-positions-1618\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:3656fb12-afe6-49d4-8074-ae9c433b677b@investing.com
-DTSTAMP:20260512T033944Z
+UID:531c016d-16aa-4207-b61b-3a00dc8fa322@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260509T033000
+SUMMARY:商品期货交易委员会投机净仓位-纳斯达克100
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 1.2 K\n预期: -\n前值: -2.3 K\n链接: https://investing.com/economic-calendar/cftc-nasdaq-100-speculative-positions-1959\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:5d59a504-917d-43f6-80e1-fcc8551c906c@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260509T033000
+SUMMARY:美国商品期货交易委员会投机净仓位-标普500
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -103.9 K\n预期: -\n前值: -101.4 K\n说明: 商品期货交易委员会(CFTC)的交易商持仓(COT)周报提供美国期货市场中“非商业”（投机）交易商的净持仓明细。所有数据所反映的是主要在芝加哥和纽约期货市场的交易人士持仓情况。交易商持仓周报被认为是分析市场情绪的指标，许多投机交易商借助该数据来确定是否开多仓或淡仓。交易商持仓(COT)周报在美国假日休市之前的每周五美国东部时间下午3:30发布，反映截至周二的交易商持仓情况。\n链接: https://investing.com/economic-calendar/cftc-s-p-500-speculative-positions-1619\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:4d32a63c-ed67-403f-be0a-c5e26cfec01e@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260509T073000
 SUMMARY:美国FOMC委员戴利(Daly)讲话
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n详细: 美国联邦公开市场委员会(FOMC)委员戴利(Mary Daly)讲话\n说明: 旧金山联邦储备银行行长兼总裁戴利(Mary Daly)，其公开活动往往会透露未来货币政策的微妙线索。\n链接: https://investing.com/economic-calendar/fomc-member-daly-speaks-1802\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/speeches.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:cc6a0436-ecf2-46c5-984b-3f08527e4cca@investing.com
-DTSTAMP:20260512T033944Z
+UID:06b9fdfa-75b3-4184-9ec1-033670cbba0c@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260509T073000
 SUMMARY:美联储理事沃勒(Christopher Waller)讲话
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/fed-waller-speaks-1997\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/speeches.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:724e7d31-058e-4d0f-9293-799976054f5e@investing.com
-DTSTAMP:20260512T033944Z
+UID:09cdb04a-8b64-4c03-b111-63b3dff16581@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260509T073000
 SUMMARY:美国联邦公开市场委员会（FOMC）成员Michelle W. Bowman发表讲话
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n说明: 鲍曼(Michelle W. Bowman)自2018年11月26日起担任美国联邦储备委员会理事，任期截至2020年1月31日届满。其公开活动往往会透露未来货币政策的蛛丝马迹。\n链接: https://investing.com/economic-calendar/fomc-member-bowman-speaks-1835\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/speeches.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:3ddf484c-e568-4429-bfa0-527b2f8696af@investing.com
-DTSTAMP:20260512T033944Z
+UID:e6c3e045-401d-4d56-a389-4540afd1158d@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260511T220000
 SUMMARY:美国成屋销售年化月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 0.2 %\n预期: -\n前值: -2.9 %\n周期: 月度环比\n详细: 美国成屋销售年化月率\n链接: https://investing.com/economic-calendar/existing-home-sales-891\n来源: National Association of Realtors\n来源链接: https://www.nar.realtor/topics/existing-home-sales
 END:VEVENT
 BEGIN:VEVENT
-UID:845cbb93-d744-436b-9d3a-b5d43b8efcec@investing.com
-DTSTAMP:20260512T033944Z
+UID:35948396-7087-4b50-8f0f-2523ba2ae3fa@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260511T220000
 SUMMARY:美国成屋销售年化总数(户)
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 4.02 M\n预期: 4.05 M\n前值: 4.01 M\n周期: 四月\n详细: 美国成屋销售年化总数\n说明: 现有住房销售是衡量上月售出的现有住房按年计算的数据的指标。 \n此报告有助于分析美国房地产市场的实力，进而有助于分析整体经济。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/existing-home-sales-99\n来源: National Association of Realtors\n来源链接: https://www.nar.realtor/topics/existing-home-sales
 END:VEVENT
 BEGIN:VEVENT
-UID:34b8a55a-e699-4835-a193-2422f6593d4e@investing.com
-DTSTAMP:20260512T033944Z
+UID:27aa4c66-998b-4447-8ad8-7634262860ca@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260512T010000
 SUMMARY:美国3年期国债拍卖利率(%)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 3.965 %\n预期: -\n前值: 3.897 %\n详细: 美国3年期国债拍卖利率\n说明: 日历中所显示的数据代表所拍卖国债的收益率。\n\n美国国债期限为两到十年。 政府发行国库券进行借款，以填补其所收到的税收和偿还现有债务和/或融资所进行的开支之间的差额。 国债利率代表投资者在整个国债期限内持有该国债将获得的回报。 所有投标人按照所接受最高报价得到同样的利率。\n\n收益率变动应该作为政府债务状况指标进行密切监控。 投资者将该债券拍卖中的平均利率与其上次同样拍卖中的利率进行比较。\n链接: https://investing.com/economic-calendar/3-year-note-auction-681\n来源: US Department of Treasury\n来源链接: https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:79c928fc-064e-4f1a-9a95-c901e52eae12@investing.com
-DTSTAMP:20260512T033944Z
+UID:9f61e535-6e6f-4b43-8fd4-a28e34ebde23@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260512T151500
 SUMMARY:美国纽约联储主席、FOMC常任票委威廉姆斯(John Williams)讲话
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/fomc-member-williams-speaks-1585\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/speeches.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:c83257fc-3551-43a2-83ff-f2561bc7be6d@investing.com
-DTSTAMP:20260512T033944Z
+UID:df7c4ac4-7437-4423-b2b7-96510c664d5e@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260512T201500
 SUMMARY:ADP就业人数周度变动
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 39.30 K\n详细: 美国ADP就业人数周度变动\n说明: ADP每周报告揭示私营部门就业人数变动，基于其精细化高频数据提供劳动力市场的最新视角。交易员常将美国最大薪资服务商ADP的就业数据视为劳工统计局非农就业报告的先行指标。\n该数据由自动数据处理公司发布，反映美国私营部门就业人数的四周移动平均值。通常该指标上升预示消费支出向好，并能刺激经济增长。因此，高读数传统上被视为美元利好信号，而低读数则被视为利空信号。\n链接: https://investing.com/economic-calendar/adp-employment-change-weekly-2295\n来源: ADP Research Institute\n来源链接: https://adpemploymentreport.com/
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 33.00 K\n预期: -\n前值: 39.25 K\n详细: 美国ADP就业人数周度变动\n说明: ADP每周报告揭示私营部门就业人数变动，基于其精细化高频数据提供劳动力市场的最新视角。交易员常将美国最大薪资服务商ADP的就业数据视为劳工统计局非农就业报告的先行指标。\n该数据由自动数据处理公司发布，反映美国私营部门就业人数的四周移动平均值。通常该指标上升预示消费支出向好，并能刺激经济增长。因此，高读数传统上被视为美元利好信号，而低读数则被视为利空信号。\n链接: https://investing.com/economic-calendar/adp-employment-change-weekly-2295\n来源: ADP Research Institute\n来源链接: https://adpemploymentreport.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:37cdd14b-1f73-4de0-82b0-182b2fadb13d@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260512T203000
-SUMMARY:美国未季调核心CPI年率(%) (同比)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: 2.7 %\n前值: 2.6 %\n周期: 同比\n详细: 美国未季调核心居民消费价格指数(CPI)年率\n说明: 核心消费者物价指数（CPI）是衡量除食品和能源之外的消费品和劳务价格的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量美国购买趋势变化和通货膨胀的重要方法。 \n如果指数比预期更高，则应认为美元强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/core-cpi-736\n来源: U.S Bureau of Labor Statistics - Department of Labor\n来源链接: https://www.bls.gov/cpi/
-END:VEVENT
-BEGIN:VEVENT
-UID:06a276f1-6fcf-4af7-a632-6453ddce8350@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260512T203000
-SUMMARY:美国未季调CPI年率(%) (同比)
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 3.7 %\n前值: 3.3 %\n周期: 同比\n详细: 美国未季调居民消费价格指数(CPI)年率\n说明: 消费者物价指数（CPI）是衡量消费品和劳务价格变化的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量美国购买趋势变化和通货膨胀的重要方法。 如果指数比预期更高，则应认为美元强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/cpi-733\n来源: U.S Bureau of Labor Statistics - Department of Labor\n来源链接: https://www.bls.gov/cpi/
-END:VEVENT
-BEGIN:VEVENT
-UID:ef9ba4e7-6161-4198-b572-641b2d7f354a@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260512T203000
-SUMMARY:美国CPI月率(%) (月度环比)
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 0.6 %\n前值: 0.9 %\n周期: 月度环比\n详细: 美国居民消费价格指数(CPI)月率\n说明: 消费者物价指数（CPI）是衡量消费品和劳务价格变化的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量美国购买趋势变化和通货膨胀的重要方法。 如果指数比预期更高，则应认为美元强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/cpi-69\n来源: U.S Bureau of Labor Statistics - Department of Labor\n来源链接: https://www.bls.gov/cpi/
-END:VEVENT
-BEGIN:VEVENT
-UID:0de1cef1-bbef-4630-b792-cbb35d090369@investing.com
-DTSTAMP:20260512T033944Z
+UID:73fc4c57-cb78-4962-a5cd-903cd6d07a22@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260512T203000
 SUMMARY:美国核心CPI月率(%) (月度环比)
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 0.3 %\n前值: 0.2 %\n周期: 月度环比\n详细: 美国核心居民消费价格指数(CPI)月率\n说明: 核心消费者物价指数（CPI）是衡量除食品和能源之外的消费品和劳务价格的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量美国购买趋势变化和通货膨胀的重要方法。 \n如果指数比预期更高，则应认为美元强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/core-cpi-56\n来源: U.S Bureau of Labor Statistics - Department of Labor\n来源链接: https://www.bls.gov/cpi/
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 0.4 %\n预期: 0.3 %\n前值: 0.2 %\n周期: 月度环比\n详细: 美国核心居民消费价格指数(CPI)月率\n说明: 核心消费者物价指数（CPI）是衡量除食品和能源之外的消费品和劳务价格的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量美国购买趋势变化和通货膨胀的重要方法。 \n如果指数比预期更高，则应认为美元强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/core-cpi-56\n来源: U.S Bureau of Labor Statistics - Department of Labor\n来源链接: https://www.bls.gov/cpi/
 END:VEVENT
 BEGIN:VEVENT
-UID:8a0fa8ef-aa5f-4bfc-8826-750cf6ae3919@investing.com
-DTSTAMP:20260512T033944Z
+UID:1c6f9e26-6fc6-401a-abc0-d97ddd7792df@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260512T203000
+SUMMARY:美国未季调核心CPI年率(%) (同比)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 2.8 %\n预期: 2.7 %\n前值: 2.6 %\n周期: 同比\n详细: 美国未季调核心居民消费价格指数(CPI)年率\n说明: 核心消费者物价指数（CPI）是衡量除食品和能源之外的消费品和劳务价格的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量美国购买趋势变化和通货膨胀的重要方法。 \n如果指数比预期更高，则应认为美元强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/core-cpi-736\n来源: U.S Bureau of Labor Statistics - Department of Labor\n来源链接: https://www.bls.gov/cpi/
+END:VEVENT
+BEGIN:VEVENT
+UID:6d572357-b778-4d29-ad33-26fb27c2988f@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260512T203000
+SUMMARY:美国未季调CPI年率(%) (同比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 3.8 %\n预期: 3.7 %\n前值: 3.3 %\n周期: 同比\n详细: 美国未季调居民消费价格指数(CPI)年率\n说明: 消费者物价指数（CPI）是衡量消费品和劳务价格变化的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量美国购买趋势变化和通货膨胀的重要方法。 如果指数比预期更高，则应认为美元强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/cpi-733\n来源: U.S Bureau of Labor Statistics - Department of Labor\n来源链接: https://www.bls.gov/cpi/
+END:VEVENT
+BEGIN:VEVENT
+UID:9aea744f-a551-4c1d-9518-bbdae2f05cd3@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260512T203000
+SUMMARY:美国CPI月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: 0.6 %\n预期: 0.6 %\n前值: 0.9 %\n周期: 月度环比\n详细: 美国居民消费价格指数(CPI)月率\n说明: 消费者物价指数（CPI）是衡量消费品和劳务价格变化的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量美国购买趋势变化和通货膨胀的重要方法。 如果指数比预期更高，则应认为美元强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/cpi-69\n来源: U.S Bureau of Labor Statistics - Department of Labor\n来源链接: https://www.bls.gov/cpi/
+END:VEVENT
+BEGIN:VEVENT
+UID:44ac5fa9-cc30-4ced-b658-aa2b0dc7dd53@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260513T000000
 SUMMARY:美国农业部世界农产品供需预测报告
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n说明: 此月报提供美国农业部目前对主要谷物，大豆和产品以及棉花的美国和全球供应平衡的预测；以及美国的糖和畜产品的供应和使用。\n链接: https://investing.com/economic-calendar/wasde-report-1764\n来源: United States Department of Agriculture\n来源链接: https://www.usda.gov/oce/commodity/wasde/
 END:VEVENT
 BEGIN:VEVENT
-UID:10c84507-f565-43ca-80bf-cb30c43dc2b2@investing.com
-DTSTAMP:20260512T033944Z
+UID:88a27dce-d2f7-4ed1-b034-dc87ee480387@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260513T000000
 SUMMARY:美国EIA短期能源展望报告
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n说明: 美国能源信息署(EIA)短期能源展望报告(STEO)提供了美国能源信息署最近对能源市场的看法。短期能源展望报告每个月发布一次，当中预测了直至下一历年年底的原油和主要燃油品种的消费、供应、贸易和价格情况。此外，短期能源展望报告还会深入分析原油、石油产品和天然气市场。虽然短期能源展望报告的重点是美国能源市场，但当中也预测了国际燃油市场形势。\n链接: https://investing.com/economic-calendar/eia-short-term-energy-outlook-1986\n来源: Energy Information Administration (EIA)\n来源链接: https://www.eia.gov/outlooks/steo/
 END:VEVENT
 BEGIN:VEVENT
-UID:4dd19f5c-03aa-4c40-9f30-b42950744d29@investing.com
-DTSTAMP:20260512T033944Z
+UID:c155ccb8-42e8-4fa8-a464-2d7b4e3b762e@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260513T010000
 SUMMARY:美国10年期国债拍卖
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 4.282 %\n说明: 日历中所显示的数据代表所拍卖财政部债券的收益率。美国财政部债券期限从两年到十年不等，通过公开拍卖将债券出售给机构和个人投资者以资助公共债务。 财政部债券收益率代表投资者持有该债券至到期将获得的回报。 所有投标人按照所接受最高报价得到同样的利率或收益率。 收益率变动应该作为政府债务状况指标进行密切监控。 投资者将该债券拍卖中的平均收益率与其上次同样拍卖中的收益率进行比较，并与其过去10到12次拍卖中的平均收益率进行比较。\n链接: https://investing.com/economic-calendar/10-year-note-auction-571\n来源: US Department of Treasury\n来源链接: https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 4.468 %\n预期: -\n前值: 4.282 %\n说明: 日历中所显示的数据代表所拍卖财政部债券的收益率。美国财政部债券期限从两年到十年不等，通过公开拍卖将债券出售给机构和个人投资者以资助公共债务。 财政部债券收益率代表投资者持有该债券至到期将获得的回报。 所有投标人按照所接受最高报价得到同样的利率或收益率。 收益率变动应该作为政府债务状况指标进行密切监控。 投资者将该债券拍卖中的平均收益率与其上次同样拍卖中的收益率进行比较，并与其过去10到12次拍卖中的平均收益率进行比较。\n链接: https://investing.com/economic-calendar/10-year-note-auction-571\n来源: US Department of Treasury\n来源链接: https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:2f2bdd28-153c-4252-86ad-a519118b7a34@investing.com
-DTSTAMP:20260512T033944Z
+UID:11bbbe23-f15a-4a1b-b8b6-13c05c08fc31@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260513T020000
 SUMMARY:美国政府预算(美元)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: 37.5 B\n前值: -164.0 B\n周期: 四月\n详细: 美国政府预算\n说明: 联邦预算平衡（也称财政预算）是衡量当月联邦政府收入和支出之间差别的指标（收入减支出）。 \n负数表示预算赤字，正数表示盈余。 \n如果该指标比预期更高，则应认为美元强势/看涨，\n 而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/federal-budget-balance-369\n来源: Department of the Treasury\n来源链接: https://www.fiscal.treasury.gov/
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: 215.0 B\n预期: 157.2 B\n前值: -164.0 B\n周期: 四月\n详细: 美国政府预算\n说明: 联邦预算平衡（也称财政预算）是衡量当月联邦政府收入和支出之间差别的指标（收入减支出）。 \n负数表示预算赤字，正数表示盈余。 \n如果该指标比预期更高，则应认为美元强势/看涨，\n 而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/federal-budget-balance-369\n来源: Department of the Treasury\n来源链接: https://www.fiscal.treasury.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:a58fe4ed-be14-423a-8d22-760379e5dbd5@investing.com
-DTSTAMP:20260512T033944Z
+UID:b655f682-0f19-4173-b14d-d0d61a2c315e@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260513T043000
 SUMMARY:美国当周API原油库存变动(桶)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -8.100 M\n详细: 美国API原油库存变动\n说明: 美国石油学会每周二发布美国原油、汽油和蒸馏油库存的1600报告的原油库存水平。 该数据显示现在有多少石油库存和产品，因此可以了解供应将持续多久。 而且该数据按照产品和地区表示美国石油需求，同时监控美国原油生产和原油进口及成品油。\n链接: https://investing.com/economic-calendar/api-weekly-crude-stock-656\n来源: American Petroleum Institute\n来源链接: http://www.api.org/
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -2.188 M\n预期: -1.650 M\n前值: -8.100 M\n详细: 美国API原油库存变动\n说明: 美国石油学会每周二发布美国原油、汽油和蒸馏油库存的1600报告的原油库存水平。 该数据显示现在有多少石油库存和产品，因此可以了解供应将持续多久。 而且该数据按照产品和地区表示美国石油需求，同时监控美国原油生产和原油进口及成品油。\n链接: https://investing.com/economic-calendar/api-weekly-crude-stock-656\n来源: American Petroleum Institute\n来源链接: http://www.api.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:f9f0f652-6d35-4efa-a45d-b58fcc11fd74@investing.com
-DTSTAMP:20260512T033944Z
+UID:42be716d-daca-4718-9e82-e0016c350f00@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260513T170000
 SUMMARY:国际能源署(IEA)月报
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n详细: 国际能源署(IEA)月度原油市场报告\n说明: 国际能源机构每月石油市场报告涵盖影响世界石油市场的重大问题并提供了来年原油市场发展展望。该报告有着对于世界石油供需以及石油市场平衡等影响石油市场趋势的关键发展因素的详细分析。\n链接: https://investing.com/economic-calendar/iea-monthly-report-1674\n来源: IEA\n来源链接: https://www.iea.org/topics/oil-market-report
 END:VEVENT
 BEGIN:VEVENT
-UID:bbeb0e99-72d4-4e28-9fe0-49a858bb9578@investing.com
-DTSTAMP:20260512T033944Z
+UID:5848a58f-8146-444a-b4f9-ccfbb301e090@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260513T180000
 SUMMARY:石油输出国组织(OPEC)月报
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n详细: 石油输出国组织(OPEC)月度原油市场报告\n说明: 欧佩克每月石油市场报告涵盖影响世界石油市场的重大问题并提供了来年原油市场发展展望。该报告有着对于世界石油供需以及石油市场平衡等影响石油市场趋势的关键发展因素的详细分析。\n链接: https://investing.com/economic-calendar/opec-monthly-report-1673\n来源: OPEC\n来源链接: http://www.opec.org/opec_web/en/publications/338.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:0d971d3a-5e4f-421a-80f3-f79d8c504cbd@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260513T203000
-SUMMARY:美国核心PPI月率(%) (月度环比)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: 0.3 %\n前值: 0.1 %\n周期: 月度环比\n详细: 美国核心PPI月率\n说明: 核心生产者价格指数（PPI）是国内生产者所收到的消费品和劳动力（不含食品和能源）的销售价格平均变动的通胀指标。 \nPPI从消费者的角度衡量价格变化。 \nPPI对以下三个生产领域进行调查： 工业、商品及加工阶段的公司。 \n当生产者向消费品和劳动力支出更多时，他们很可能将该部分增加的成本加给消费者，所以PPI被认为是消费者物价指数的领先指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/core-ppi-62\n来源: U.S Bureau of Labor Statistics - Department of Labor\n来源链接: https://www.bls.gov/ppi/
-END:VEVENT
-BEGIN:VEVENT
-UID:12e7c0da-eb1d-4b23-b4c0-63122a5d1d56@investing.com
-DTSTAMP:20260512T033944Z
+UID:1c4d14aa-0476-431c-83d5-02fbd89ff3d9@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260513T203000
 SUMMARY:美国PPI月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 0.5 %\n前值: 0.5 %\n周期: 月度环比\n详细: 美国生产者物价指数(PPI)月率\n说明: 生产者价格指数（PPI）是国内生产者所获得的消费品和劳动力的销售价格平均变动的通胀指标。 \nPPI从消费者的角度衡量价格变化。 \nPPI对以下三个生产领域进行调查： 工业、商品及加工阶段的公司。 \n当生产者向消费品和劳动力支出更多时，他们很可能将该部分增加的成本加给消费者，所以PPI被认为是消费者物价指数的领先指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/ppi-238\n来源:  U.S Bureau of Labor Statistics - Department of Labor\n来源链接: https://www.bls.gov/news.release/ppi.nr0.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:2b5deafa-eb77-4fc8-9222-4bb51f783133@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260513T223000
-SUMMARY:美国当周EIA原油库存变动(桶)
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -2.313 M\n详细: 美国当周EIA原油库存变动\n说明: 能源情报署（EIA）的原油库存是衡量美国公司所存有的商用原油周增加桶数的指标。 库存的水平影响到石油产品的价格，对于通胀以及其他经济力量有影响。\n链接: https://investing.com/economic-calendar/eia-crude-oil-inventories-75\n来源: U.S. Energy Information Administration\n来源链接: https://www.eia.gov/
+UID:0745967d-8f50-4172-a87c-cadbd1ec4e36@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260513T203000
+SUMMARY:美国核心PPI月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: 0.3 %\n前值: 0.1 %\n周期: 月度环比\n详细: 美国核心PPI月率\n说明: 核心生产者价格指数（PPI）是国内生产者所收到的消费品和劳动力（不含食品和能源）的销售价格平均变动的通胀指标。 \nPPI从消费者的角度衡量价格变化。 \nPPI对以下三个生产领域进行调查： 工业、商品及加工阶段的公司。 \n当生产者向消费品和劳动力支出更多时，他们很可能将该部分增加的成本加给消费者，所以PPI被认为是消费者物价指数的领先指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/core-ppi-62\n来源: U.S Bureau of Labor Statistics - Department of Labor\n来源链接: https://www.bls.gov/ppi/
 END:VEVENT
 BEGIN:VEVENT
-UID:18a65563-39cc-4d2d-b3c8-3993eb213378@investing.com
-DTSTAMP:20260512T033944Z
+UID:17928dce-76f8-434b-b478-1b814099da32@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260513T223000
+SUMMARY:美国当周EIA原油库存变动(桶)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -1.600 M\n前值: -2.313 M\n详细: 美国当周EIA原油库存变动\n说明: 能源情报署（EIA）的原油库存是衡量美国公司所存有的商用原油周增加桶数的指标。 库存的水平影响到石油产品的价格，对于通胀以及其他经济力量有影响。\n链接: https://investing.com/economic-calendar/eia-crude-oil-inventories-75\n来源: U.S. Energy Information Administration\n来源链接: https://www.eia.gov/
+END:VEVENT
+BEGIN:VEVENT
+UID:24eacab4-1c8d-4abb-abec-6b70bc1f5cb2@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260513T223000
 SUMMARY:美国当周EIA库欣原油库存变动(桶)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -0.648 M\n详细: 美国当周EIA俄克拉荷马州库欣原油库存变动(桶)\n链接: https://investing.com/economic-calendar/eia-weekly-cushing-oil-inventories-1657\n来源: U.S. Energy Information Administration\n来源链接: https://www.eia.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:dba07409-f2c3-45f1-8bb4-5c03a4edd0bf@investing.com
-DTSTAMP:20260512T033944Z
+UID:e127989c-dfdd-4475-84a6-52ce2be5f28a@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260514T010000
 SUMMARY:美国30年期国债拍卖
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 4.876 %\n说明: 日历中所显示的数据代表所拍卖财政部债券的收益率。美国财政部债券有30年的期限，通过公开拍卖将债券出售给机构和个人投资者以资助公共债务。 财政部债券收益率代表投资者持有该债券至到期将获得的回报。 所有投标人按照所接受最高报价得到同样的利率或收益率。 收益率变动应该作为政府债务状况指标进行密切监控。 投资者将该债券拍卖中的平均收益率与其上次同样拍卖中的收益率进行比较，并与其过去10到12次拍卖中的平均收益率进行比较。\n链接: https://investing.com/economic-calendar/30-year-bond-auction-572\n来源: US Department of Treasury\n来源链接: https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:3fabda99-274d-4853-80a6-cd68f7fbe0f7@investing.com
-DTSTAMP:20260512T033944Z
+UID:f74ce1df-5a94-408a-8bb7-4aa890577fa1@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260514T011500
 SUMMARY:美国明尼阿波利斯联储主席卡什卡里(Neel Kashkari)讲话
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/fomc-member-kashkari-speaks-1665\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/speeches.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:ca727b50-7fc0-4bf9-9cb0-0b786814c93c@investing.com
-DTSTAMP:20260512T033944Z
+UID:1ff42b27-2a62-47b5-b2ee-30897a41d883@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260514T203000
 SUMMARY:美国续请失业金人数
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 1766 K\n说明: 连续失业救济是衡量首次申领失业救济人数之后申请失业救济的人数。 它通常在首次申领失业救济人数之后一周发布。\n链接: https://investing.com/economic-calendar/continuing-jobless-claims-522\n来源: United States Department of Labor\n来源链接: https://www.dol.gov/newsroom/economicdata
 END:VEVENT
 BEGIN:VEVENT
-UID:4968367a-08de-4137-b15e-05551fae6dd5@investing.com
-DTSTAMP:20260512T033944Z
+UID:4690b62d-c899-4aee-baa2-ef82f50175ed@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260514T203000
 SUMMARY:美国初请失业金人数
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 206 K\n前值: 200 K\n说明: 首次失业救济申请是对于在当周首次进行失业救济申请的人数所进行季度调整的衡量。 此数据由劳工部收集，每周发布。 \n失业救济人数被用于对用工市场健康度进行衡量，如果数字增加，则表示就业人数较少。 \n由于是以周为单位进行计算，该失业救济申请数据十分不稳定。 \n通常，至少35\,000申请数的变动才能表示就业机会增加的重大变化。 \n如果该指标比预期更高，则应认为美元弱势/看跌，而如果该指标比预期更低，则应认为美元强势/看涨。\n链接: https://investing.com/economic-calendar/initial-jobless-claims-294\n来源: Department of Labor\n来源链接: https://www.dol.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:d0d2700f-5fce-4303-938d-38aa7db45bf8@investing.com
-DTSTAMP:20260512T033944Z
+UID:3b71f652-0c22-44c0-85ea-8a719b29de6d@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260514T203000
 SUMMARY:美国进口物价指数月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: 1.0 %\n前值: 0.8 %\n周期: 月度环比\n详细: 美国进口物价指数月率\n说明: 进口价格指数是衡量美国进口产品价格变化的指标。 \n它实际所衡量的是进口产品的通胀率。 \n该指数越高，对于通胀的影响就越大。 \n如果该指标比预期更高，则应认为美元强势/看涨，\n 而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/import-price-index-153\n来源: US Department of Labor \n来源链接: https://www.bls.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:7cac9a19-3d4b-4458-a631-f6c630d6d67f@investing.com
-DTSTAMP:20260512T033944Z
+UID:c8dc34bd-c995-4bbc-822d-1e7f3b33e69f@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260514T203000
 SUMMARY:美国核心零售销售月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 0.6 %\n前值: 1.9 %\n周期: 月度环比\n详细: 美国核心零售销售月率\n说明: 核心零售销售额是根据美国各种类型和规模的零售商店（不含汽车销售商店）抽样调查中所获得的零售商所售出的所有消费品销售额变动而作出的月度衡量。 它是消费开支的重要指标，并与消费者信心指数有关，被认为是美国经济的速度指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/core-retail-sales-63\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:8afac981-edf9-47b9-86ed-83522c8d88b7@investing.com
-DTSTAMP:20260512T033944Z
+UID:260c12af-21a8-4e1e-9538-a0b705e08c5b@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260514T203000
 SUMMARY:美国零售销售月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: 0.6 %\n前值: 1.7 %\n周期: 月度环比\n详细: 美国零售销售月率\n说明: 零售销售额是根据美国各种类型和规模的零售商店抽样调查中所获得的零售商所售出的所有消费品金额而获得的月度衡量。 它是消费开支的重要指标，并与消费者信心指数有关，被认为是美国经济的速度指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/retail-sales-256\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:eb0377ab-ef06-4bd7-96a9-b5c2692a6f80@investing.com
-DTSTAMP:20260512T033944Z
+UID:0877cc66-ba01-4256-8113-00a8f32b626a@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260514T203000
 SUMMARY:美国出口物价指数月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 1.6 %\n周期: 月度环比\n详细: 美国出口物价指数月率\n链接: https://investing.com/economic-calendar/export-price-index-892\n来源: U.S. Bureau of Labor Statistics\n来源链接: https://www.bls.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:295c510e-470a-4824-a988-5a53f8567095@investing.com
-DTSTAMP:20260512T033944Z
+UID:e2258883-63fe-44db-bf23-4afed4630caf@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260514T203000
 SUMMARY:美国零售业预期月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 0.7 %\n周期: 月度环比\n详细: 美国零售业预期月率\n链接: https://investing.com/economic-calendar/retail-control-1506\n来源: U.S. Department of Commerce\n来源链接: https://www.bea.gov/faq/index.cfm?faq_id=519
 END:VEVENT
 BEGIN:VEVENT
-UID:42175b44-e717-4a5e-a7ce-8d27e74de6c5@investing.com
-DTSTAMP:20260512T033944Z
+UID:8456f5ad-070e-4d7d-aea8-894e93b7873f@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260514T220000
 SUMMARY:美国营运库存月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: 0.3 %\n前值: 0.4 %\n周期: 月度环比\n详细: 美国营运库存月率\n说明: 企业库存是衡量制造商、批发商和零售商所存有未卖出货物的价值变化指标。 \n该指标的高企可以看作是消费需求的缺少。 \n因此 － 如果该指标比预期更高，则应认为美元弱势/看跌，而如果该指标比预期更低，则应认为美元强势/看涨。\n链接: https://investing.com/economic-calendar/business-inventories-29\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:c0bfe423-aab7-4982-b232-898275e6e722@investing.com
-DTSTAMP:20260512T033944Z
+UID:8562a4d0-1061-4eaf-916e-0cb2bb9971d5@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260514T220000
 SUMMARY:美国除汽车外零售库存
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: 0.5 %\n前值: 0.5 %\n周期: 三月\n链接: https://investing.com/economic-calendar/retail-inventories-ex-auto-1887\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:e96a438e-dd18-4dff-ae76-1638a59ada29@investing.com
-DTSTAMP:20260512T033944Z
+UID:a3da797c-7432-4e66-b75b-bf87378f0d4d@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260514T233000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:a261293f-7176-4a96-8962-bcf24307ee0e@investing.com
-DTSTAMP:20260512T033944Z
+UID:c8aa3b7d-3d7d-43a8-9d8e-ef383a794675@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260515T043000
 SUMMARY:美联储资产负债表
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 6710 B\n链接: https://investing.com/economic-calendar/fed's-balance-sheet-2145\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/releases/h41/
 END:VEVENT
 BEGIN:VEVENT
-UID:32b2679d-f272-465a-b6a3-05d5f164bbe5@investing.com
-DTSTAMP:20260512T033944Z
+UID:a2eb9713-e015-4a81-b82e-a5fb4266e5d8@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260515T053000
 SUMMARY:美联储金融监管副主席巴尔(Michael Barr)讲话
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n详细: 美联储金融监管副主席迈克尔·巴尔(Michael S. Barr)讲话\n链接: https://investing.com/economic-calendar/fed-vice-chair-for-supervision-barr-speaks-2108\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/calendar.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:c15c5eaf-1d16-4f07-9713-130eba7f7395@investing.com
-DTSTAMP:20260512T033944Z
+UID:1752875c-9dd4-48fe-8ebc-7f5de1d6fdb0@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260515T054500
 SUMMARY:美国纽约联储主席、FOMC常任票委威廉姆斯(John Williams)讲话
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/fomc-member-williams-speaks-1585\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/newsevents/speeches.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:88c387cf-36e1-4720-8318-975429b7dce7@investing.com
-DTSTAMP:20260512T033944Z
+UID:6b2b3764-f929-418b-8336-2d70ff66343d@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260515T203000
 SUMMARY:美国纽约联储制造业指数
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: 7.30\n前值: 11.00\n周期: 五月\n说明: 纽约帝国制造业指数通过对纽约州大约200家制造商进行调查来衡量制造业的经济健康度。 \n指数在0以上表示状况改进，之下表示状况恶化。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/ny-empire-state-manufacturing-index-323\n来源: Federal Reserve Bank of New York\n来源链接: https://www.newyorkfed.org/survey/empire/empiresurvey_overview.html
 END:VEVENT
 BEGIN:VEVENT
-UID:d367ae3d-618c-4779-9dad-2bee70fc5b51@investing.com
-DTSTAMP:20260512T033944Z
+UID:63b4e39d-13fe-417f-9986-3eab05b23ca0@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260515T211500
 SUMMARY:美国工业产出年率(%) (同比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 0.74 %\n周期: 同比\n详细: 美国工业产出年率\n说明: 工业产出衡量制造商、矿山和公用事业公司生产的经通胀调整的总产出值的变化。若该数据高于预期，则应视为美元看多/利好，若低于预期，则视为美元看淡/利空。\n链接: https://investing.com/economic-calendar/industrial-production-1755\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/releases/g17/current/default.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:817e670b-6708-4d2e-b22d-2346f7430e23@investing.com
-DTSTAMP:20260512T033944Z
+UID:0666a78a-db0c-4342-9b59-d90ee60b06f0@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260515T211500
 SUMMARY:美国工业产出月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: 0.2 %\n前值: -0.5 %\n周期: 月度环比\n详细: 美国工业产出月率\n说明: 工业生产是衡量美国工厂、矿山和公用设施总产量的指标。 \n它良好反映了制造业的实力。 它可以作为制造业就业、平均收入和个人收入的领先指标。 \n外汇交易商门特别关注该指标，因为它是直接由美联储发布的为数不多的增长指标之一。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/industrial-production-161\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/releases/G17/current/
 END:VEVENT
 BEGIN:VEVENT
-UID:dd45edb1-c748-4cb5-b697-180012a6b9ad@investing.com
-DTSTAMP:20260512T033944Z
+UID:123597e2-e097-474a-a40e-f764d3481888@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260516T010000
 SUMMARY:美国当周贝克休斯石油钻井总数(口)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 410\n链接: https://investing.com/economic-calendar/baker-hughes-u.s.-rig-count-1652\n来源: Baker Hughes\n来源链接: http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview
 END:VEVENT
 BEGIN:VEVENT
-UID:6979455f-9954-4c05-b171-083e3854a679@investing.com
-DTSTAMP:20260512T033944Z
+UID:4598eea0-2ae9-4023-95d2-bb11cadd63e3@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260516T010000
 SUMMARY:美国当周贝克休斯总钻井总数(口)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 548\n链接: https://investing.com/economic-calendar/u.s.-baker-hughes-total-rig-count-1810\n来源: Baker Hughes\n来源链接: http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview
 END:VEVENT
 BEGIN:VEVENT
-UID:4b3cef2b-fe34-4e5f-a11a-27ac8e35b054@investing.com
-DTSTAMP:20260512T033944Z
+UID:3d28fbf3-70be-46c7-a52a-4d4a6bb4643c@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260516T033000
 SUMMARY:美国商品期货交易委员会投机净仓位-原油
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 178.8 K\n链接: https://investing.com/economic-calendar/cftc-crude-oil-speculative-positions-1653\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:690e885f-e3c4-4e9f-95e7-c0fd71c28108@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260516T033000
-SUMMARY:美国商品期货交易委员会投机净仓位-黄金
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 163.3 K\n说明: 商品期货交易委员会(CFTC)的交易商持仓(COT)周报提供美国期货市场中“非商业”（投机）交易商的净持仓明细。所有数据所反映的是主要在芝加哥和纽约期货市场的交易人士持仓情况。交易商持仓周报被认为是分析市场情绪的指标，许多投机交易商借助该数据来确定是否开多仓或淡仓。交易商持仓(COT)周报在美国假日休市之前的每周五美国东部时间下午3:30发布，反映截至周二的交易商持仓情况。\n链接: https://investing.com/economic-calendar/cftc-gold-speculative-positions-1618\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:1812633c-bf1b-463f-b9b9-fcbb5851aad9@investing.com
-DTSTAMP:20260512T033944Z
+UID:5a6c7907-aa58-4006-92b0-653371ae57f2@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260516T033000
 SUMMARY:商品期货交易委员会投机净仓位-纳斯达克100
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 1.2 K\n链接: https://investing.com/economic-calendar/cftc-nasdaq-100-speculative-positions-1959\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:04ef0560-cc41-4a0d-8728-983e14e522d6@investing.com
-DTSTAMP:20260512T033944Z
+UID:735dac1e-c34e-4b76-9818-14e5b44b6fe2@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260516T033000
 SUMMARY:美国商品期货交易委员会投机净仓位-标普500
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -103.9 K\n说明: 商品期货交易委员会(CFTC)的交易商持仓(COT)周报提供美国期货市场中“非商业”（投机）交易商的净持仓明细。所有数据所反映的是主要在芝加哥和纽约期货市场的交易人士持仓情况。交易商持仓周报被认为是分析市场情绪的指标，许多投机交易商借助该数据来确定是否开多仓或淡仓。交易商持仓(COT)周报在美国假日休市之前的每周五美国东部时间下午3:30发布，反映截至周二的交易商持仓情况。\n链接: https://investing.com/economic-calendar/cftc-s-p-500-speculative-positions-1619\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:e0d9520a-70d0-46be-a74e-bfb01ddfc333@investing.com
-DTSTAMP:20260512T033944Z
+UID:51a13c66-b556-437a-8b62-ab38cce8e8d6@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260516T033000
+SUMMARY:美国商品期货交易委员会投机净仓位-黄金
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 163.3 K\n说明: 商品期货交易委员会(CFTC)的交易商持仓(COT)周报提供美国期货市场中“非商业”（投机）交易商的净持仓明细。所有数据所反映的是主要在芝加哥和纽约期货市场的交易人士持仓情况。交易商持仓周报被认为是分析市场情绪的指标，许多投机交易商借助该数据来确定是否开多仓或淡仓。交易商持仓(COT)周报在美国假日休市之前的每周五美国东部时间下午3:30发布，反映截至周二的交易商持仓情况。\n链接: https://investing.com/economic-calendar/cftc-gold-speculative-positions-1618\n来源: CFTC Commitment of Traders\n来源链接: https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:709a9f70-7759-48c7-bed9-864d320ffd51@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260519T040000
 SUMMARY:美国TIC长期资本净流入
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 58.6 B\n周期: 三月\n详细: 美国国际资本流动报告(TIC)长期资本净流入\n说明: 财政部国际资本（TIC）长期净交易是衡量美国长期外国债券购买和国外对美国长期债券购买之间的月度价值差的指标。 \n财政部国际资本流动是美国政府对冲贸易赤字的重要资源。 \n它可以良好反映出对美元的需求。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/tic-net-long-term-transactions-283\n来源: Department of the Treasury\n来源链接: https://www.treasury.gov/press-center/press-releases/Pages/ticpress.aspx#1
 END:VEVENT
 BEGIN:VEVENT
-UID:6b785bed-4057-4403-9ddf-4087f3a59888@investing.com
-DTSTAMP:20260512T033944Z
+UID:97049b21-3f93-4e84-b398-4d9c022c79e1@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260519T220000
 SUMMARY:美国季调后成屋签约销售指数月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 1.5 %\n周期: 月度环比\n详细: 美国季调后成屋签约销售指数月率\n说明: 美国房地产交易商协会成屋销售指数（PHSI）是衡量签约房屋动态的指标。 它被用作为房地产动态的领先指标。 该数据来自于现有单户住宅、公寓和共有公寓的签约房地产合同。 交易完成之前，签约合同不能看作为销售。 该指数未包含新建筑。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/pending-home-sales-232\n来源: National Association of Realtors \n来源链接: https://www.nar.realtor/
 END:VEVENT
 BEGIN:VEVENT
-UID:ba304c1e-af20-4eb0-b2b9-f66c18a5452e@investing.com
-DTSTAMP:20260512T033944Z
+UID:583f3901-a665-43ed-9d50-5229b30109af@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260521T203000
 SUMMARY:美国新屋开工年率月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 10.8 %\n周期: 月度环比\n详细: 美国新屋开工年率月率\n链接: https://investing.com/economic-calendar/housing-starts-898\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:2038c4df-14a4-465f-b122-01a2a278636b@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260521T203000
-SUMMARY:美国初请失业金人数
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n说明: 首次失业救济申请是对于在当周首次进行失业救济申请的人数所进行季度调整的衡量。 此数据由劳工部收集，每周发布。 \n失业救济人数被用于对用工市场健康度进行衡量，如果数字增加，则表示就业人数较少。 \n由于是以周为单位进行计算，该失业救济申请数据十分不稳定。 \n通常，至少35\,000申请数的变动才能表示就业机会增加的重大变化。 \n如果该指标比预期更高，则应认为美元弱势/看跌，而如果该指标比预期更低，则应认为美元强势/看涨。\n链接: https://investing.com/economic-calendar/initial-jobless-claims-294\n来源: Department of Labor\n来源链接: https://www.dol.gov/
-END:VEVENT
-BEGIN:VEVENT
-UID:6717e123-adb2-4745-b1e0-29333d037a4e@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260521T203000
-SUMMARY:美国续请失业金人数
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n说明: 连续失业救济是衡量首次申领失业救济人数之后申请失业救济的人数。 它通常在首次申领失业救济人数之后一周发布。\n链接: https://investing.com/economic-calendar/continuing-jobless-claims-522\n来源: United States Department of Labor\n来源链接: https://www.dol.gov/newsroom/economicdata
-END:VEVENT
-BEGIN:VEVENT
-UID:23e4cb59-aa0a-4dab-b9f4-843286e9a359@investing.com
-DTSTAMP:20260512T033944Z
+UID:e11eac32-c8bd-4ebf-b0a9-8d0e42e2cf10@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260521T203000
 SUMMARY:美国新屋开工年化总数(户)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 1.502 M\n周期: 四月\n详细: 美国新屋开工年化总数\n说明: 新屋开工获取在当月开始建设的新家或楼房的按年计算的数字。 \n它说明了美国房地产市场的实力，有助于对整体经济进行分析，因为房地产市场是经济的一个关键因素。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/housing-starts-151\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/construction/nrc/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:e49bc29a-7559-4487-a5d0-ae1ad3f2cb34@investing.com
-DTSTAMP:20260512T033944Z
+UID:6095bcb1-25c8-47e3-b13c-3c671ab41950@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260521T203000
-SUMMARY:美国费城联储制造业指数
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 26.7\n周期: 五月\n说明: 费城联邦制造业指数测定费城制造业的经济健康度。 \n任何超过0的指数表示制造业状况的改善，小于0的表示制造业状况的恶化。 \n它是通过对费城联邦储备区中大约250家制造商进行调查而获得的。 \n它对于预测美国供应管理协会（ISM）指数有所帮助。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/philadelphia-fed-manufacturing-index-236\n来源: Federal Reserve Bank of Philadelphia \n来源链接: https://www.philadelphiafed.org/
+SUMMARY:美国续请失业金人数
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n说明: 连续失业救济是衡量首次申领失业救济人数之后申请失业救济的人数。 它通常在首次申领失业救济人数之后一周发布。\n链接: https://investing.com/economic-calendar/continuing-jobless-claims-522\n来源: United States Department of Labor\n来源链接: https://www.dol.gov/newsroom/economicdata
 END:VEVENT
 BEGIN:VEVENT
-UID:667173b2-65ea-4abc-868d-e4703ee53ae3@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260521T203000
-SUMMARY:美国费城联储制造业就业指数
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -5.1\n周期: 五月\n链接: https://investing.com/economic-calendar/philly-fed-employment-908\n来源: Federal Reserve Bank of Philadelphia\n来源链接: https://www.philadelphiafed.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:a7b3275b-69a5-4081-85fd-7cf19a6c4d7b@investing.com
-DTSTAMP:20260512T033944Z
+UID:9904efdb-a699-4ae6-afff-b0a85e0751c4@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260521T203000
 SUMMARY:美国营建许可总数(户)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 1.363 M\n周期: 四月\n详细: 美国营建许可总数\n说明: 营建许可说明了政府许可的新建筑项目数量。 营建许可是衡量房地产市场状况的重要指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/building-permits-25\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/construction/nrc/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:a85dc7c6-1629-44d1-9358-1aad4ac42166@investing.com
-DTSTAMP:20260512T033944Z
+UID:046ba565-1a71-4084-a93b-c279f9bd7a99@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260521T203000
+SUMMARY:美国初请失业金人数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: -\n说明: 首次失业救济申请是对于在当周首次进行失业救济申请的人数所进行季度调整的衡量。 此数据由劳工部收集，每周发布。 \n失业救济人数被用于对用工市场健康度进行衡量，如果数字增加，则表示就业人数较少。 \n由于是以周为单位进行计算，该失业救济申请数据十分不稳定。 \n通常，至少35\,000申请数的变动才能表示就业机会增加的重大变化。 \n如果该指标比预期更高，则应认为美元弱势/看跌，而如果该指标比预期更低，则应认为美元强势/看涨。\n链接: https://investing.com/economic-calendar/initial-jobless-claims-294\n来源: Department of Labor\n来源链接: https://www.dol.gov/
+END:VEVENT
+BEGIN:VEVENT
+UID:af8b1696-4afa-40b1-a6af-68c75947ae55@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260521T203000
+SUMMARY:美国费城联储制造业指数
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 26.7\n周期: 五月\n说明: 费城联邦制造业指数测定费城制造业的经济健康度。 \n任何超过0的指数表示制造业状况的改善，小于0的表示制造业状况的恶化。 \n它是通过对费城联邦储备区中大约250家制造商进行调查而获得的。 \n它对于预测美国供应管理协会（ISM）指数有所帮助。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/philadelphia-fed-manufacturing-index-236\n来源: Federal Reserve Bank of Philadelphia \n来源链接: https://www.philadelphiafed.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:f7f97998-2a12-4842-b242-e963597f2eee@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260521T203000
+SUMMARY:美国费城联储制造业就业指数
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -5.1\n周期: 五月\n链接: https://investing.com/economic-calendar/philly-fed-employment-908\n来源: Federal Reserve Bank of Philadelphia\n来源链接: https://www.philadelphiafed.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:b38e2cfb-f0ce-4f04-abd0-1070c7bf47b3@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260521T214500
 SUMMARY:美国S&P Global综合PMI
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 51.7\n周期: 五月\n详细: 美国S&P Global综合采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/s-p-global-composite-pmi-1492\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
 END:VEVENT
 BEGIN:VEVENT
-UID:e2959e4f-1209-422f-b105-992bde5aff45@investing.com
-DTSTAMP:20260512T033944Z
+UID:1aaac2d6-17bd-4182-84b3-d0aae0af9b88@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260521T214500
 SUMMARY:美国Markit制造业PMI
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 54.5\n周期: 五月\n详细: 美国Markit制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/manufacturing-pmi-829\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
 END:VEVENT
 BEGIN:VEVENT
-UID:dc788a92-066f-448d-b8fa-27c7e45d302e@investing.com
-DTSTAMP:20260512T033944Z
+UID:d7254081-1a3d-4042-a4b0-627829d63c86@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260521T214500
 SUMMARY:美国Markit服务业PMI
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 51.0\n周期: 五月\n详细: 美国Markit服务业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/services-pmi-1062\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
 END:VEVENT
 BEGIN:VEVENT
-UID:2614e5bf-f756-479b-9732-865f41f43082@investing.com
-DTSTAMP:20260512T033944Z
+UID:4487e368-ec32-4366-9d21-bac71471a744@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260521T220000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:ed9a18e5-62d8-4d10-94d3-d08ac1cd340f@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260522T220000
-SUMMARY:美国密歇根大学5-10年期通胀率预期(%)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 3.4 %\n周期: 五月\n详细: 美国密歇根大学5-10年期通胀率预期\n链接: https://investing.com/economic-calendar/michigan-5-year-inflation-expectations-1568\n来源: University Of Michigan\n来源链接: http://www.sca.isr.umich.edu/
-END:VEVENT
-BEGIN:VEVENT
-UID:6884e64c-dba9-4cf2-961f-5acfacf95197@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260522T220000
-SUMMARY:美国密歇根大学消费者信心指数
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 48.2\n周期: 五月\n说明: 密歇根消费者情绪指数是衡量经济活动中消费者信心水平的指标。 它是一个领先指标，因为它可以预测消费者开支，消费者开支是整体经济活动的主要部分。 \n它是通过对500位消费者进行调查而获得的。 \n较高的指标表示较高的消费者乐观度。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/michigan-consumer-sentiment-320\n来源: University of Michigan\n来源链接: http://www.sca.isr.umich.edu/
-END:VEVENT
-BEGIN:VEVENT
-UID:33d96820-5b97-426b-a3b7-9ca0a5e9c732@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260522T220000
-SUMMARY:美国密歇根大学1年期通胀率预期
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 4.5 %\n周期: 五月\n说明: 此月度调查是衡量消费者对于在随后12个月中消费品和劳动力价格变动的期望值百分比。 \n密歇根大学首先发布初期数据，大约15天内发布修改数据。 \n 由于初始数据是最早发布的，它具有更多的影响。\n链接: https://investing.com/economic-calendar/michigan-1-year-inflation-expectations-389\n来源: University of Michigan\n来源链接: http://www.sca.isr.umich.edu/
-END:VEVENT
-BEGIN:VEVENT
-UID:7e35a835-23e3-49f1-9759-f6e342903d9a@investing.com
-DTSTAMP:20260512T033944Z
+UID:41c9a8df-0044-4743-8d24-4e4629e37524@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260522T220000
 SUMMARY:美国领先指标月率 (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -0.6 %\n周期: 月度环比\n详细: 美国领先指标月率\n说明: 领先指标是综合经济指标，也是系统性分析商业周期波峰和波谷信号的关键要素。领先、同步、滞后经济指标本质上是多个单独的领先、同步、滞后经济数据的综合平均数。得益于领先指标剔除了个别因素的部分波动性，其能够更清晰、更可靠地总结和揭示经济数据中常见的转折点形态。\n链接: https://investing.com/economic-calendar/us-leading-index-1968\n来源: The Conference Board\n来源链接: https://conference-board.org/data/bcicountry.cfm?cid=1
 END:VEVENT
 BEGIN:VEVENT
-UID:eacbee95-631b-479c-962b-9abed237a15b@investing.com
-DTSTAMP:20260512T033944Z
+UID:336dbccd-0d4d-4553-abdf-36b45d8d5ce3@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260522T220000
+SUMMARY:美国密歇根大学1年期通胀率预期
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 4.5 %\n周期: 五月\n说明: 此月度调查是衡量消费者对于在随后12个月中消费品和劳动力价格变动的期望值百分比。 \n密歇根大学首先发布初期数据，大约15天内发布修改数据。 \n 由于初始数据是最早发布的，它具有更多的影响。\n链接: https://investing.com/economic-calendar/michigan-1-year-inflation-expectations-389\n来源: University of Michigan\n来源链接: http://www.sca.isr.umich.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:a2812bc5-df4f-4e02-b0c9-de83f121b7e1@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260522T220000
 SUMMARY:美国密歇根大学消费者预期指数
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 48.5\n周期: 五月\n链接: https://investing.com/economic-calendar/michigan-consumer-expectations-900\n来源: University Of Michigan\n来源链接: http://www.sca.isr.umich.edu/
 END:VEVENT
 BEGIN:VEVENT
-UID:55c98c23-7f12-4d78-bfed-300ea053dbf7@investing.com
-DTSTAMP:20260512T033944Z
+UID:239262f1-0946-460a-aaab-51d5c568a733@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260522T220000
+SUMMARY:美国密歇根大学消费者信心指数
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 48.2\n周期: 五月\n说明: 密歇根消费者情绪指数是衡量经济活动中消费者信心水平的指标。 它是一个领先指标，因为它可以预测消费者开支，消费者开支是整体经济活动的主要部分。 \n它是通过对500位消费者进行调查而获得的。 \n较高的指标表示较高的消费者乐观度。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/michigan-consumer-sentiment-320\n来源: University of Michigan\n来源链接: http://www.sca.isr.umich.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:dbe6e0c8-ac81-474e-9e2f-254045901502@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260522T220000
+SUMMARY:美国密歇根大学5-10年期通胀率预期(%)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 3.4 %\n周期: 五月\n详细: 美国密歇根大学5-10年期通胀率预期\n链接: https://investing.com/economic-calendar/michigan-5-year-inflation-expectations-1568\n来源: University Of Michigan\n来源链接: http://www.sca.isr.umich.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:179fd7e1-ff8b-4589-a2a0-9d3daa10dc98@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260523T010000
 SUMMARY:美国当周贝克休斯石油钻井总数(口)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/baker-hughes-u.s.-rig-count-1652\n来源: Baker Hughes\n来源链接: http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview
 END:VEVENT
 BEGIN:VEVENT
-UID:38384465-6f26-4444-bae1-c3ffc5223704@investing.com
-DTSTAMP:20260512T033944Z
+UID:291130e9-f6aa-4f69-82fd-90fe790be50d@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260523T010000
 SUMMARY:美国当周贝克休斯总钻井总数(口)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-baker-hughes-total-rig-count-1810\n来源: Baker Hughes\n来源链接: http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview
 END:VEVENT
 BEGIN:VEVENT
-UID:a85e7a95-e241-4c0b-8867-eec10c8185bd@investing.com
-DTSTAMP:20260512T033944Z
+UID:1d06d66f-6240-46b9-97a4-d25badf2b0e5@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260524T010000
 SUMMARY:美国当周贝克休斯总钻井总数(口)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n链接: https://investing.com/economic-calendar/u.s.-baker-hughes-total-rig-count-1810\n来源: Baker Hughes\n来源链接: http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview
 END:VEVENT
 BEGIN:VEVENT
-UID:9c9b145a-cb51-4c4d-b515-380b1a499c02@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260526T210000
-SUMMARY:美国S&P/CS20座大城市未季调房价指数年率(%) (同比)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 0.9 %\n周期: 同比\n详细: 美国S&P/CS20座大城市未季调房价指数年率\n说明: S&P/Case-Shiller全美房价指数（HPI）成分20是衡量上年度全美20个地区房地产市场价值（售价）变化的指标。 此报告有助于分析美国房地产市场的实力，进而有助于分析整体经济。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/s-p-cs-hpi-composite-20-n.s.a.-329\n来源: S&P Global\n来源链接: https://www.spglobal.com/spdji/en/indices/indicators/sp-corelogic-case-shiller-20-city-composite-home-price-nsa-index/#news-research
-END:VEVENT
-BEGIN:VEVENT
-UID:bb8edb53-4e1d-4fa4-8b52-cdcfa5717403@investing.com
-DTSTAMP:20260512T033944Z
+UID:ad957df1-c84a-4033-b5b7-a7c0b8c87aa3@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260526T210000
 SUMMARY:美国S&P/CS 20座大城市未季调房价指数月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 0.4 %\n周期: 月度环比\n详细: 美国S&P/CS 20座大城市未季调房价指数月率\n链接: https://investing.com/economic-calendar/s-p-cs-hpi-composite-20-n.s.a.-913\n来源: S&P Global\n来源链接: https://www.spglobal.com/spdji/en/indices/indicators/sp-corelogic-case-shiller-20-city-composite-home-price-nsa-index/#news-research
 END:VEVENT
 BEGIN:VEVENT
-UID:b12be88e-18f5-4d51-893b-21459221e498@investing.com
-DTSTAMP:20260512T033944Z
+UID:82cf39e0-dee0-496b-acaa-6dd10a81ed08@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260526T210000
+SUMMARY:美国S&P/CS20座大城市未季调房价指数年率(%) (同比)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 0.9 %\n周期: 同比\n详细: 美国S&P/CS20座大城市未季调房价指数年率\n说明: S&P/Case-Shiller全美房价指数（HPI）成分20是衡量上年度全美20个地区房地产市场价值（售价）变化的指标。 此报告有助于分析美国房地产市场的实力，进而有助于分析整体经济。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/s-p-cs-hpi-composite-20-n.s.a.-329\n来源: S&P Global\n来源链接: https://www.spglobal.com/spdji/en/indices/indicators/sp-corelogic-case-shiller-20-city-composite-home-price-nsa-index/#news-research
+END:VEVENT
+BEGIN:VEVENT
+UID:daca17a7-f1bc-49ac-87ba-cd033982ad85@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260526T220000
 SUMMARY:美国谘商会消费者信心指数
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 92.8\n周期: 五月\n说明: 消费者信心指数是衡量经济活动中消费者信心水平的指标。 它是一个领先指标，因为它可以预测消费开支，消费开支是整个经济活动的主要部分。 较高的指标表示较高的消费者乐观度。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/cb-consumer-confidence-48\n来源: Conference Board\n来源链接: https://www.conference-board.org/topics/consumer-confidence
 END:VEVENT
 BEGIN:VEVENT
-UID:905eb019-22fc-42ed-a24e-e6ec9f4b6b6a@investing.com
-DTSTAMP:20260512T033944Z
+UID:3cdf7254-beb8-4ec8-8e1f-f198da711156@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260528T203000
 SUMMARY:美国扣除运输耐用品订单月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 0.9 %\n周期: 月度环比\n详细: 美国扣除运输耐用品订单月率\n说明: 核心耐用品订单是新的耐用品订单总价值变化的指标（不含运输）。 \n由于飞机订单很不稳定，该核心数据较好说明了订单趋势。 \n较高的指标表示制造商活动增加。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/core-durable-goods-orders-59\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/manufacturing/m3/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:e2772511-bce7-42a2-8bfb-2704d6788ef2@investing.com
-DTSTAMP:20260512T033944Z
+UID:4060a05b-7632-4292-afdd-c66fa0146cc9@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260528T203000
 SUMMARY:美国耐用品订单月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 0.8 %\n周期: 月度环比\n详细: 美国耐用品订单月率\n说明: 耐用品订单是新的耐用品订单总价值变化的指标。 \n较高的指标表示制造商活动增加。 \n耐用品订单报告很不稳定，经常随大约一周后发布的工厂订单报告作出修改。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/durable-goods-orders-86\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/manufacturing/m3/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:015e58d9-23f4-4d77-86eb-f24bd34de158@investing.com
-DTSTAMP:20260512T033944Z
+UID:89b602c0-fdd0-4352-bccc-16bbbdb3675b@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260528T203000
 SUMMARY:美国GDP平减指数(%) (季度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 3.6 %\n周期: 季度环比\n详细: 美国GDP平减指数\n说明: GDP价格指数是衡量包含在GDP中的所有消费品和劳务价格的指标。 \n因此 － GDP价格指数是衡量通货膨胀的关键指标。 \n如果指数比预期更高，则应认为美元强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/gdp-price-index-343\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/newsreleases/national/gdp/gdpnewsrelease.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:8368ca33-a06b-4b48-b552-84df19df0815@investing.com
-DTSTAMP:20260512T033944Z
+UID:8a6a8a33-0e05-4d7c-9fe9-7c278d40046f@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260528T203000
 SUMMARY:美国核心PCE物价指数年化季率(%)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 4.30 %\n周期: 第一季度\n详细: 美国核心PCE物价指数年化季率\n链接: https://investing.com/economic-calendar/core-pce-prices-1548
 END:VEVENT
 BEGIN:VEVENT
-UID:cbde5053-9822-43a8-820f-45a7721f2abc@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260528T203000
-SUMMARY:美国核心PCE物价指数年化季率(%) (同比)
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 3.2 %\n周期: 同比\n详细: 美国核心个人消费支出平减指数(PCE)年化季率\n链接: https://investing.com/economic-calendar/core-pce-price-index-905\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/
-END:VEVENT
-BEGIN:VEVENT
-UID:e9947c1f-b62c-4901-be24-c31825f8d323@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260528T203000
-SUMMARY:美国核心PCE物价指数月率(%) (月度环比)
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 0.3 %\n周期: 月度环比\n详细: 美国核心PCE物价指数月率\n说明: 核心个人消费支出（PCE）价格指数是衡量除食品和能源之外的消费者所购买的消费品和劳务价格变化的指标。 \n价格为按照每个项目的总支出的加权价格。 \n它从消费者的角度衡量价格变化。 \n它是衡量美国购买趋势变化和通货膨胀的重要方法。 \n如果指数比预期更高，则应认为美元强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/core-pce-price-index-61\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/
-END:VEVENT
-BEGIN:VEVENT
-UID:67dfb4e6-ae39-4899-80c4-9f633cf70040@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260528T203000
-SUMMARY:美国个人支出月率(%) (月度环比)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 0.9 %\n周期: 月度环比\n详细: 美国个人支出月率\n说明: 个人开支指标用来衡量消费者在消费品和服务中所花费总额的变化。 \n由于现今消费是美国GDP中最大的一个部分，个人开支是经济增长中的一个关键指标。 \n它也与消费者信心有关。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/personal-spending-235\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/
-END:VEVENT
-BEGIN:VEVENT
-UID:21e681fa-3e76-4f33-98c6-c553265e5f4e@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260528T203000
-SUMMARY:个人消费支出价格指数 (月度环比)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 0.7 %\n周期: 月度环比\n详细: 个人消费支出价格指数\n链接: https://investing.com/economic-calendar/pce-price-index-904\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
-END:VEVENT
-BEGIN:VEVENT
-UID:cf9bf4d8-87e5-4e09-a2d1-98e0a84de866@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260528T203000
-SUMMARY:美国PCE物价指数年率 (同比)
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 3.5 %\n周期: 同比\n详细: 美国PCE物价指数年率\n说明: PCE物价指数又称个人消费支出平减指数，是美国广泛采用的用来衡量所有本土个人消费品价格平均上涨水平的指标。其对货币的影响可能是双向的：CPI上升可能导致利率上升和本地货币上涨；另一方面，在经济衰退期间，CPI上涨可能导致经济衰退加剧，进而造成本地货币下跌。\n链接: https://investing.com/economic-calendar/pce-price-index-906\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
-END:VEVENT
-BEGIN:VEVENT
-UID:6de4f049-01cc-48c3-b399-071c6403d000@investing.com
-DTSTAMP:20260512T033944Z
+UID:014321b6-eea3-4d90-bcd0-6977937e90ac@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260528T203000
 SUMMARY:美国实际GDP年化季率 (季度环比)
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 2.0 %\n周期: 季度环比\n详细: 美国实际国内生产总值(GDP) 年化季率\n说明: 国内生产总值（GDP）是对于经济活动的最广泛的测定，也是经济健康度的一个重要指标。 \nGDP每年（季度变化 x 4）的百分比变化显示了整体经济的增长率。 \n现在消费是美国GDP中最大的一个部分，对GDP的影响最大。 \n该数据每季之间都可能会有很大不同。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/gdp-375\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/newsreleases/national/gdp/gdpnewsrelease.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:f00c8f4d-b79c-4b03-91ef-2b5f22b7ed0b@investing.com
-DTSTAMP:20260512T033944Z
+UID:7d8098b8-c315-4c32-a8c5-aceb623a9b79@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260528T203000
+SUMMARY:美国核心PCE物价指数年化季率(%) (同比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 3.2 %\n周期: 同比\n详细: 美国核心个人消费支出平减指数(PCE)年化季率\n链接: https://investing.com/economic-calendar/core-pce-price-index-905\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/
+END:VEVENT
+BEGIN:VEVENT
+UID:16ebf878-d117-4be7-a837-f4af41d24318@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260528T203000
+SUMMARY:美国核心PCE物价指数月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 0.3 %\n周期: 月度环比\n详细: 美国核心PCE物价指数月率\n说明: 核心个人消费支出（PCE）价格指数是衡量除食品和能源之外的消费者所购买的消费品和劳务价格变化的指标。 \n价格为按照每个项目的总支出的加权价格。 \n它从消费者的角度衡量价格变化。 \n它是衡量美国购买趋势变化和通货膨胀的重要方法。 \n如果指数比预期更高，则应认为美元强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/core-pce-price-index-61\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/
+END:VEVENT
+BEGIN:VEVENT
+UID:ff2199ef-478e-4ac4-9513-fdc3e6fbb879@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260528T203000
+SUMMARY:美国个人支出月率(%) (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 0.9 %\n周期: 月度环比\n详细: 美国个人支出月率\n说明: 个人开支指标用来衡量消费者在消费品和服务中所花费总额的变化。 \n由于现今消费是美国GDP中最大的一个部分，个人开支是经济增长中的一个关键指标。 \n它也与消费者信心有关。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/personal-spending-235\n来源: Bureau of Economic Analysis\n来源链接: https://www.bea.gov/
+END:VEVENT
+BEGIN:VEVENT
+UID:c326f46e-ffc7-473e-b8e0-e7af2a82cf9b@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260528T203000
+SUMMARY:个人消费支出价格指数 (月度环比)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 0.7 %\n周期: 月度环比\n详细: 个人消费支出价格指数\n链接: https://investing.com/economic-calendar/pce-price-index-904\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
+END:VEVENT
+BEGIN:VEVENT
+UID:9ae99501-fe1e-41eb-95bb-92146936f955@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260528T203000
+SUMMARY:美国PCE物价指数年率 (同比)
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 3.5 %\n周期: 同比\n详细: 美国PCE物价指数年率\n说明: PCE物价指数又称个人消费支出平减指数，是美国广泛采用的用来衡量所有本土个人消费品价格平均上涨水平的指标。其对货币的影响可能是双向的：CPI上升可能导致利率上升和本地货币上涨；另一方面，在经济衰退期间，CPI上涨可能导致经济衰退加剧，进而造成本地货币下跌。\n链接: https://investing.com/economic-calendar/pce-price-index-906\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
+END:VEVENT
+BEGIN:VEVENT
+UID:992e76fa-d263-4af6-aea1-3b8153e4a31b@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260528T220000
 SUMMARY:美国季调后新屋销售年化总数(户)
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 682 K\n周期: 四月\n详细: 美国季调后新屋销售年化总数\n说明: 新屋销售是衡量上月售出的新住房按年计算的数据的指标。 \n此报告有助于分析美国房地产市场的实力，进而有助于分析整体经济。 \n新屋销售报告很不稳定，会有很大程度的修改。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/new-home-sales-222\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/construction/nrc/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:80b9498d-5c94-4463-911c-254ee7099eb9@investing.com
-DTSTAMP:20260512T033944Z
+UID:dd813b26-33ad-4148-8d72-81a6f40245d0@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260528T220000
 SUMMARY:美国季调后新屋销售年化月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 7.4 %\n周期: 月度环比\n详细: 美国季调后新屋销售年化月率\n链接: https://investing.com/economic-calendar/new-home-sales-896\n来源: US Department of Commerce\n来源链接: https://www.commerce.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:9260614a-3339-4bc6-ad64-4a7ef87d2056@investing.com
-DTSTAMP:20260512T033944Z
+UID:b5eb34ce-bf49-48cc-8401-fcd82e777f0c@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260528T233000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:774bf7fb-d6e6-42e2-93fb-1c1a157627e6@investing.com
-DTSTAMP:20260512T033944Z
+UID:21ff24a1-a102-48a3-b1be-f235d81c58b8@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260529T203000
 SUMMARY:美国除汽车外零售库存
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 0.4 %\n周期: 四月\n链接: https://investing.com/economic-calendar/retail-inventories-ex-auto-1887\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:b4bb6a36-8779-48a4-bd64-555edc3fe608@investing.com
-DTSTAMP:20260512T033944Z
+UID:e331e5de-626b-4dbc-ac1a-17f43236a1e1@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260529T203000
 SUMMARY:美国商品贸易收支(美元)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -87.45 B\n周期: 四月\n详细: 美国商品贸易收支\n链接: https://investing.com/economic-calendar/goods-trade-balance-1650\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/foreign-trade/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:8c8391db-a96e-45fe-b133-40327e2ab1d7@investing.com
-DTSTAMP:20260512T033944Z
+UID:b27b7653-bc23-4c9c-a41e-64f87796a852@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260529T214500
 SUMMARY:美国芝加哥PMI
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 49.2\n周期: 五月\n说明: 芝加哥采购经理指数测定芝加哥制造业的经济健康度。 \n任何超过50的指数表示制造业的扩大，小于50的表示制造业的缩小。 \n 芝加哥采购经理指数对于预测美国供应管理协会（ISM）指数有一些用处并通常与之有着紧密的联系。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/chicago-pmi-38\n来源: ISM-Chicago\, Inc\n来源链接: https://chicago.ismworld.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:17c7483f-aec5-4b69-bbdf-79fdba105fcd@investing.com
-DTSTAMP:20260512T033944Z
+UID:19868bc6-6987-4346-bd55-6407efb336da@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260601T214500
 SUMMARY:美国Markit制造业PMI
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 54.5\n周期: 五月\n详细: 美国Markit制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/manufacturing-pmi-829\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
 END:VEVENT
 BEGIN:VEVENT
-UID:ecd7d56c-a496-4503-9f3a-5784e90307ca@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260601T220000
-SUMMARY:美国ISM制造业物价支付指数
-DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 84.6\n周期: 五月\n说明: 供应管理研究所（ISM）制造业价格代表企业对于未来通胀的看法，数值越高，表示通胀预期越强。 ISM指数是通过向50个国家的20种行业中超过400公司进行调查而获得的。 它是消费通货膨胀的领先指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/ism-manufacturing-prices-174\n来源: Institute for Supply Management \n来源链接: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/
-END:VEVENT
-BEGIN:VEVENT
-UID:0f83a621-3b69-4c00-9155-60527314b8d2@investing.com
-DTSTAMP:20260512T033944Z
-DTSTART;TZID=Asia/Shanghai:20260601T220000
-SUMMARY:美国ISM制造业PMI
-DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 52.7\n周期: 五月\n说明: 供应管理研究所（ISM）制造业指数所跟踪的是上月发生的制造业活动的数量。 \n 此数据被认为是十分重要且十分可信的经济数据。  如果此指数低于50，由于活动的增加，它倾向于表示经济不景气，特别是该趋势持续几个月的时候。 高企于50以上的指数表示很可能有一段时间的经济增长。 ISM指数是通过向50个国家的20种行业中超过400公司进行调查而获得的。 \nISM的领先性质已经多次被证实。 在衰退期，ISM的底部可能会领先于经济循环转折点之前几个月出现。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/ism-manufacturing-pmi-173\n来源: Institute for Supply Management \n来源链接: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/
-END:VEVENT
-BEGIN:VEVENT
-UID:23464aef-4c7a-4642-a932-311dc3738cfe@investing.com
-DTSTAMP:20260512T033944Z
+UID:a022b440-3b8c-4bd9-8267-5c4762c7dd4b@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260601T220000
 SUMMARY:美国营建支出月率(%) (月度环比)
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 0.6 %\n周期: 月度环比\n详细: 美国营建支出月率\n说明: 建筑开支指数是衡量美国在建筑业上的总开支变化的指标，该开支是在房屋和项目完工的基础上计算的。 因此这些数据代表已经完成的数据。 月度变化取决于大的修改和变动，因此此报告鲜有市场影响。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/construction-spending-45\n来源: U.S. Census Bureau\n来源链接: https://www.census.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:ad979454-6335-41d2-81c7-93c1f9bc5399@investing.com
-DTSTAMP:20260512T033944Z
+UID:61effdb2-adb9-493a-b4a7-cf0c6a8b8f7a@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260601T220000
 SUMMARY:美国ISM制造业就业指数
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 46.4\n周期: 五月\n详细: 美国供应管理协会(ISM)制造业就业指数\n链接: https://investing.com/economic-calendar/ism-manufacturing-employment-1046\n来源: Institute for Supply Management \n来源链接: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/
 END:VEVENT
 BEGIN:VEVENT
-UID:24690bc6-c15d-46c5-8031-052a828d4fee@investing.com
-DTSTAMP:20260512T033944Z
+UID:0c84c7ff-689e-4175-b521-3ded8402479a@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260601T220000
+SUMMARY:美国ISM制造业PMI
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 52.7\n周期: 五月\n说明: 供应管理研究所（ISM）制造业指数所跟踪的是上月发生的制造业活动的数量。 \n 此数据被认为是十分重要且十分可信的经济数据。  如果此指数低于50，由于活动的增加，它倾向于表示经济不景气，特别是该趋势持续几个月的时候。 高企于50以上的指数表示很可能有一段时间的经济增长。 ISM指数是通过向50个国家的20种行业中超过400公司进行调查而获得的。 \nISM的领先性质已经多次被证实。 在衰退期，ISM的底部可能会领先于经济循环转折点之前几个月出现。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/ism-manufacturing-pmi-173\n来源: Institute for Supply Management \n来源链接: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/
+END:VEVENT
+BEGIN:VEVENT
+UID:216f81cb-e2b3-4ff8-8d54-0e97ae8cd6c9@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260601T220000
+SUMMARY:美国ISM制造业物价支付指数
+DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 84.6\n周期: 五月\n说明: 供应管理研究所（ISM）制造业价格代表企业对于未来通胀的看法，数值越高，表示通胀预期越强。 ISM指数是通过向50个国家的20种行业中超过400公司进行调查而获得的。 它是消费通货膨胀的领先指标。 \n如果该指标比预期更高，则应认为美元强势/看涨，而如果该指标比预期更低，则应认为美元弱势/看跌。\n链接: https://investing.com/economic-calendar/ism-manufacturing-prices-174\n来源: Institute for Supply Management \n来源链接: https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/
+END:VEVENT
+BEGIN:VEVENT
+UID:0c01992b-7caa-4d75-8f51-fc145e3f5713@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260601T233000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:ff97061f-7378-4fb7-a311-f39b2aa9ab0e@investing.com
-DTSTAMP:20260512T033944Z
+UID:2fc911d6-dcae-4247-b479-8b178acf6aec@investing.com
+DTSTAMP:20260513T034938Z
+DTSTART;TZID=Asia/Shanghai:20260602T220000
+SUMMARY:美国JOLTS职位空缺
+DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 6.866 M\n周期: 四月\n详细: 美国劳工流动调查报告(JOLTS)职位空缺\n说明: 美国劳工统计局进行的一项调查，旨在衡量职位空缺情况。该调查从雇主收集关于其企业' 雇佣、职位空缺、招聘、录用及离职的数据。\n职位空缺与劳动力流动调查（JOLTS）将“职位空缺”定义为每月最后一个工作日仍未填补（即空缺）的所有职位。一个职位只有在满足以下三个条件时才视为“空缺”：\n1.存在具体的职位，且该职位有工作可做。\n2.无论机构在此期间是否能找到合适的候选人，该职位都可在30天内开始工作。\n3.设有该空缺职位的机构正积极从外部招聘员工。\n调查数据若强于预期，通常对美元构成支撑（利好）；而若弱于预期，则通常对美元构成负面影响（利空）。\n链接: https://investing.com/economic-calendar/jolts-job-openings-1057\n来源: Bureau of Labor Statistics\n来源链接: https://www.bls.gov/news.release/jolts.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:6e380496-eb68-4f43-a08b-8b663f44d355@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260609T233000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:b090fac8-8b81-4c90-9638-168d716b2d78@investing.com
-DTSTAMP:20260512T033944Z
+UID:b752479e-aec4-447b-bf2a-a59029995263@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260616T220000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:285d0e0a-91cc-4953-adbe-d8496a8ca25e@investing.com
-DTSTAMP:20260512T033944Z
+UID:44c80450-7037-4c77-a1c4-81c6a7c8645e@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260617T233000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:3c560e09-0e02-4939-a159-54d3d8ae3d9f@investing.com
-DTSTAMP:20260512T033944Z
+UID:10bc60f7-019c-4038-a453-2a0ba5158a32@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260618T020000
 SUMMARY:美联储利率决议
 DESCRIPTION:地区: 美国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 3.75 %\n说明: 联邦公开市场委员会（FOMC）对于短期利率的确定。 \n利率的确定大部分依赖于增长前景和通货膨胀。 央行的主要目的是确保物价稳定。 高利率可以吸引那些寻求最佳“无风险”回报的国外投资者，可以大幅度地增加对于国家货币的需求。 \n如果指数比预期更高，则美元强势/看涨，而如果指数比预期更低，则美元弱势/看跌。\n链接: https://investing.com/economic-calendar/interest-rate-decision-168\n来源: Federal Reserve\n来源链接: https://www.federalreserve.gov/
 END:VEVENT
 BEGIN:VEVENT
-UID:f16ef837-a24d-4e2c-b09f-dc02a7886967@investing.com
-DTSTAMP:20260512T033944Z
+UID:2cfdc251-c70d-42c3-b577-c547ba0cff56@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260625T220000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:5b9a4f27-bb0d-40cb-a1ff-f22a6c8d8064@investing.com
-DTSTAMP:20260512T033944Z
+UID:3ad0e527-6f58-485b-b980-d8026500a063@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260701T233000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:0b9f562e-d8b5-41e3-9cd0-011370f26edb@investing.com
-DTSTAMP:20260512T033944Z
+UID:ba2f238d-1a1c-484a-988d-7210f54e901b@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260707T233000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
 END:VEVENT
 BEGIN:VEVENT
-UID:d21f5eba-bdee-4e29-af20-9a848878af1d@investing.com
-DTSTAMP:20260512T033944Z
+UID:a60118c8-e22b-4b11-994a-04e2ee209173@investing.com
+DTSTAMP:20260513T034938Z
 DTSTART;TZID=Asia/Shanghai:20260708T233000
 SUMMARY:亚特兰大联储GDPNow经济增长预测
 DESCRIPTION:地区: 美国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n周期: 第二季度\n链接: https://investing.com/economic-calendar/atlanta-fed-gdpnow-2260\n来源: Federal Reserve Bank of Atlanta\n来源链接: https://www.atlantafed.org/cqer/research/gdpnow
