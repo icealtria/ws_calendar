@@ -6,302 +6,309 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Shanghai
 X-WR-CALNAME:英为财经 中国 (重要性>=1)
 BEGIN:VEVENT
-UID:cc387ad9-07b0-452e-97c1-a073034a2676@investing.com
-DTSTAMP:20260524T040215Z
+UID:e1fa41d2-446b-47a6-8ce2-4d02f97d5bf9@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260506T094500
 SUMMARY:中国财新服务业PMI
 DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: 52.6\n预期: 52.0\n前值: 52.1\n周期: 四月\n详细: 中国财新服务业采购经理人指数(PMI)\n说明: 发送给400多家私人服务部门公司中的采购主管的调查问卷。 该类采购主管都是经过精心挑选，以准确反映服务业经济的真实结构，通过跟踪如销售、就业、库存和价格等方面的数据获得优秀的评价，以提供最新可能的在私人部门经济真实发生的情形。 如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-caixin-services-pmi-596\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
 END:VEVENT
 BEGIN:VEVENT
-UID:34286f1a-3cd4-4366-892f-f60cbdc28cac@investing.com
-DTSTAMP:20260524T040215Z
+UID:f5cc2827-b0c7-48d9-9556-35d7a7da7ae3@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260507T160000
 SUMMARY:中国外汇储备(美元)
 DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: 3.411 T\n预期: -\n前值: 3.342 T\n周期: 四月\n链接: https://investing.com/economic-calendar/chinese-fx-reserves-(usd)-866\n来源: The People's Bank of China\n来源链接: http://www.pbc.gov.cn/english/
 END:VEVENT
 BEGIN:VEVENT
-UID:153ba902-af02-4585-ba45-8d525d7690ac@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260509T110000
-SUMMARY:澳大利亚出口月率(%)
-DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 9.80 M\n预期: -\n前值: -0.70 M\n周期: 四月\n详细: 中国出口—人民币计价\n说明: 货物与服务出口包含居民向非居民进行的货物与服务交易（销售、易货、赠与或赠款）。根据联合国国际贸易统计建议，离岸价（f.o.b.）出口与到岸价（c.i.f.）进口通常作为一般贸易统计数据纳入海关统计。\n若实际数据高于预期，则对澳元构成利好；反之则构成利空。\n链接: https://investing.com/economic-calendar/china-exports-(yuan-denominated)-2226\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
-END:VEVENT
-BEGIN:VEVENT
-UID:b5d75663-f432-46e2-b963-c4a62d19dc4b@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260509T110000
-SUMMARY:澳大利亚进口月率(%)
-DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 20.60 M\n预期: -\n前值: 23.80 M\n周期: 四月\n详细: 中国进口—人民币计价\n说明: 根据联合国国际贸易统计建议，出口离岸价（f.o.b.）和进口到岸价（c.i.f.）通常作为一般贸易统计数据纳入海关统计。部分国家将进口以离岸价（f.o.b.）而非普遍采用的到岸价（c.i.f.）申报。采用离岸价申报进口时，进口价值将相应减少保险费和运费的金额。\n若实际数据高于预期，则对澳元构成利好；反之则构成利空。\n链接: https://investing.com/economic-calendar/china-imports-(yuan-denominated)-2227\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
-END:VEVENT
-BEGIN:VEVENT
-UID:584dd428-fe78-4271-b2b4-b5ef68f321fe@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260509T110000
-SUMMARY:英国贸易帐(英镑)
-DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 585.60 B\n预期: 575.00 B\n前值: 354.75 B\n周期: 四月\n详细: 中国贸易帐(人民币)\n说明: 贸易平衡是衡量进出口货物之间的价差（出口减进口）的指标。 它是国家国际收支最大的一个部分。 \n出口数据可以反映英国的经济增长。 进口数据表示国内需求。 \n外国人必须购买本国的货币以支付出口，这对于英镑可能会有很大的影响。 \n如果该指标比预期更高，则应认为英镑强势/看涨，而如果该指标比预期更低，则应认为英镑弱势/看跌。\n链接: https://investing.com/economic-calendar/china-trade-balance-(yuan-denominated)-2228\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
-END:VEVENT
-BEGIN:VEVENT
-UID:7391106a-2d42-45dd-9195-9af4cd8b39a7@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260509T110000
-SUMMARY:中国贸易帐 (美元)
-DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 84.80 B\n预期: 83.10 B\n前值: 51.13 B\n周期: 四月\n说明: 贸易平衡是衡量进出口货物之间的价差（出口减进口）的指标。 它是国家国际收支最大的一个部分。 \n出口数据可以反映中国的经济增长。 进口数据表示国内需求。 外国人必须购买本国的货币以支付出口，这对于人民币可能会有很大的影响。 \n因此，如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-trade-balance-466\n来源: General Administration of Customs People Republic of China\n来源链接: https://www.stats.gov.cn/
-END:VEVENT
-BEGIN:VEVENT
-UID:ccdbae0a-8930-4b7e-bdcc-0fef18152e27@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260509T110000
-SUMMARY:中国进口年率-美元计价(%) (同比)
-DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: 25.3 %\n预期: 15.2 %\n前值: 27.8 %\n周期: 同比\n详细: 中国进口年率-美元计价\n链接: https://investing.com/economic-calendar/chinese-imports-867\n来源: General Administration of Customs People Republic of China\n来源链接: https://www.stats.gov.cn/
-END:VEVENT
-BEGIN:VEVENT
-UID:9c78b4f8-ab0b-488a-b390-28fca1d51605@investing.com
-DTSTAMP:20260524T040215Z
+UID:5ad45260-6e49-4c06-9dbd-922a60ad0fab@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260509T110000
 SUMMARY:中国出口年率-美元计价(%) (同比)
 DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: 14.1 %\n预期: 7.9 %\n前值: 2.5 %\n周期: 同比\n详细: 中国出口年率-美元计价\n说明: 商品和服务的出口包括从居民到非居民的商品和服务（销售、易货、礼品和赠与）中的交易。 如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-exports-595\n来源: General Administration of Customs People Republic of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:b530f55b-d0fc-4ff5-bb21-653869de9dd2@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260511T093000
-SUMMARY:中国PPI年率(%) (同比)
-DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 2.8 %\n预期: 1.7 %\n前值: 0.5 %\n周期: 同比\n详细: 中国生产者物价指数(PPI)年率\n说明: 中国生产者价格指数（PPI）是国内生产者所获得的消费品和劳动力的销售价格平均变动的通胀指标。 \nPPI从消费者的角度衡量价格变化。 \nPPI对以下三个生产领域进行调查： 工业、商品及加工阶段的公司。 \n当生产者向消费品和劳动力支出更多时，他们很可能将该部分增加的成本加给消费者，所以PPI被认为是消费者物价指数的领先指标。 \n如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-ppi-464\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
+UID:db684a55-87d1-4d5f-80d7-25042cf2f021@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260509T110000
+SUMMARY:澳大利亚出口月率(%)
+DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 9.80 M\n预期: -\n前值: -0.70 M\n周期: 四月\n详细: 中国出口—人民币计价\n说明: 货物与服务出口包含居民向非居民进行的货物与服务交易（销售、易货、赠与或赠款）。根据联合国国际贸易统计建议，离岸价（f.o.b.）出口与到岸价（c.i.f.）进口通常作为一般贸易统计数据纳入海关统计。\n若实际数据高于预期，则对澳元构成利好；反之则构成利空。\n链接: https://investing.com/economic-calendar/china-exports-(yuan-denominated)-2226\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:6e266491-ab35-4f31-812a-4b15f4696204@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260511T093000
-SUMMARY:中国CPI月率(%) (月度环比)
-DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 0.3 %\n预期: -0.1 %\n前值: -0.7 %\n周期: 月度环比\n详细: 中国居民消费价格指数(CPI)月率\n说明: 中国消费者物价指数（CPI）是衡量消费品和劳务价格变化的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量中国购买趋势变化和通货膨胀的重要方法。 如果指数比预期更高，则应认为人民币强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为人民币弱势/看跌\n链接: https://investing.com/economic-calendar/chinese-cpi-743\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
+UID:121f6296-fba9-4d58-8589-863785fed5ad@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260509T110000
+SUMMARY:澳大利亚进口月率(%)
+DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 20.60 M\n预期: -\n前值: 23.80 M\n周期: 四月\n详细: 中国进口—人民币计价\n说明: 根据联合国国际贸易统计建议，出口离岸价（f.o.b.）和进口到岸价（c.i.f.）通常作为一般贸易统计数据纳入海关统计。部分国家将进口以离岸价（f.o.b.）而非普遍采用的到岸价（c.i.f.）申报。采用离岸价申报进口时，进口价值将相应减少保险费和运费的金额。\n若实际数据高于预期，则对澳元构成利好；反之则构成利空。\n链接: https://investing.com/economic-calendar/china-imports-(yuan-denominated)-2227\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:b577f4c3-c899-46e3-a6ba-2fd578e237db@investing.com
-DTSTAMP:20260524T040215Z
+UID:4639beb4-45bb-4a10-8450-1b0345001ce8@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260509T110000
+SUMMARY:英国贸易帐(英镑)
+DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 585.60 B\n预期: 575.00 B\n前值: 354.75 B\n周期: 四月\n详细: 中国贸易帐(人民币)\n说明: 贸易平衡是衡量进出口货物之间的价差（出口减进口）的指标。 它是国家国际收支最大的一个部分。 \n出口数据可以反映英国的经济增长。 进口数据表示国内需求。 \n外国人必须购买本国的货币以支付出口，这对于英镑可能会有很大的影响。 \n如果该指标比预期更高，则应认为英镑强势/看涨，而如果该指标比预期更低，则应认为英镑弱势/看跌。\n链接: https://investing.com/economic-calendar/china-trade-balance-(yuan-denominated)-2228\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:e4b88ec0-2e06-490f-b986-1030fa5a6b68@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260509T110000
+SUMMARY:中国贸易帐 (美元)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 84.80 B\n预期: 83.10 B\n前值: 51.13 B\n周期: 四月\n说明: 贸易平衡是衡量进出口货物之间的价差（出口减进口）的指标。 它是国家国际收支最大的一个部分。 \n出口数据可以反映中国的经济增长。 进口数据表示国内需求。 外国人必须购买本国的货币以支付出口，这对于人民币可能会有很大的影响。 \n因此，如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-trade-balance-466\n来源: General Administration of Customs People Republic of China\n来源链接: https://www.stats.gov.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:1a71590a-63b1-4adf-bbe1-ce388a23c45b@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260509T110000
+SUMMARY:中国进口年率-美元计价(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: 25.3 %\n预期: 15.2 %\n前值: 27.8 %\n周期: 同比\n详细: 中国进口年率-美元计价\n链接: https://investing.com/economic-calendar/chinese-imports-867\n来源: General Administration of Customs People Republic of China\n来源链接: https://www.stats.gov.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:e861c68f-edb2-4337-be63-d6b880bd7fd5@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260511T093000
 SUMMARY:中国CPI年率(%) (同比)
 DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 1.2 %\n预期: 0.9 %\n前值: 1.0 %\n周期: 同比\n详细: 中国居民消费价格指数(CPI)年率\n说明: 中国消费者物价指数（CPI）是衡量消费品和劳务价格变化的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量中国购买趋势变化和通货膨胀的重要方法。 如果指数比预期更高，则应认为人民币强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为人民币弱势/看跌\n链接: https://investing.com/economic-calendar/chinese-cpi-459\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:fe94efd2-9d88-4fd6-997e-cb3b9b44a6ee@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260514T170000
-SUMMARY:中国M2货币供应年率(%) (同比)
-DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 8.6 %\n预期: 8.5 %\n前值: 8.5 %\n周期: 同比\n详细: 中国M2货币供应年率\n说明: M2货币存量是衡量银行账户中所有货币和流动资产的价格变化的指标。 \n货币存量被认为是通胀的一个重要指标，因为货币的增加会给汇率带来压力。 \n此数据的大部分前期已经由货币基础报告发布。 \n如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-m2-money-stock-463\n来源: The Peoples Bank of China\n来源链接: http://www.pbc.gov.cn/
+UID:63f28866-1dfe-472f-9666-ae7140cb2185@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260511T093000
+SUMMARY:中国CPI月率(%) (月度环比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 0.3 %\n预期: -0.1 %\n前值: -0.7 %\n周期: 月度环比\n详细: 中国居民消费价格指数(CPI)月率\n说明: 中国消费者物价指数（CPI）是衡量消费品和劳务价格变化的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量中国购买趋势变化和通货膨胀的重要方法。 如果指数比预期更高，则应认为人民币强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为人民币弱势/看跌\n链接: https://investing.com/economic-calendar/chinese-cpi-743\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:b0a8e864-5257-4e25-9f49-3a0f9174a25f@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260514T170000
-SUMMARY:中国未偿还贷款增长年率(%) (同比)
-DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 5.6 %\n预期: 5.8 %\n前值: 5.8 %\n周期: 同比\n详细: 中国未偿还贷款增长年率\n链接: https://investing.com/economic-calendar/chinese-outstanding-loan-growth-1081\n来源: The People Banks of China\n来源链接: http://www.pbc.gov.cn/english/
+UID:3043d0f8-4e97-4626-8167-78eb3a568977@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260511T093000
+SUMMARY:中国PPI年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 2.8 %\n预期: 1.7 %\n前值: 0.5 %\n周期: 同比\n详细: 中国生产者物价指数(PPI)年率\n说明: 中国生产者价格指数（PPI）是国内生产者所获得的消费品和劳动力的销售价格平均变动的通胀指标。 \nPPI从消费者的角度衡量价格变化。 \nPPI对以下三个生产领域进行调查： 工业、商品及加工阶段的公司。 \n当生产者向消费品和劳动力支出更多时，他们很可能将该部分增加的成本加给消费者，所以PPI被认为是消费者物价指数的领先指标。 \n如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-ppi-464\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:ab7fa11b-6fb4-4966-a3a2-6a11e0bc4cb8@investing.com
-DTSTAMP:20260524T040215Z
+UID:4f9884d8-4551-4609-9d1e-30a95ae4fa6c@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260514T170000
 SUMMARY:中国社会融资规模(人民币十亿元)
 DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 620.0 B\n预期: 1500.0 B\n前值: 5230.0 B\n周期: 四月\n链接: https://investing.com/economic-calendar/chinese-total-social-financing-1919\n来源: The Peoples Bank of China\n来源链接: http://www.pbc.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:8b828cc6-7d2e-4d82-a27e-b69bed19178a@investing.com
-DTSTAMP:20260524T040215Z
+UID:e57612f3-023f-4c58-b491-efb197b42fcc@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260514T170000
+SUMMARY:中国M2货币供应年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 8.6 %\n预期: 8.5 %\n前值: 8.5 %\n周期: 同比\n详细: 中国M2货币供应年率\n说明: M2货币存量是衡量银行账户中所有货币和流动资产的价格变化的指标。 \n货币存量被认为是通胀的一个重要指标，因为货币的增加会给汇率带来压力。 \n此数据的大部分前期已经由货币基础报告发布。 \n如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-m2-money-stock-463\n来源: The Peoples Bank of China\n来源链接: http://www.pbc.gov.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:c7851532-8b33-483e-b273-0e2ed91cbcbc@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260514T170000
+SUMMARY:中国未偿还贷款增长年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 5.6 %\n预期: 5.8 %\n前值: 5.8 %\n周期: 同比\n详细: 中国未偿还贷款增长年率\n链接: https://investing.com/economic-calendar/chinese-outstanding-loan-growth-1081\n来源: The People Banks of China\n来源链接: http://www.pbc.gov.cn/english/
+END:VEVENT
+BEGIN:VEVENT
+UID:d9840707-2336-498d-ab58-d99637619578@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260514T170000
 SUMMARY:中国新增人民币贷款(人民币)
 DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: -10.0 B\n预期: 320.0 B\n前值: 2990.0 B\n周期: 四月\n详细: 中国新增人民币贷款\n链接: https://investing.com/economic-calendar/chinese-new-loans-1060\n来源: Peoples Bank of China\n来源链接: http://www.pbc.gov.cn/publish/english/963/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:2bc4c8bf-8ab8-4bd1-a9e4-b7dc57f9e731@investing.com
-DTSTAMP:20260524T040215Z
+UID:dbebefad-2909-4988-8bce-4243b530dd59@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260515T100000
 SUMMARY:中国汤森路透/益普索主要消费者信心指数
 DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 76.34\n预期: -\n前值: 74.60\n周期: 五月\n详细: 中国汤森路透/益普索主要消费者信心指数(PCSI)\n说明: 汤森路透/益普索全球主要消费者信心指数是一个综合指数，每月通过网络对被调查国进行调查，调查包含11个问题。在美国和加拿大，每月随机选择18至64岁的主要消费者作为样本代表，其他国家的样本代表年龄为16至62岁。主要消费者指每个国家最低限度教育水平和收入之上的、可比较、标准化和加权后的群体。\n 这11个月问题聚焦消费者对以下方面的看法：\n 1. 被调查国当前的整体经济形势\n 2. 受访者所在地区当前的经济形势\n 3. 受访者对其所在地区未来六个月的经济形势的预期\n 4. 受访者对其当前财务状况的评价\n 5. 受访者对其未来六个月财务状况的预期\n 6. 购买贵重商品是否感到轻松\n 7. 购买日常生活用品是否感到轻松\n 8. 对不会失业的信心\n 9. 对有能力投资未来的信心\n 10. 是否因经济形势而失过业\n 11. 是否预计会因经济形势而失业\n链接: https://investing.com/economic-calendar/china-thomson-reuters-ipsos-pcsi-1915\n来源: Thomson Reuters/IPSOS\n来源链接: https://www.ipsos.com/en/news-and-polls/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:4cda7d1b-b715-4bd3-87ed-ef833ad56ed4@investing.com
-DTSTAMP:20260524T040215Z
+UID:79dbd1dd-0ec9-47d8-bfcd-414d20a1ad57@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260518T093000
 SUMMARY:中国70个大中城市房价指数年率(%) (同比)
 DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: -3.5 %\n预期: -\n前值: -3.4 %\n周期: 同比\n详细: 中国70个大中城市房价指数年率\n说明: 该房价指数根据常规和合规抵押贷款交易得出 – 仅计算单套房产。 该指数为加权、重复销售指数，即该指数衡量统一房产的重复销售或再融资中的平均价格变化。 该指数表示与去年同期相比的百分比变化，包括 70 座大中型城市的房价。 该指数为汤森路透所计算的加权平均值。如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/china-house-prices-752\n来源: National Bureau of Statistics\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:18c4000b-261e-48ed-a966-dcae3395ef18@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260518T100000
-SUMMARY:中国年初至今社会消费品零售总额年率(%) (同比)
-DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 1.91 %\n预期: -\n前值: 2.43 %\n周期: 同比\n详细: 中国年初至今社会消费品零售总额年率\n说明: 社会消费品零售总额是衡量剔除通胀影响后，零售业销售总额变动的指标，以及衡量消费支出的最重要的指标。整体经济活动中的大部分由消费带动。如果该指标超过预期，则利多人民币，而低于预期，则利空人民币。\n链接: https://investing.com/economic-calendar/chinese-retail-sales-ytd-1918\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
-END:VEVENT
-BEGIN:VEVENT
-UID:de003bfc-b946-4401-bf15-f7ae006628b0@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260518T100000
-SUMMARY:中国城镇固定资产投资年率-YTD (同比)
-DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: -1.6 %\n预期: 1.7 %\n前值: 1.7 %\n周期: 同比\n详细: 中国城镇固定资产投资年率-YTD\n说明: 中国固定资产投资衡量在工厂、道路、电网和地产等非农村资本投资上的总开支变动。\n\n 如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-fixed-asset-investment-460\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
-END:VEVENT
-BEGIN:VEVENT
-UID:40611a5c-0c64-441b-b789-c6093b37e8e3@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260518T100000
-SUMMARY:中国社会消费品零售总额年率(%) (同比)
-DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 0.2 %\n预期: 2.0 %\n前值: 1.7 %\n周期: 同比\n详细: 中国社会消费品零售总额年率\n说明: 中国零售销售额是根据中国各种类型和规模的零售商店（不含汽车销售商店）抽样调查中所获得的零售商所售出的所有消费品销售额变动而作出的月度衡量。 它是消费开支的重要指标，并与消费者信心有关。 \n如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-retail-sales-465\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
-END:VEVENT
-BEGIN:VEVENT
-UID:3dbf3f28-3c05-468e-a9f5-abf946a9c721@investing.com
-DTSTAMP:20260524T040215Z
+UID:19ba3d8d-a158-4a57-a45f-a8d6fcafd6e7@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260518T100000
 SUMMARY:中国国家统计局国民经济运行情况新闻发布会
 DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: -\n说明: 中国国家统计局新闻发布会发布中华人民共和国国家和地方经济、人口和社会相关统计数据。\n链接: https://investing.com/economic-calendar/nbs-press-conference-1752\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:fa105d58-c9fa-4266-adf7-a49329cea76d@investing.com
-DTSTAMP:20260524T040215Z
+UID:178deca3-4932-423c-9bc0-9952da872cce@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260518T100000
-SUMMARY:中国年初至今规模以上工业增加值年率(%) (同比)
-DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: 5.6 %\n预期: -\n前值: 6.1 %\n周期: 同比\n详细: 中国年初至今规模以上工业增加值年率\n说明: 中国规模以上工业增加值指剔除通胀影响后，中国制造业、矿业和公用事业等行业新增价值总额。如果该指标超过预期，则利多人民币，而低于预期，则利空人民币。\n链接: https://investing.com/economic-calendar/chinese-industrial-production-ytd-1916\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
+SUMMARY:中国城镇固定资产投资年率-YTD (同比)
+DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: -1.6 %\n预期: 1.7 %\n前值: 1.7 %\n周期: 同比\n详细: 中国城镇固定资产投资年率-YTD\n说明: 中国固定资产投资衡量在工厂、道路、电网和地产等非农村资本投资上的总开支变动。\n\n 如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-fixed-asset-investment-460\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:c935150a-5334-49c6-8e03-819f704e5d76@investing.com
-DTSTAMP:20260524T040215Z
+UID:7ceeaec3-f4fa-4625-84a2-1f2a33be4be9@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260518T100000
-SUMMARY:中国失业率
-DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 5.2 %\n预期: 5.3 %\n前值: 5.4 %\n周期: 四月\n说明: 中国失业率衡量报告月内已经失业并在积极寻找就业的人数占总城市劳动力的百分比。 \n如果该指标比预期更高，则应认为人民币弱势/看跌，\n而如果该指标比预期更低，则应认为人民币强势/看涨。\n链接: https://investing.com/economic-calendar/chinese-unemployment-rate-1793\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
+SUMMARY:中国年初至今社会消费品零售总额年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 1.91 %\n预期: -\n前值: 2.43 %\n周期: 同比\n详细: 中国年初至今社会消费品零售总额年率\n说明: 社会消费品零售总额是衡量剔除通胀影响后，零售业销售总额变动的指标，以及衡量消费支出的最重要的指标。整体经济活动中的大部分由消费带动。如果该指标超过预期，则利多人民币，而低于预期，则利空人民币。\n链接: https://investing.com/economic-calendar/chinese-retail-sales-ytd-1918\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:01ed8e65-01fb-416a-b03a-f089e37b3c0c@investing.com
-DTSTAMP:20260524T040215Z
+UID:2c8928c6-f4f0-4349-b77f-c79141fcf19d@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260518T100000
+SUMMARY:中国社会消费品零售总额年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: 0.2 %\n预期: 2.0 %\n前值: 1.7 %\n周期: 同比\n详细: 中国社会消费品零售总额年率\n说明: 中国零售销售额是根据中国各种类型和规模的零售商店（不含汽车销售商店）抽样调查中所获得的零售商所售出的所有消费品销售额变动而作出的月度衡量。 它是消费开支的重要指标，并与消费者信心有关。 \n如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-retail-sales-465\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:62ef9a75-2dee-4b3a-b70a-07602459bcd2@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260518T100000
 SUMMARY:中国规模以上工业增加值年率(%) (同比)
 DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 4.1 %\n预期: 6.0 %\n前值: 5.7 %\n周期: 同比\n详细: 中国规模以上工业增加值年率\n说明: 中国工业生产是衡量中国工厂、矿山和公用设施总产量的指标。 它良好反映了制造业的实力。 它可以作为制造业就业、平均收入和个人收入的领先指标。 \n如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-industrial-production-462\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:aa25afe2-227a-4c9a-9db2-f0113d21c1a9@investing.com
-DTSTAMP:20260524T040215Z
+UID:a0ee969e-c336-4d8f-9436-691c7156fa15@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260518T100000
+SUMMARY:中国年初至今规模以上工业增加值年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: 5.6 %\n预期: -\n前值: 6.1 %\n周期: 同比\n详细: 中国年初至今规模以上工业增加值年率\n说明: 中国规模以上工业增加值指剔除通胀影响后，中国制造业、矿业和公用事业等行业新增价值总额。如果该指标超过预期，则利多人民币，而低于预期，则利空人民币。\n链接: https://investing.com/economic-calendar/chinese-industrial-production-ytd-1916\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:417591e0-a93e-43ef-b40c-a913395a67f9@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260518T100000
+SUMMARY:中国失业率
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 5.2 %\n预期: 5.3 %\n前值: 5.4 %\n周期: 四月\n说明: 中国失业率衡量报告月内已经失业并在积极寻找就业的人数占总城市劳动力的百分比。 \n如果该指标比预期更高，则应认为人民币弱势/看跌，\n而如果该指标比预期更低，则应认为人民币强势/看涨。\n链接: https://investing.com/economic-calendar/chinese-unemployment-rate-1793\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:72e4287d-ea43-4a6e-a372-a3eaf133b544@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260520T090000
 SUMMARY:中国央行贷款市场报价利率(LPR)
 DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: 3.50 %\n预期: 3.50 %\n前值: 3.50 %\n周期: 五月\n详细: 中国央行5年期贷款市场报价利率(LPR)\n说明: 2019年8月20日，中国央行发布公告，决定改革完善贷款市场报价利率(LPR)形成机制。\n 根据公告，LPR乃基于报价行报价，按公开市场操作利率(主要为中期借贷便利利率，中期借贷便利简称MLF)加点形成。全国银行间同业拆借中心(NIFC)负责计算得出LPR。LPR将作为银行贷款的参考利率。\n \n 目前，LPR包含两个期限的品种，即1年期和5年期以上。LPR共有18家报价行，报价行应于每月20日(遇节假日顺延)9:00前向全国银行间同业拆借中心报价。全国银行间同业拆借中心向0.05%的整数倍就近取整计算得出LPR。\n链接: https://investing.com/economic-calendar/china-loan-prime-rate-5y-2225\n来源: People's Bank of China\n来源链接: http://www.pbc.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:db907678-5a37-4987-a408-e7747d54dd89@investing.com
-DTSTAMP:20260524T040215Z
+UID:79a12e3e-c24a-4432-ab73-54ef6c2d88b2@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260525T094000
+SUMMARY:中国实际外商直接投资年率(%)
+DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: -10.30 %\n预期: -\n前值: -7.30 %\n周期: 四月\n详细: 中国实际外商直接投资年率\n说明: 实际利用外资是指按照政府协议和合同实际所利用的金额，包括现金、物资和无形资本，如双方同意作为投资的劳务和技术。 \n如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-fdi-588\n来源: Ministry of Commerce\n来源链接: http://english.mofcom.gov.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:be67c1ba-b490-4876-8973-c8ccae112298@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260525T190000
 SUMMARY:中国实际外商直接投资年率(%)
 DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: -\n预期: -\n前值: -7.30 %\n周期: 四月\n详细: 中国实际外商直接投资年率\n说明: 实际利用外资是指按照政府协议和合同实际所利用的金额，包括现金、物资和无形资本，如双方同意作为投资的劳务和技术。 \n如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-fdi-588\n来源: Ministry of Commerce\n来源链接: http://english.mofcom.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:471bb267-f1db-4f07-9b92-158c3a8a7d1c@investing.com
-DTSTAMP:20260524T040215Z
+UID:379250b3-6012-484c-b684-e1ce5c8cb54c@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260527T093000
 SUMMARY:中国年初至今规模以上工业企业利润年率(%)
 DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: -\n预期: -\n前值: 15.5 %\n周期: 四月\n详细: 中国年初至今规模以上工业企业利润年率\n链接: https://investing.com/economic-calendar/chinese-industrial-profit-ytd-1917\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:5637f572-650f-40f5-8fa0-6847591c79c0@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260531T093000
-SUMMARY:中国官方综合PMI
-DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 50.1\n周期: 五月\n详细: 中国综合采购经理人指数(PMI)\n说明: 综合PMI是衡量制造业和服务业两大行业采购经理人活动水平的指标。该指数的读数在50.0荣枯线之上表示行业扩张，低于该数值则表示收缩。读数高于预期则利多人民币，读数低于预期则利空人民币。\n链接: https://investing.com/economic-calendar/chinese-composite-pmi-1913\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
-END:VEVENT
-BEGIN:VEVENT
-UID:f61488ee-212d-417b-b4ca-8bfdd0fdb6db@investing.com
-DTSTAMP:20260524T040215Z
+UID:e30fe935-6654-430c-a1cf-719822fcccec@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260531T093000
 SUMMARY:中国官方制造业PMI
 DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 50.3\n周期: 五月\n详细: 中国官方制造业采购经理人指数(PMI)\n说明: 中国制造业采购经理人指数（PMI）提供每个月中国制造业经济活动的早期动态。 该数据由中国物流和采购联合会（CFLP）以及中国物流信息中心（CLIC）根据国家统计局（NBS）收集的数据所编撰。利丰研究中心负责英文PMI报告的起草和发布。 每个月的调查问卷发送至全中国700多家制造企业。 其所呈现的数据根据各企业对于其采购活动和供应情况的反馈而编制。 CFLP对于数据收集程序不做陈述，也不披露任何个人企业数据。 进行决策时，该PMI应该与其他经济数据资源相比较。 如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-manufacturing-pmi-594\n来源: China Federation of Logistics & Purchasing (CFLP)\n来源链接: http://www.chinawuliu.com.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:fa2f0e1e-55b9-41d8-8896-d19b98c9a020@investing.com
-DTSTAMP:20260524T040215Z
+UID:543ddfff-0078-409c-a5a0-be8e2fd1a40c@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260531T093000
 SUMMARY:中国官方非制造业PMI
 DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 49.4\n周期: 五月\n详细: 中国官方非制造业采购经理人指数(PMI)\n链接: https://investing.com/economic-calendar/chinese-non-manufacturing-pmi-831\n来源: China Federation of Logistics and Purchasing (CFLP)\n来源链接: http://en.chinawuliu.com.cn/cflp-news/
 END:VEVENT
 BEGIN:VEVENT
-UID:60f54f00-3ffd-43ff-ac5b-98ba91fbca0f@investing.com
-DTSTAMP:20260524T040215Z
+UID:51321399-9465-4693-ac07-bba1dd029a47@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260531T093000
+SUMMARY:中国官方综合PMI
+DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 50.1\n周期: 五月\n详细: 中国综合采购经理人指数(PMI)\n说明: 综合PMI是衡量制造业和服务业两大行业采购经理人活动水平的指标。该指数的读数在50.0荣枯线之上表示行业扩张，低于该数值则表示收缩。读数高于预期则利多人民币，读数低于预期则利空人民币。\n链接: https://investing.com/economic-calendar/chinese-composite-pmi-1913\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf24f6e-bfe8-4829-9040-692684972a06@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260601T094500
 SUMMARY:中国财新制造业PMI (月度环比)
 DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 52.2\n周期: 月度环比\n详细: 中国财新制造业采购经理人指数(PMI)\n说明: 预览值在月底之前大约 6 个工作日时发布。 终值发布时，则替代预览值，随后将被下一次的预览值所替代。 采购经理人指数（PMI）是用于提供对于制造业活动的全面看法的综合指标并作为整体经济的领先指标。 如果 PMI 值低于 50.0，则表示制造业经济下跌，如果高于 50.0，则表示制造业经济扩张。如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-caixin-manufacturing-pmi-753\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
 END:VEVENT
 BEGIN:VEVENT
-UID:5f85628a-9362-44f3-8cd1-4ffe0d6f657e@investing.com
-DTSTAMP:20260524T040215Z
+UID:c8da3c8d-8152-4293-9d10-4d4c95a1fb36@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260603T094500
 SUMMARY:中国财新服务业PMI
 DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 52.6\n周期: 五月\n详细: 中国财新服务业采购经理人指数(PMI)\n说明: 发送给400多家私人服务部门公司中的采购主管的调查问卷。 该类采购主管都是经过精心挑选，以准确反映服务业经济的真实结构，通过跟踪如销售、就业、库存和价格等方面的数据获得优秀的评价，以提供最新可能的在私人部门经济真实发生的情形。 如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-caixin-services-pmi-596\n来源: S&P Global\n来源链接: https://www.pmi.spglobal.com/Public/Release/PressReleases
 END:VEVENT
 BEGIN:VEVENT
-UID:bc73c2de-0de6-48b3-8c0a-02c07f61c462@investing.com
-DTSTAMP:20260524T040215Z
+UID:67f40664-f9a3-4ff1-8f71-0ad38cd88d42@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260607T160000
 SUMMARY:中国外汇储备(美元)
 DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 3.411 T\n周期: 五月\n链接: https://investing.com/economic-calendar/chinese-fx-reserves-(usd)-866\n来源: The People's Bank of China\n来源链接: http://www.pbc.gov.cn/english/
 END:VEVENT
 BEGIN:VEVENT
-UID:f87700f9-208c-43f7-912d-74095bddc66d@investing.com
-DTSTAMP:20260524T040215Z
+UID:8af12e39-27a2-4fe0-9dc5-cce4b176c80b@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260610T002859
 SUMMARY:英国贸易帐(英镑)
 DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: -\n预期: -\n前值: 585.60 B\n周期: 五月\n详细: 中国贸易帐(人民币)\n说明: 贸易平衡是衡量进出口货物之间的价差（出口减进口）的指标。 它是国家国际收支最大的一个部分。 \n出口数据可以反映英国的经济增长。 进口数据表示国内需求。 \n外国人必须购买本国的货币以支付出口，这对于英镑可能会有很大的影响。 \n如果该指标比预期更高，则应认为英镑强势/看涨，而如果该指标比预期更低，则应认为英镑弱势/看跌。\n链接: https://investing.com/economic-calendar/china-trade-balance-(yuan-denominated)-2228\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:f5c686d3-e732-4123-b918-3b05234e7550@investing.com
-DTSTAMP:20260524T040215Z
+UID:3ec549ee-582a-427b-b3e5-40d7f0d4b60b@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260610T002900
 SUMMARY:中国进口年率-美元计价(%) (同比)
 DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 25.3 %\n周期: 同比\n详细: 中国进口年率-美元计价\n链接: https://investing.com/economic-calendar/chinese-imports-867\n来源: General Administration of Customs People Republic of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:e8379d0e-cb8d-4e5c-b199-cc11166693d7@investing.com
-DTSTAMP:20260524T040215Z
+UID:9f56e24c-31cc-4fae-8329-67d0576f6167@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260610T002900
 SUMMARY:中国出口年率-美元计价(%) (同比)
 DESCRIPTION:地区: 中国\n重要性: 2 (中)\n今值: -\n预期: -\n前值: 14.1 %\n周期: 同比\n详细: 中国出口年率-美元计价\n说明: 商品和服务的出口包括从居民到非居民的商品和服务（销售、易货、礼品和赠与）中的交易。 如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-exports-595\n来源: General Administration of Customs People Republic of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:c6e35436-15de-412d-94a3-af18beb1303d@investing.com
-DTSTAMP:20260524T040215Z
+UID:f0a0107d-dc57-43e7-a6b2-82763972da44@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260610T002907
 SUMMARY:澳大利亚进口月率(%)
 DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: -\n预期: -\n前值: 20.60 M\n周期: 五月\n详细: 中国进口—人民币计价\n说明: 根据联合国国际贸易统计建议，出口离岸价（f.o.b.）和进口到岸价（c.i.f.）通常作为一般贸易统计数据纳入海关统计。部分国家将进口以离岸价（f.o.b.）而非普遍采用的到岸价（c.i.f.）申报。采用离岸价申报进口时，进口价值将相应减少保险费和运费的金额。\n若实际数据高于预期，则对澳元构成利好；反之则构成利空。\n链接: https://investing.com/economic-calendar/china-imports-(yuan-denominated)-2227\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:07c9abeb-a437-49b4-95e3-117c64563c00@investing.com
-DTSTAMP:20260524T040215Z
+UID:b8fb066c-13db-44fd-81b7-27b9c0a08d65@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260610T002907
 SUMMARY:中国贸易帐 (美元)
 DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 84.80 B\n周期: 五月\n说明: 贸易平衡是衡量进出口货物之间的价差（出口减进口）的指标。 它是国家国际收支最大的一个部分。 \n出口数据可以反映中国的经济增长。 进口数据表示国内需求。 外国人必须购买本国的货币以支付出口，这对于人民币可能会有很大的影响。 \n因此，如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-trade-balance-466\n来源: General Administration of Customs People Republic of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:c040a5d5-99ec-49b8-b441-f97f2844106e@investing.com
-DTSTAMP:20260524T040215Z
+UID:14531be5-4e3a-461d-b40d-3b0567fb792d@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260610T002908
 SUMMARY:澳大利亚出口月率(%)
 DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: -\n预期: -\n前值: 9.80 M\n周期: 五月\n详细: 中国出口—人民币计价\n说明: 货物与服务出口包含居民向非居民进行的货物与服务交易（销售、易货、赠与或赠款）。根据联合国国际贸易统计建议，离岸价（f.o.b.）出口与到岸价（c.i.f.）进口通常作为一般贸易统计数据纳入海关统计。\n若实际数据高于预期，则对澳元构成利好；反之则构成利空。\n链接: https://investing.com/economic-calendar/china-exports-(yuan-denominated)-2226\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:9879b229-9f59-46a1-bdf3-9054321c3d60@investing.com
-DTSTAMP:20260524T040215Z
-DTSTART;TZID=Asia/Shanghai:20260610T093000
-SUMMARY:中国CPI年率(%) (同比)
-DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 1.2 %\n周期: 同比\n详细: 中国居民消费价格指数(CPI)年率\n说明: 中国消费者物价指数（CPI）是衡量消费品和劳务价格变化的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量中国购买趋势变化和通货膨胀的重要方法。 如果指数比预期更高，则应认为人民币强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为人民币弱势/看跌\n链接: https://investing.com/economic-calendar/chinese-cpi-459\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
-END:VEVENT
-BEGIN:VEVENT
-UID:b67ea2a9-b0df-46ae-9597-cc2db68bce84@investing.com
-DTSTAMP:20260524T040215Z
+UID:53100032-22dd-4e11-9b52-e0837d634dde@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260610T093000
 SUMMARY:中国PPI年率(%) (同比)
 DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 2.8 %\n周期: 同比\n详细: 中国生产者物价指数(PPI)年率\n说明: 中国生产者价格指数（PPI）是国内生产者所获得的消费品和劳动力的销售价格平均变动的通胀指标。 \nPPI从消费者的角度衡量价格变化。 \nPPI对以下三个生产领域进行调查： 工业、商品及加工阶段的公司。 \n当生产者向消费品和劳动力支出更多时，他们很可能将该部分增加的成本加给消费者，所以PPI被认为是消费者物价指数的领先指标。 \n如果该指标比预期更高，则应认为人民币强势/看涨，而如果该指标比预期更低，则应认为人民币弱势/看跌。\n链接: https://investing.com/economic-calendar/chinese-ppi-464\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:f30f700f-a579-4e4f-844e-460d75fa78f0@investing.com
-DTSTAMP:20260524T040215Z
+UID:a68c078e-c298-4622-a18a-e2723c1d26f7@investing.com
+DTSTAMP:20260525T041352Z
+DTSTART;TZID=Asia/Shanghai:20260610T093000
+SUMMARY:中国CPI年率(%) (同比)
+DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 1.2 %\n周期: 同比\n详细: 中国居民消费价格指数(CPI)年率\n说明: 中国消费者物价指数（CPI）是衡量消费品和劳务价格变化的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量中国购买趋势变化和通货膨胀的重要方法。 如果指数比预期更高，则应认为人民币强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为人民币弱势/看跌\n链接: https://investing.com/economic-calendar/chinese-cpi-459\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:5408a758-a764-48f9-98a8-ce1111f6f456@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260610T093000
 SUMMARY:中国CPI月率(%) (月度环比)
 DESCRIPTION:地区: 中国\n重要性: 3 (高)\n今值: -\n预期: -\n前值: 0.3 %\n周期: 月度环比\n详细: 中国居民消费价格指数(CPI)月率\n说明: 中国消费者物价指数（CPI）是衡量消费品和劳务价格变化的指标。 \nCPI从消费者的角度衡量价格变化。 \n它是衡量中国购买趋势变化和通货膨胀的重要方法。 如果指数比预期更高，则应认为人民币强势/看涨（通常对抗通货膨胀的方法就是提高利率，这可以吸引外资），而如果指数比预期更低，则应认为人民币弱势/看跌\n链接: https://investing.com/economic-calendar/chinese-cpi-743\n来源: National Bureau of Statistics of China\n来源链接: https://www.stats.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:8fdc7297-fccb-4273-a73e-00ad35309f94@investing.com
-DTSTAMP:20260524T040215Z
+UID:7ccbf0fe-2ae0-451e-acd8-517f78d8f1ab@investing.com
+DTSTAMP:20260525T041352Z
 DTSTART;TZID=Asia/Shanghai:20260612T100000
 SUMMARY:中国汤森路透/益普索主要消费者信心指数
 DESCRIPTION:地区: 中国\n重要性: 1 (低)\n今值: -\n预期: -\n前值: 76.34\n周期: 六月\n详细: 中国汤森路透/益普索主要消费者信心指数(PCSI)\n说明: 汤森路透/益普索全球主要消费者信心指数是一个综合指数，每月通过网络对被调查国进行调查，调查包含11个问题。在美国和加拿大，每月随机选择18至64岁的主要消费者作为样本代表，其他国家的样本代表年龄为16至62岁。主要消费者指每个国家最低限度教育水平和收入之上的、可比较、标准化和加权后的群体。\n 这11个月问题聚焦消费者对以下方面的看法：\n 1. 被调查国当前的整体经济形势\n 2. 受访者所在地区当前的经济形势\n 3. 受访者对其所在地区未来六个月的经济形势的预期\n 4. 受访者对其当前财务状况的评价\n 5. 受访者对其未来六个月财务状况的预期\n 6. 购买贵重商品是否感到轻松\n 7. 购买日常生活用品是否感到轻松\n 8. 对不会失业的信心\n 9. 对有能力投资未来的信心\n 10. 是否因经济形势而失过业\n 11. 是否预计会因经济形势而失业\n链接: https://investing.com/economic-calendar/china-thomson-reuters-ipsos-pcsi-1915\n来源: Thomson Reuters/IPSOS\n来源链接: https://www.ipsos.com/en/news-and-polls/overview
